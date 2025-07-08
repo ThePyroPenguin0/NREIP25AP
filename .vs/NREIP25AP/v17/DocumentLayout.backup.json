@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnswerAnalyzer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\chat-AI Multiple Choice Exam.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:chat-AI Multiple Choice Exam.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-qwen3-8B_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-qwen3-8B_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-qwen3-8B_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-qwen3-8B_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "chat-AI Multiple Choice Exam.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\chat-AI Multiple Choice Exam.txt",
-              "RelativeDocumentMoniker": "chat-AI Multiple Choice Exam.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\chat-AI Multiple Choice Exam.txt",
-              "RelativeToolTip": "chat-AI Multiple Choice Exam.txt",
-              "ViewState": "AgIAACYDAAAAAAAAAAAAwD0DAAA6AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "chat-qwen3-8B_2.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-qwen3-8B_2.txt",
+              "RelativeDocumentMoniker": "ChatLogs\\chat-qwen3-8B_2.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-qwen3-8B_2.txt",
+              "RelativeToolTip": "ChatLogs\\chat-qwen3-8B_2.txt",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-26T21:57:47.287Z",
+              "WhenOpened": "2025-07-08T17:20:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chat-qwen3-8B_1.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-qwen3-8B_1.txt",
+              "RelativeDocumentMoniker": "ChatLogs\\chat-qwen3-8B_1.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-qwen3-8B_1.txt",
+              "RelativeToolTip": "ChatLogs\\chat-qwen3-8B_1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-08T17:13:50.989Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "AnswerAnalyzer.py",
               "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\AnswerAnalyzer.py",
               "RelativeToolTip": "AnswerAnalyzer.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-06-26T21:55:09.429Z",
               "EditorCaption": ""

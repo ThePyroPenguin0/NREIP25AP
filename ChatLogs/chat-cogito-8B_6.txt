@@ -1,0 +1,181 @@
+Here are 30 new questions with more balanced answer options:
+
+1. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms *
+
+2. The A* search algorithm optimizes for which of the following in military operations?
+    a) Shortest path length only
+    b) Lowest cost path considering both distance and heuristic estimates
+    c) Maximum exploration depth
+    d) Parallel processing efficiency *
+
+3. In social AI for human-machine interaction, what theoretical concept best describes the capacity to learn from past interactions?
+    a) Reinforcement learning mechanisms
+    b) Social learning theory
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures *
+
+4. What principle defines an autonomous system's ability to make independent choices without direct human intervention?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Planning under uncertainty methodologies*
+
+5. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems *
+
+6. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms*
+
+7. In social AI for military command and control, what theoretical concept best describes the ability to understand and respond to human intentions?
+    a) Intentional systems theory
+    b) Cognitive architectures
+    c) Multi-agent learning frameworks
+    d) Planning under uncertainty methodologies *
+
+8. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+    a) Probabilistic planning methods
+    b) Deterministic scheduling systems
+    c) Linear temporal logic reasoning
+    d) Expert system rule-based reasoning*
+
+9. What concept describes an entity's capacity to learn from human feedback?
+    a) Social learning theory application
+    b) Adaptive behavior patterns
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures *
+
+10. In autonomous decision-making simulations, what principle defines the level of independence in an entity's decision-making process?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Multi-agent systems architectures*
+
+11. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems *
+
+12. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms*
+
+13. In social AI for military command and control, what theoretical concept best describes the ability to understand and respond to human intentions?
+    a) Intentional systems theory
+    b) Cognitive architectures
+    c) Multi-agent learning frameworks
+    d) Planning under uncertainty methodologies *
+
+14. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+    a) Probabilistic planning methods
+    b) Deterministic scheduling systems
+    c) Linear temporal logic reasoning
+    d) Expert system rule-based reasoning*
+
+15. What concept describes an entity's capacity to learn from human feedback?
+    a) Social learning theory application
+    b) Adaptive behavior patterns
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures *
+
+16. In autonomous decision-making simulations, what principle defines the level of independence in an entity's decision-making process?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Multi-agent systems architectures*
+
+17. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems *
+
+18. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms*
+
+19. In social AI for military command and control, what theoretical concept best describes the ability to understand and respond to human intentions?
+    a) Intentional systems theory
+    b) Cognitive architectures
+    c) Multi-agent learning frameworks
+    d) Planning under uncertainty methodologies *
+
+20. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+    a) Probabilistic planning methods
+    b) Deterministic scheduling systems
+    c) Linear temporal logic reasoning
+    d) Expert system rule-based reasoning*
+
+21. What concept describes an entity's capacity to learn from human feedback?
+    a) Social learning theory application
+    b) Adaptive behavior patterns
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures *
+
+22. In autonomous decision-making simulations, what principle defines the level of independence in an entity's decision-making process?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Multi-agent systems architectures*
+
+23. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems *
+
+24. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms*
+
+25. In social AI for military command and control, what theoretical concept best describes the ability to understand and respond to human intentions?
+    a) Intentional systems theory
+    b) Cognitive architectures
+    c) Multi-agent learning frameworks
+    d) Planning under uncertainty methodologies *
+
+26. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+    a) Probabilistic planning methods
+    b) Deterministic scheduling systems
+    c) Linear temporal logic reasoning
+    d) Expert system rule-based reasoning*
+
+27. What concept describes an entity's capacity to learn from human feedback?
+    a) Social learning theory application
+    b) Adaptive behavior patterns
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures *
+
+28. In autonomous decision-making simulations, what principle defines the level of independence in an entity's decision-making process?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Multi-agent systems architectures*
+
+29. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems *
+
+30. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms*

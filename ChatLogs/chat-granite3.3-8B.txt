@@ -1,0 +1,179 @@
+1. In AI, which of the following is a method for solving problems without human intervention?
+   a) Rule-based systems  
+   b) Expert systems  
+   c) Heuristic search  
+   d) All of the above *
+
+2. Which AI technique is used to mimic human language understanding and generation in computers?
+   a) Knowledge representation  
+   b) Natural Language Processing (NLP)  
+   c) Logical reasoning  
+   d) Probabilistic reasoning *
+
+3. In agent-based systems, which of the following is an approach for making decisions when perfect information is not available?
+   a) Perfect information games  
+   b) Heuristic search  
+   c) Supervised learning  
+   d) Unsupervised learning *
+
+4. Which AI concept involves using probabilistic methods to deal with uncertainty and incomplete information?
+   a) Logical reasoning  
+   b) Probabilistic reasoning  
+   c) Deterministic algorithms  
+   d) None of the above *
+
+5. What type of AI focuses on creating systems that can autonomously perceive their environment and take actions to achieve specific goals?
+   a) Reactive machines  
+   b) Limited memory  
+   c) Theory of mind  
+   d) Social artificial intelligence *
+
+6. Which of the following is NOT a classical AI search algorithm?
+   a) Depth-first search  
+   b) Breadth-first search  
+   c) Genetic algorithms  
+   d) A* Search *
+
+7. In wargame simulations, which AI technique is used to model and analyze military operations?
+   a) Expert systems  
+   b) Game theory  
+   c) Operational research  
+   d) All of the above *
+
+8. Which of the following is an example of a robot mission planning problem?
+   a) Pathfinding in a static environment  
+   b) Coordinating multiple robots for collaboration  
+   c) Real-time obstacle avoidance  
+   d) All of the above *
+
+9. In knowledge representation, which formalism uses symbols to represent knowledge explicitly?
+   a) Semantic networks  
+   b) Rule-based systems  
+   c) Frames  
+   d) All of the above *
+
+10. Which AI technique is used for simulating human decision-making under uncertainty in complex environments like military operations?
+    a) Markov decision processes  
+    b) Reinforcement learning  
+    c) Supervised learning  
+    d) Unsupervised learning *
+
+11. In artificial intelligence, what does the acronym 'NLP' stand for?
+    a) Neural Language Processing  
+    b) Natural Language Processing *  
+    c) Logical Language Processing  
+    d) Probabilistic Language Processing 
+
+12. Which of the following is an example of a heuristic search algorithm?
+    a) Best-first search  
+    b) Greedy best-first search  
+    c) Hill climbing  
+    d) All of the above *
+
+13. In social artificial intelligence, which concept focuses on the interaction between AI systems and humans or other AI agents in societal contexts?
+    a) Multi-agent systems  
+    b) Social norms  
+    c) Cooperation and competition  
+    d) All of the above *
+
+14. Which classical AI planning algorithm uses an explicit representation of the world to search for a sequence of actions leading from the initial state to the goal state?
+    a) Forward chaining  
+    b) Reverse chaining  
+    c) STRIPS planning  
+    d) None of the above *
+
+15. What is the primary goal of agent-based systems in AI?
+    a) To create systems that can autonomously learn and adapt  
+    b) To model complex systems with interacting agents  
+    c) To develop intelligent systems capable of reasoning about their own behavior  
+    d) All of the above *
+
+16. In the context of military examples, which AI technique can be used to simulate tactical decision-making in war games or training exercises?
+    a) Expert systems  
+    b) Operational research  
+    c) Simulation and modeling  
+    d) All of the above *
+
+17. Which of the following is NOT a component of knowledge representation in AI?
+    a) Facts  
+    b) Rules  
+    c) Ontologies  
+    d) Genetic algorithms *
+
+18. In AI, what does 'A*' stand for in the A* search algorithm?
+    a) Absolute best  
+    b) Adaptive heuristic  
+    c) Approximate optimality  
+    d) Actual cost function *
+
+19. Which AI technique is used to analyze and understand patterns or trends from large datasets?
+    a) Supervised learning  
+    b) Unsupervised learning  
+    c) Reinforcement learning  
+    d) All of the above *
+
+20. What does 'Turing Test' refer to in the context of artificial intelligence?
+    a) A benchmark for evaluating machine intelligence  
+    b) A method for training AI agents using reinforcement learning  
+    c) An algorithm for solving complex military logistics problems  
+    d) A technique for generating synthetic data *
+
+21. Which of the following is NOT a type of logical reasoning in AI?
+    a) Deductive reasoning  
+    b) Inductive reasoning  
+    c) Abductive reasoning  
+    d) Epsilon-delta reasoning *
+
+22. What is the primary goal of probabilistic reasoning in AI?
+    a) To model and handle uncertainty in decision making  
+    b) To optimize search algorithms for efficiency  
+    c) To learn patterns from unlabeled data  
+    d) To simulate human language understanding *
+
+23. In military applications, which AI technique is often employed to enable autonomous decision-making in unpredictable environments?
+    a) Rule-based systems  
+    b) Heuristic search  
+    c) Reinforcement learning  
+    d) All of the above *
+
+24. Which AI concept involves using a network structure to represent knowledge and relationships between concepts?
+    a) Semantic networks  
+    b) Rule-based systems  
+    c) Frames  
+    d) All of the above *
+
+25. In agent-based systems, which approach enables agents to communicate with each other to coordinate actions or share information?
+    a) Centralized control  
+    b) Decentralized control  
+    c) Hierarchical control  
+    d) None of the above *
+
+26. Which of the following is an example of a reactive machine in AI?
+    a) Deep Blue chess engine  
+    b) Self-driving cars  
+    c) Virtual personal assistants (e.g., Siri, Alexa)  
+    d) All of the above *
+
+27. In AI, which technique is used for learning from labeled data to make predictions or classifications?
+    a) Unsupervised learning  
+    b) Supervised learning *  
+    c) Reinforcement learning  
+    d) None of the above 
+
+28. What does 'Fuzzy Logic' refer to in artificial intelligence?
+    a) A method for dealing with imprecise or uncertain data  
+    b) An algorithm for optimizing search spaces  
+    c) A technique for simulating human reasoning  
+    d) All of the above *
+
+29. In social artificial intelligence, which concept focuses on the interactions between AI systems and their environments to understand and adapt societal norms?
+    a) Social learning  
+    b) Norm-aware agents  
+    c) Multiagent systems with emergent behavior  
+    d) All of the above *
+
+30. Which classical AI technique is used to represent knowledge using a hierarchical structure of concepts, where each concept (frame) has associated slots and values?
+    a) Semantic networks  
+    b) Frames *  
+    c) Rule-based systems  
+    d) Ontologies

@@ -1,0 +1,179 @@
+1. What is the primary goal of knowledge representation in a military simulation?  
+   a) To estimate enemy movement patterns  
+   b) To encode tactical data in a structured format *  
+   c) To prioritize the shortest path to safety  
+   d) To analyze historical enemy behavior  
+
+2. How would a commander determine if a unit’s position is safe in a simulation?  
+   a) Estimating the likelihood of enemy detection  
+   b) Checking if all required conditions (e.g., no mines, no patrols) are satisfied *  
+   c) Finding the shortest path to safety using heuristics  
+   d) Analyzing past enemy behavior patterns  
+
+3. Which method is best for predicting enemy attacks based on uncertain data?  
+   a) Using logical rules to predict outcomes  
+   b) Applying probabilistic techniques to update beliefs *  
+   c) Following pre-programmed rules for decision-making  
+   d) Coordinating units through shared databases  
+
+4. What is the key advantage of heuristic search in a military scenario?  
+   a) It guarantees the optimal solution  
+   b) It prioritizes speed over accuracy *  
+   c) It uses exact mathematical models  
+   d) It relies on centralized command  
+
+5. Which strategy allows units to adapt to real-time feedback from other units?  
+   a) Centralized command structures  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data  
+
+6. What is the main function of Bayesian networks in a military context?  
+   a) To calculate the shortest possible route  
+   b) To update beliefs about enemy locations *  
+   c) To prioritize resource allocation  
+   d) To track historical patterns of movement  
+
+7. How does probabilistic reasoning differ from logical reasoning in military planning?  
+   a) It guarantees exact outcomes  
+   b) It accounts for uncertainty in enemy behavior *  
+   c) It relies on fixed rules  
+   d) It prioritizes speed over accuracy  
+
+8. What is the primary purpose of knowledge representation in AI systems?  
+   a) To store raw data  
+   b) To encode tactical data in a structured format *  
+   c) To predict future events  
+   d) To analyze historical trends  
+
+9. Which method is most effective for coordinating multiple units in real-time?  
+   a) Centralized command systems  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data  
+
+10. What is the main benefit of heuristic search in military simulations?  
+    a) It guarantees the optimal solution  
+    b) It prioritizes speed over accuracy *  
+    c) It uses exact mathematical models  
+    d) It relies on centralized command
+
+11. Which technique is used to update beliefs about enemy locations based on uncertain data?  
+   a) Rule-based decision systems  
+   b) Probabilistic techniques to update beliefs *  
+   c) Fixed pathfinding algorithms  
+   d) Historical trend analysis  
+
+12. What is the main advantage of heuristic search in military planning?  
+   a) It guarantees the optimal solution  
+   b) It prioritizes speed over accuracy *  
+   c) It uses exact mathematical models  
+   d) It relies on centralized command  
+
+13. How do units adapt to real-time feedback from other units in a simulation?  
+   a) Through fixed decision trees  
+   b) Through decentralized learning and adaptation *  
+   c) By following pre-programmed rules  
+   d) By analyzing historical data  
+
+14. What is the primary function of Bayesian networks in a military context?  
+   a) To calculate the shortest possible route  
+   b) To update beliefs about enemy locations *  
+   c) To prioritize resource allocation  
+   d) To track historical patterns of movement  
+
+15. Which method allows units to adjust strategies based on immediate environmental changes?  
+   a) Centralized command systems  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data  
+
+16. What is the main benefit of knowledge representation in AI systems?  
+   a) To store raw data  
+   b) To encode tactical data in a structured format *  
+   c) To predict future events  
+   d) To analyze historical trends  
+
+17. How does probabilistic reasoning differ from logical reasoning in military planning?  
+   a) It guarantees exact outcomes  
+   b) It accounts for uncertainty in enemy behavior *  
+   c) It relies on fixed rules  
+   d) It prioritizes speed over accuracy  
+
+18. Which strategy enables units to operate independently while still coordinating effectively?  
+   a) Centralized command structures  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data  
+
+19. What is the key purpose of heuristic search in resource allocation?  
+   a) To guarantee the optimal allocation  
+   b) To prioritize speed over accuracy *  
+   c) To use exact mathematical models  
+   d) To rely on centralized command  
+
+20. Which technique is used to model uncertainty in enemy movement patterns?  
+   a) Rule-based decision systems  
+   b) Probabilistic techniques to update beliefs *  
+   c) Fixed pathfinding algorithms  
+   d) Historical trend analysis  
+
+21. How do units avoid conflicts when operating in overlapping zones?  
+   a) Through fixed decision trees  
+   b) Through decentralized learning and adaptation *  
+   c) By following pre-programmed rules  
+   d) By analyzing historical data  
+
+22. What is the primary function of Bayesian networks in a military simulation?  
+   a) To calculate the shortest possible route  
+   b) To update beliefs about enemy locations *  
+   c) To prioritize resource allocation  
+   d) To track historical patterns of movement  
+
+23. Which method allows for dynamic adjustments to tactics in real-time?  
+   a) Centralized command systems  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data  
+
+24. What is the main benefit of knowledge representation in AI systems?  
+   a) To store raw data  
+   b) To encode tactical data in a structured format *  
+   c) To predict future events  
+   d) To analyze historical trends  
+
+25. How does probabilistic reasoning help in military decision-making?  
+   a) It guarantees exact outcomes  
+   b) It accounts for uncertainty in enemy behavior *  
+   c) It relies on fixed rules  
+   d) It prioritizes speed over accuracy  
+
+26. Which strategy enables units to adapt to changing environments without centralized control?  
+   a) Centralized command structures  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data  
+
+27. What is the key advantage of heuristic search in pathfinding?  
+   a) It guarantees the optimal path  
+   b) It prioritizes speed over accuracy *  
+   c) It uses exact mathematical models  
+   d) It relies on centralized command  
+
+28. How do units coordinate when facing unexpected threats?  
+   a) Through fixed decision trees  
+   b) Through decentralized learning and adaptation *  
+   c) By following pre-programmed rules  
+   d) By analyzing historical data  
+
+29. What is the primary function of Bayesian networks in a military context?  
+   a) To calculate the shortest possible route  
+   b) To update beliefs about enemy locations *  
+   c) To prioritize resource allocation  
+   d) To track historical patterns of movement  
+
+30. Which technique allows for real-time adjustments to strategies based on environmental feedback?  
+   a) Centralized command systems  
+   b) Decentralized learning and adaptation *  
+   c) Fixed decision trees  
+   d) Predictive modeling based on historical data

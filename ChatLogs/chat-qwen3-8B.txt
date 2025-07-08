@@ -1,0 +1,180 @@
+
+1. Which of the following best describes **knowledge representation** in a military AI system?  
+a) A method to predict enemy movements using probabilities  
+b) A structured way to encode information about units, terrain, and objectives *  
+c) A technique to optimize search paths using heuristics  
+d) A system for coordinating multiple agents in real-time  
+
+2. In a military simulation, how would **logical reasoning** be applied to determine if a unit’s position is safe?  
+a) By calculating the probability of enemy detection  
+b) By evaluating if all conditions (e.g., no mines, no patrols) are met *  
+c) By using a heuristic to find the shortest path to safety  
+d) By analyzing historical data on enemy behavior  
+
+3. Which AI technique is most suitable for predicting the likelihood of an enemy attack based on weather and terrain?  
+a) Logical reasoning  
+b) Probabilistic reasoning *  
+c) Heuristic search  
+d) Agent-based systems  
+
+4. When planning a route through a hostile area, which **heuristic search** algorithm would prioritize minimizing risk?  
+a) Depth-first search  
+b) Breadth-first search  
+c) A-star with terrain cost as the heuristic *  
+d) Genetic algorithms  
+
+5. In a **knowledge representation** system, what would be the most effective way to model a tank’s capabilities?  
+a) A list of its weapons and armor  
+b) An ontology linking "tank" to "armor," "firepower," and "mobility" *  
+c) A probabilistic model of its survival chances  
+d) A search tree of possible maneuvers  
+
+6. How does **logical reasoning** help a commander decide whether to launch an attack?  
+a) By calculating the probability of enemy counterattacks  
+b) By evaluating if all required conditions (e.g., supply lines, weather) are met *  
+c) By simulating multiple attack paths  
+d) By analyzing past battles for patterns  
+
+7. Which **probabilistic reasoning** method is used to update the likelihood of an enemy’s location after new sensor data is received?  
+a) Decision trees  
+b) Bayesian networks *  
+c) Genetic algorithms  
+d) Heuristic search  
+
+8. In a military AI system, what is the primary role of **heuristic search**?  
+a) To guarantee the optimal solution  
+b) To find a "good enough" solution quickly *  
+c) To model complex social interactions  
+d) To represent knowledge in a structured format  
+
+9. Which **agent-based system** concept allows multiple units to coordinate without centralized control?  
+a) Centralized command hierarchy  
+b) Decentralized swarm behavior *  
+c) Hierarchical task networks  
+d) Rule-based decision trees  
+
+10. How does **social AI** enable communication between allied units in a simulation?  
+a) By using a shared database of enemy positions  
+b) By implementing protocols for message passing and coordination *  
+c) By prioritizing individual unit goals over team goals  
+d) By using probabilistic models of enemy behavior  
+
+11. What is the primary purpose of **knowledge representation** in a military AI system?  
+a) To predict future events  
+b) To encode information in a usable format *  
+c) To optimize search algorithms  
+d) To simulate enemy decision-making  
+
+12. Which **logical reasoning** method would a commander use to deduce if a hidden enemy position is viable?  
+a) Probabilistic analysis  
+b) Deductive reasoning (e.g., "If the position is hidden, then it is not detectable") *  
+c) Heuristic pathfinding  
+d) Agent-based coordination  
+
+13. In **probabilistic reasoning**, what does a Bayesian network represent?  
+a) A sequence of decisions  
+b) A set of conditional probabilities between variables *  
+c) A search space for optimal paths  
+d) A logical structure for rule-based decisions  
+
+14. When planning a mission, which **heuristic search** method would prioritize minimizing exposure to enemy fire?  
+a) A-star with distance as the heuristic  
+b) A-star with risk as the heuristic *  
+c) Depth-first search  
+d) Genetic algorithms  
+
+15. How does **agent-based systems** differ from centralized command in military operations?  
+a) Agents make decisions independently *  
+b) Agents rely solely on pre-programmed rules  
+c) Agents cannot adapt to new information  
+d) Agents require constant human oversight  
+
+16. Which **knowledge representation** technique would best model the relationship between a soldier’s rank and their authority?  
+a) A list of ranks  
+b) An ontology linking "rank" to "authority" and "responsibilities" *  
+c) A probabilistic model  
+d) A search tree  
+
+17. In **logical reasoning**, which of the following is an example of deductive reasoning?  
+a) Estimating the probability of an enemy attack  
+b) If a unit is in a safe zone, then it is not under fire *  
+c) Using heuristics to choose the best path  
+d) Simulating enemy behavior based on past patterns  
+
+18. Which **probabilistic reasoning** method is used to update the likelihood of a target being a threat after a sensor detects movement?  
+a) A-star search algorithm  
+b) Bayesian inference *  
+c) Genetic algorithms  
+d) Rule-based systems  
+
+19. When using **heuristic search** to plan a route through a minefield, which heuristic would be most effective?  
+a) Distance to destination  
+b) Risk of encountering mines *  
+c) Number of waypoints  
+d) Time to complete the mission  
+
+20. In a **social AI** simulation, how do units avoid collisions while moving through a battlefield?  
+a) By following a centralized command  
+b) By using decentralized communication protocols *  
+c) By prioritizing individual goals over team goals  
+d) By ignoring other units’ positions  
+
+21. What is the primary challenge in **knowledge representation** for a military AI system?  
+a) Ensuring the system can adapt to new information  
+b) Encoding information in a way that is both comprehensive and efficient *  
+c) Predicting enemy behavior accurately  
+d) Optimizing search algorithms for speed  
+
+22. How does **logical reasoning** help in verifying the validity of a military order?  
+a) By calculating probabilities of success  
+b) By checking if all conditions in the order are met *  
+c) By simulating enemy countermeasures  
+d) By prioritizing individual unit goals  
+
+23. In **probabilistic reasoning**, what is the role of prior knowledge?  
+a) To ignore uncertain information  
+b) To update beliefs based on new evidence *  
+c) To replace all other reasoning methods  
+d) To ensure deterministic outcomes  
+
+24. Which **heuristic search** method is best suited for finding the fastest route through a dynamic battlefield?  
+a) A-star with static terrain data  
+b) A-star with real-time terrain updates *  
+c) Genetic algorithms  
+d) Depth-first search  
+
+25. How does **agent-based systems** support decentralized decision-making in a military operation?  
+a) By requiring all agents to follow the same rules  
+b) By allowing agents to make independent decisions based on local information *  
+c) By centralizing all decisions in a single command center  
+d) By eliminating the need for communication  
+
+26. In **knowledge representation**, what would be the most effective way to model the relationship between a tank and its crew?  
+a) A list of tank specifications  
+b) An ontology linking "tank" to "crew," "armor," and "weapons" *  
+c) A probabilistic model of crew performance  
+d) A search tree of possible maneuvers  
+
+27. Which **logical reasoning** technique is used to determine if a unit’s position is vulnerable to snipers?  
+a) Probabilistic analysis  
+b) Deductive reasoning (e.g., "If the position is exposed, then it is vulnerable") *  
+c) Heuristic search for cover  
+d) Agent-based coordination  
+
+28. In **probabilistic reasoning**, what does a belief network represent?  
+a) A sequence of decisions  
+b) A set of interconnected variables and their probabilities *  
+c) A search space for optimal paths  
+d) A logical structure for rule-based decisions  
+
+29. How does **heuristic search** help in prioritizing objectives during a military operation?  
+a) By guaranteeing the optimal solution  
+b) By finding a "good enough" solution quickly *  
+c) By modeling complex social interactions  
+d) By representing knowledge in a structured format  
+
+30. Which **social AI** concept allows units to adapt their strategies based on real-time feedback from other units?  
+a) Centralized command  
+b) Decentralized learning and adaptation *  
+c) Rule-based decision trees  
+d) Probabilistic models of enemy behavior

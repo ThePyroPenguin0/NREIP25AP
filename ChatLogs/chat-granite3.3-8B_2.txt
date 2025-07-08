@@ -1,0 +1,179 @@
+1. In AI, what is the primary distinction between forward chaining and backward chaining in rule-based expert systems?
+   a) Forward chaining starts from data and moves towards rules; backward chaining starts from rules and moves towards data.  
+   b) Both methods begin with the same set of premises and apply rules differently to derive conclusions.  
+   c) Forward chaining is used for uncertain reasoning, while backward chaining focuses on deterministic logic.  
+   d) Backward chaining involves applying rules to generate new facts, whereas forward chaining uses these facts to infer more specific conclusions. *
+
+2. Which of the following best describes the purpose of A* search algorithm in AI?
+   a) To find the shortest path between two nodes in an unweighted graph using breadth-first search.  
+   b) To efficiently explore the state space by combining heuristic information with actual costs, prioritizing paths likely to reach the goal faster. *  
+   c) To discover all possible solutions for a given problem without considering any specific goal.  
+   d) To implement genetic algorithms for optimization problems in AI.
+
+3. In natural language processing (NLP), what does "parse tree" refer to?
+   a) A hierarchical structure representing syntactic relationships among words in a sentence. *  
+   b) A graphical representation of semantic relationships between concepts in a text.  
+   c) A data structure for storing and retrieving words and their meanings from a lexicon.  
+   d) A method for automatically generating human-like responses in conversation.
+
+4. Consider the following AI technique: Given incomplete or uncertain information, it employs probabilistic methods to make predictions or decisions, often used in weather forecasting, speech recognition, and medical diagnosis. Which technique is being described?
+   a) Reinforcement learning  
+   b) Markov decision processes  
+   c) Bayesian networks *  
+   d) Support vector machines
+
+5. In robotics and AI, what does "SLAM" stand for, and what problem does it address in autonomous navigation?
+   a) Simultaneous Localization and Mapping; addressing the challenge of creating maps while navigating unknown environments. *  
+   b) Sensor-based Localisation and Action; focusing on integrating sensor data for precise robot positioning.  
+   c) Systematic Landmark Analysis; employed for identifying landmarks in a map for navigation purposes.  
+   d) Sequential Learning and Adaptation; used for enabling robots to learn from experiences and adapt their behavior accordingly.
+
+6. In AI, which technique is primarily concerned with finding optimal or near-optimal solutions by iteratively improving an initial solution?
+   a) Genetic algorithms  
+   b) Simulated annealing  
+   c) Hill climbing  
+   d) All of the above * 
+
+7. In social artificial intelligence, which concept deals with AI agents learning from and adapting to social interactions within a group or society?
+   a) Social learning  
+   b) Norm-aware agents  
+   c) Multiagent systems with emergent behavior *  
+   d) Swarm intelligence
+
+8. In the field of robotics and AI, which modeling approach represents individual entities (agents) and their interactions to model complex adaptive systems?
+   a) Top-down, rule-based modeling  
+   b) Bottom-up, emergent behavior simulation *  
+   c) Hybrid, combining centralized and decentralized control  
+   d) Symbolic, focusing on explicit knowledge representation
+
+9. In AI planning, which method explicitly represents the world as a set of facts and uses forward or backward chaining to derive new facts from existing ones?
+   a) STRIPS planning  
+   b) Goal-oriented planning  
+   c) Hierarchical task network (HTN) planning  
+   d) Planning with metrics *
+
+10. In social AI, which technique focuses on designing intelligent agents capable of negotiating, cooperating, or competing with other agents in multiagent systems?
+   a) Game theory  
+   b) Flocking algorithms  
+   c) Reinforcement learning  
+   d) All of the above * 
+
+11. In military simulations, which AI technique is often used to model and analyze combat scenarios by simulating the behavior of various units and their interactions?
+   a) Operational research  
+   b) Discrete event simulation  
+   c) Agent-based modeling  
+   d) All of the above *
+
+12. Consider the following statement: "Fuzzy logic enables dealing with imprecise or uncertain data by allowing partial membership in classes rather than strict classification." Identify the key aspect highlighted in this description.
+   a) Handling vague or subjective information using triangular or trapezoidal membership functions. *  
+   b) Utilizing genetic algorithms to optimize search for precise solutions.  
+   c) Applying neural networks with backpropagation for learning complex patterns from data.  
+   d) Employing crisp sets and definitive rules for decision-making in deterministic environments.
+
+13. In AI, which of the following is NOT a type of logical reasoning commonly used?
+   a) Deductive reasoning  
+   b) Inductive reasoning  
+   c) Abductive reasoning  
+   d) Epsilon-delta reasoning * 
+
+14. In knowledge representation, which method organizes concepts as nodes and relationships between them as edges in a graph structure to capture semantic information?
+   a) Semantic networks  
+   b) Rule-based systems  
+   c) Frames  
+   d) Ontologies * 
+
+15. In AI, which technique is used to simulate the behavior of large populations of simple agents interacting locally, leading to complex global patterns or emergent behaviors?
+   a) Swarm intelligence  
+   b) Cellular automata  
+   c) Artificial neural networks  
+   d) Genetic algorithms * 
+
+16. In reinforcement learning, what term describes an agent's ability to learn optimal policies by receiving rewards or penalties for its actions in an environment?
+   a) Exploration-exploitation tradeoff  
+   b) Temporal difference learning  
+   c) Q-learning  
+   d) All of the above * 
+
+17. In AI planning, which method uses an explicit representation of the world to search for a sequence of actions leading from the initial state to the goal state, often assuming discrete, well-defined states?
+   a) STRIPS planning  
+   b) Goal-oriented planning  
+   c) Hierarchical task network (HTN) planning  
+   d) Planning with metrics * 
+
+18. In social AI, which concept focuses on designing AI systems that can understand and comply with human social norms and values in their interactions?
+   a) Norm-aware agents  
+   b) Social learning  
+   c) Cooperation and competition  
+   d) All of the above * 
+
+19. Which of the following is NOT an example of a heuristic search algorithm commonly used in AI?
+   a) Best-first search  
+   b) Greedy best-first search  
+   c) Hill climbing  
+   d) Monte Carlo Tree Search (MCTS) * 
+
+20. In military applications, which AI technique can be employed to simulate tactical decision-making by modeling and analyzing possible actions and their consequences?
+   a) Expert systems  
+   b) Operational research  
+   c) Simulation and modeling  
+   d) All of the above * 
+
+21. Consider the following statement: "Genetic algorithms are inspired by natural evolution, using operations like selection, crossover, and mutation to iteratively improve solutions." Identify the key process being described:
+   a) Initial population generation  
+   b) Fitness function evaluation  
+   c) Selection and reproduction (parent selection and crossover)  
+   d) Mutation *
+
+22. In NLP, which technique is employed to convert written or spoken language into a structured format that computers can understand and process?
+   a) Part-of-speech tagging  
+   b) Named entity recognition  
+   c) Parsing *  
+   d) All of the above
+
+23. Given these AI techniques: Supervised learning, Unsupervised learning, Reinforcement learning, which one is primarily concerned with learning from interactions within an environment to maximize cumulative rewards?
+   a) Supervised learning  
+   b) Unsupervised learning  
+   c) Reinforcement learning *  
+   d) Support vector machines
+
+24. In agent-based systems, which approach enables agents to communicate with each other using message passing and coordinate actions to achieve common goals or compete against one another?
+   a) Centralized control  
+   b) Decentralized control *  
+   c) Hierarchical control  
+   d) None of the above
+
+25. In AI, what term describes a system's ability to adapt its behavior based on experience or learning from data without explicit programming?
+   a) Rule-based systems  
+   b) Expert systems  
+   c) Machine learning *  
+   d) Genetic algorithms
+
+26. Which of the following is NOT a classical AI search algorithm used for finding paths in graphs?
+   a) Breadth-first search  
+   b) Depth-first search  
+   c) Iterative deepening depth-first search *  
+   d) Monte Carlo Tree Search (MCTS)
+
+27. In NLP, what does "parse tree" refer to when discussing syntactic structures of sentences?
+   a) A hierarchical structure representing parts of speech in a sentence.  
+   b) A graphical representation of semantic relationships between concepts in a text.  
+   c) A data structure for storing and retrieving words and their meanings from a lexicon.  
+   d) A method for automatically generating human-like responses in conversation. *
+
+28. Consider the following AI technique: Given incomplete or uncertain information, it employs probabilistic graphical models to represent and reason about relationships between variables. Which technique is being described?
+   a) Hidden Markov Models  
+   b) Conditional Random Fields  
+   c) Bayesian networks  
+   d) All of the above
+
+29. In AI planning, which method combines hierarchical task decomposition with the use of operator schemas to plan actions and achieve goals more efficiently?
+   a) STRIPS planning  
+   b) Goal-oriented planning  
+   c) Hierarchical task network (HTN) planning *  
+   d) Planning with metrics
+
+30. In social AI, which concept focuses on understanding, simulating, and modeling human intelligence to enable machines to interact with humans more effectively?
+   a) Social learning  
+   b) Norm-aware agents  
+   c) Cognitive architectures  
+   d) All of the above *

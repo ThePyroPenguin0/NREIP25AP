@@ -1,0 +1,173 @@
+1. Which best describes AI's core goal?
+a) Mimicking human physical abilities.
+b) Creating systems performing human-like tasks.*
+c) Developing complex math algorithms.
+d) Automating repetitive manual labor.
+
+2. Knowledge representation involves:
+a) Designing efficient computer hardware.
+b) Encoding information computers can use.*
+c) Writing complex software code.
+d) Optimizing network infrastructure.
+
+3. A "fact" is best described as:
+a) A statement assumed to be true.*
+b) A relationship between concepts.
+c) Instructions for a computer.
+d) A visual data representation.
+
+4. Knowledge representation uses:
+a) Only binary code.
+b) Rules like "If...then..." statements.*
+c) Unstructured data storage.
+d) Statistical analysis only.
+
+5. Logical reasoning relies on:
+a) Statistics and probabilities.
+b) Mathematical calculations.*
+c) Formal logic and deduction.
+d) Machine learning algorithms.
+
+6. Deductive reasoning involves:
+a) Drawing conclusions from premises.*
+b) Discovering patterns in data.
+c) Making predictions based on events.
+d) Finding the most likely outcome.
+
+7. Inductive reasoning involves:
+a) General conclusions from specific observations.*
+b) Applying pre-defined rules.
+c) Using mathematical formulas.
+d) Storing data in a database.
+
+8. Probabilistic reasoning deals with:
+a) Certainty and absolute truth.
+b) Uncertainty and likelihood.*
+c) Complex mathematical equations.
+d) Physical simulations.
+
+9. Bayes' Theorem is key in:
+a) Deductive reasoning.
+b) Heuristic search.
+c) Probabilistic reasoning.*
+d) Agent-based systems.
+
+10. A heuristic is:
+a) A guaranteed solution.
+b) A good, but not optimal, solution.*
+c) A complex algorithm.
+d) Always correct rules.
+
+11. Heuristic search is used when:
+a) The search space is very small.
+b) An optimal solution is guaranteed.*
+c) Speed is more important than optimality.
+d) Problems have simple formulas.
+
+12. A heuristic example is:
+a) Complete search of all paths.
+b) Always choosing the shortest path.*
+c) Estimating distance to the goal.
+d) Complex mathematical models.
+
+13. An agent perceives through:
+a) Direct physical contact.
+b) Sensors and data input.*
+c) Mathematical calculations.
+d) Random guesses.
+
+14. An agent acts based on:
+a) Randomness.
+b) Pre-programmed rules and goals.*
+c) Statistical analysis.
+d) Complex mathematical models.
+
+15. In agent-based systems, agents:
+a) Solve complex math problems.
+b) Simulate real-world phenomena.*
+c) Control physical robots.
+d) Store and retrieve data.
+
+16. Social AI agents face:
+a) Ensuring they always make correct decisions.
+b) Understanding and responding to human cues.*
+c) Extreme speed and efficiency.
+d) Avoiding human interaction.
+
+17. War game simulations use AI to:
+a) Generate realistic terrain maps.
+b) Create intelligent opponent forces.*
+c) Analyze historical battle data.
+d) Design military equipment.
+
+18. AI in war games can:
+a) Predict the weather.
+b) Control enemy unit movement.*
+c) Generate random events.
+d) Optimize resource allocation.
+
+19. Robot mission planning involves:
+a) Randomly exploring the environment.
+b) Following pre-programmed instructions.*
+c) Planning a sequence of actions.
+d) Ignoring obstacles.
+
+20. Pathfinding algorithms are for:
+a) Analyzing financial data.
+b) Determining the best robot route.*
+c) Predicting stock market trends.
+d) Designing user interfaces.
+
+21. A common pathfinding algorithm is:
+a) A complex statistical model.
+b) Finding the shortest path.*
+c) Mathematical equations.
+d) Data storage.
+
+22. Strong AI aims to:
+a) Create tools for specific tasks.
+b) Create machines with human-level intelligence.*
+c) Ensure computational power.
+d) Ensure reliability.
+
+23. NLP enables computers to:
+a) Control physical robots.
+b) Analyze images and videos.
+c) Understand and process human language.*
+d) Predict weather patterns.
+
+24. Sentiment analysis aims to:
+a) Translate languages.
+b) Generate text.
+c) Determine emotional tone.*
+d) Summarize documents.
+
+25. An ethical concern with AI is:
+a) Potential bias in algorithms.*
+b) Lack of computational power.
+c) Difficulty programming robots.
+d) Lack of data.
+
+26. Data is essential for:
+a) Only technical aspects of the system.
+b) The system's societal impact.
+c) Development cost only.*
+d) Ignoring ethical considerations.
+
+27. Which is NOT a core AI area?
+a) Knowledge Representation
+b) Logical Reasoning
+c) Quantum Physics*
+d) Probabilistic Reasoning
+
+28. A knowledge base stores:
+a) Code for programs.
+b) Data and facts for AI use.*
+c) Robot movement control.
+d) Random number generation.
+
+29. Designing an AI system requires considering:
+a) Technical aspects only.
+b) Societal impact.*
+c) Development cost only.
+d) Ignoring ethical considerations.

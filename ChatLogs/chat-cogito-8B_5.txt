@@ -1,0 +1,179 @@
+1. In military planning, what is the primary challenge in using expert systems?
+   a) Processing power limitations
+   b) Knowledge representation accuracy
+   c) Integration with existing systems
+   d) User interface complexity *
+
+2. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+   a) Goal-based reasoning
+   b) Hierarchical task planning
+   c) Intentional architecture design
+   d) Self-modifying algorithms *
+
+3. The A-star search algorithm optimizes for which of the following in military operations?
+   a) Shortest path length only
+   b) Lowest cost path considering both distance and heuristic estimates
+   c) Maximum exploration depth
+   d) Parallel processing efficiency *
+
+4. In social AI, what theoretical concept describes an entity's capacity to learn from human feedback?
+   a) Reinforcement learning mechanisms
+   b) Social learning theory application
+   c) Cognitive load modeling frameworks
+   d) Adaptive behavior patterns *
+
+5. Expert systems typically use which type of knowledge representation for their rule bases?
+   a) Production rules with certainty factors
+   b) Semantic networks
+   c) Ontology-based frameworks
+   d) Fuzzy logic structures *
+
+6. What is the primary limitation of using certainty-based reasoning in military decision-making?
+   a) Limited applicability to real-world scenarios
+   b) Excessive computational complexity
+   c) Inability to handle partial information
+   d) Poor performance under uncertainty *
+
+7. The concept of "planning under uncertainty" in military applications is best addressed by which AI approach?
+   a) Heuristic search algorithms
+   b) Probabilistic planning methods
+   c) Deterministic scheduling systems
+   d) Expert system rule-based reasoning *
+
+8. In social AI for human-machine interaction, what theoretical concept best describes the capacity to learn from past interactions?
+   a) Reinforcement learning mechanisms
+   b) Social learning theory
+   c) Cognitive load modeling frameworks
+   d) Multi-agent systems architectures *
+
+9. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+   a) Probabilistic planning methods
+   b) Deterministic scheduling systems
+   c) Linear temporal logic reasoning
+   d) Expert system rule-based reasoning *
+
+10. What AI concept best describes an autonomous system's ability to reason about its own goals and intentions?
+    a) Goal-based reasoning
+    b) Hierarchical task planning
+    c) Intentional architecture design
+    d) Self-modifying algorithms *
+
+11. In autonomous mission planning systems, what principle defines an entity's ability to make independent choices without direct human intervention?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Planning under uncertainty methodologies *
+
+12. The primary advantage of using expert systems in military command and control is their:
+    a) Ability to handle large volumes of real-time data
+    b) Capacity to integrate diverse sources of information
+    c) Capability for quick decision-making under uncertainty
+    d) Robustness against system failures *
+
+13. In military decision support systems using knowledge representation, what is the key challenge in implementing rule-based reasoning?
+    a) Managing large rule sets
+    b) Handling non-monotonic reasoning
+    c) Integrating probabilistic evidence
+    d) Dealing with incomplete information *
+
+14. The concept of "planning under uncertainty" in military applications is best addressed by which AI approach?
+    a) Heuristic search algorithms
+    b) Probabilistic planning methods
+    c) Deterministic scheduling systems
+    d) Expert system rule-based reasoning*
+
+15. In social AI for military command and control, what theoretical concept best describes the ability to understand and respond to human intentions?
+    a) Intentional systems theory
+    b) Cognitive architectures
+    c) Multi-agent learning frameworks
+    d) Planning under uncertainty methodologies *
+
+16. Expert system performance in uncertain environments is primarily limited by:
+    a) The quality of the knowledge base
+    b) The complexity of the reasoning mechanism
+    c) The scalability to large decision spaces
+    d) The integration with real-time data systems *
+
+17. In military mission planning, which search algorithm best handles the trade-off between exploration and exploitation?
+    a) Breadth-First Search (BFS)
+    b) Depth-First Search (DFS)
+    c) A-star search algorithm with informed heuristics
+    d) Reinforcement learning methods*
+
+18. The primary advantage of using probabilistic reasoning in military decision support systems is their ability to:
+    a) Handle incomplete information
+    b) Model uncertainty and risk
+    c) Optimize resource allocation under constraints
+    d) Provide interpretable results *
+
+19. In social AI for human-machine interaction, what theoretical concept best describes the capacity to learn from past interactions?
+    a) Reinforcement learning mechanisms
+    b) Social learning theory
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures*
+
+20. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+    a) Probabilistic planning methods
+    b) Deterministic scheduling systems
+    c) Linear temporal logic reasoning
+    d) Expert system rule-based reasoning*
+
+21. In autonomous decision-making simulations, what principle defines an entity's ability to make independent choices without direct human intervention?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Planning under uncertainty methodologies *
+
+22. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems*
+
+23. In social AI for military command and control, what theoretical concept best describes the ability to understand and respond to human intentions?
+    a) Intentional systems theory
+    b) Cognitive architectures
+    c) Multi-agent learning frameworks
+    d) Planning under uncertainty methodologies *
+
+24. Expert system performance in uncertain environments is primarily limited by:
+    a) The quality of the knowledge base
+    b) The complexity of the reasoning mechanism
+    c) The scalability to large decision spaces
+    d) The integration with real-time data systems*
+
+25. In military mission planning, which search algorithm best handles the trade-off between exploration and exploitation?
+    a) Breadth-First Search (BFS)
+    b) Depth-First Search (DFS)
+    c) A-star search algorithm with informed heuristics
+    d) Reinforcement learning methods*
+
+26. The primary advantage of using probabilistic reasoning in military decision support systems is their ability to:
+    a) Handle incomplete information
+    b) Model uncertainty and risk
+    c) Optimize resource allocation under constraints
+    d) Provide interpretable results *
+
+27. In social AI for human-machine interaction, what theoretical concept best describes the capacity to learn from past interactions?
+    a) Reinforcement learning mechanisms
+    b) Social learning theory
+    c) Cognitive load modeling frameworks
+    d) Multi-agent systems architectures*
+
+28. The challenge of handling temporal uncertainty in military planning is best addressed by which AI approach?
+    a) Probabilistic planning methods
+    b) Deterministic scheduling systems
+    c) Linear temporal logic reasoning
+    d) Expert system rule-based reasoning*
+
+29. In autonomous decision-making simulations, what principle defines the level of independence in an entity's decision-making process?
+    a) Autonomy paradigm levels
+    b) Hierarchical task planning structures
+    c) Social intelligence frameworks
+    d) Multi-agent systems architectures *
+
+30. The primary limitation of using expert systems in uncertain environments is their:
+    a) Inability to handle partial information
+    b) Excessive computational complexity
+    c) Limited applicability to real-world scenarios
+    d) Poor performance on deterministic problems*

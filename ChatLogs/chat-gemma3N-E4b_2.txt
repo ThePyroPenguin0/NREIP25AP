@@ -1,0 +1,542 @@
+Basics of Artificial Intelligence: Foundational Concepts Exam
+Instructions: Choose the best answer for each multiple-choice question. // "Same length" answers
+
+1. Which of the following best describes the core goal of Artificial Intelligence (AI)?
+a) Building machines that can physically mimic humans.
+b) Creating systems that can perform tasks typically requiring human intelligence.*
+c) Developing complex mathematical algorithms.
+d) Automating repetitive manual labor.
+
+2. Knowledge representation in AI primarily involves:
+a) Designing efficient computer hardware.
+b) Encoding information in a way a computer can understand and use.*
+c) Writing complex software code.
+d) Optimizing network infrastructure.
+
+3. A "fact" in knowledge representation is best described as:
+a) A statement assumed to be true.*
+b) A complex relationship between two concepts.
+c) A set of instructions for a computer to execute.
+d) A visual representation of data.
+
+4. Which of the following is a common method for representing knowledge in AI?
+a) Using only binary code.
+b) Employing rules like "If...then..." statements.*
+c) Storing data in a database without any structure.
+d) Relying solely on statistical analysis.
+
+5. Logical reasoning in AI relies on:
+a) Statistics and probabilities.
+b) Mathematical calculations.
+c) Formal logic and deduction.*
+d) Machine learning algorithms.
+
+6. Deductive reasoning involves:
+a) Drawing conclusions from specific premises to reach a certain conclusion.*
+b) Discovering patterns in data.
+c) Making predictions based on past events.
+d) Finding the most likely outcome.
+
+7. Inductive reasoning involves:
+a) Drawing general conclusions from specific observations.*
+b) Applying pre-defined rules.
+c) Using mathematical formulas.
+d) Storing data in a database.
+
+8. Probabilistic reasoning deals with:
+a) Certainty and absolute truth.
+b) Uncertainty and likelihood.*
+c) Complex mathematical equations.
+d) Physical simulations.
+
+9. Bayes' Theorem is a key tool in:
+a) Deductive reasoning.
+b) Heuristic search.
+c) Probabilistic reasoning.*
+d) Agent-based systems.
+
+10. What is a heuristic in AI?
+a) A guaranteed solution to a problem.
+b) A method for finding a good, but not necessarily optimal, solution.*
+c) A complex algorithm requiring significant processing power.
+d) A set of rules that are always correct.
+
+11. Heuristic search algorithms are often used when:
+a) The search space is very small.
+b) An optimal solution is guaranteed to exist.
+c) Finding a solution quickly is more important than finding the absolute best solution.*
+d) The problem can be solved with simple mathematical formulas.
+
+12. A common example of a heuristic is:
+a) Performing a complete search of all possible paths.
+b) Always choosing the shortest path.
+c) Estimating the distance to the goal.*
+d) Using a complex mathematical model.
+
+13. What is an agent in AI?
+a) A physical robot.
+b) A software program perceiving its environment and acting upon it.*
+c) A set of mathematical equations.
+d) A database of information.
+
+14. An agent's perception of its environment is typically achieved through:
+a) Direct physical contact.
+b) Sensors and data input.*
+c) Mathematical calculations.
+d) Random guesses.
+
+15. An agent's actions are typically determined by:
+a) Randomness.
+b) Pre-programmed rules and goals.*
+c) Statistical analysis.
+d) Complex mathematical models.
+
+16. In agent-based systems, multiple agents interact to:
+a) Solve complex mathematical problems.
+b) Simulate real-world phenomena.*
+c) Control physical robots.
+d) Store and retrieve data.
+
+17. What is a key challenge in designing social AI agents?
+a) Ensuring they always make the correct decisions.
+b) Creating agents that can understand and respond to human emotions and social cues.*
+c) Making them extremely fast and efficient.
+d) Avoiding any interaction with humans.
+
+18. What is a common application of AI in war game simulations?
+a) Generating realistic terrain maps.
+b) Creating intelligent opponent forces.*
+c) Analyzing historical battle data.
+d) Designing military equipment.
+
+19. In a war game simulation, AI can be used to:
+a) Predict the weather.
+b) Control the movement and actions of enemy units.*
+c) Generate random events.
+d) Optimize resource allocation.
+
+20. Mission planning for robots often involves:
+a) Randomly exploring the environment.
+b) Following pre-programmed instructions.
+c) Planning a sequence of actions to achieve a specific goal.*
+d) Ignoring obstacles.
+
+21. Pathfinding algorithms are crucial for:
+a) Analyzing financial data.
+b) Determining the best route for a robot to navigate.*
+c) Predicting stock market trends.
+d) Designing user interfaces.
+
+22. What is a common pathfinding algorithm?
+a) A complex statistical model.
+b) A method for finding the shortest path between two points.*
+c) A set of mathematical equations.
+d) A method for storing data.
+
+23. What is the difference between "strong AI" and "weak AI"?
+a) Strong AI aims to create machines with human-level intelligence; Weak AI focuses on creating tools to perform specific tasks.*
+b) Strong AI is always more expensive than Weak AI.
+c) Weak AI is always more reliable than Strong AI.
+d) They are the same thing.
+
+24. What is a common application of Natural Language Processing (NLP)?
+a) Controlling physical robots.
+b) Analyzing images and videos.
+c) Enabling computers to understand and process human language.*
+d) Predicting weather patterns.
+
+25. Sentiment analysis, a task in NLP, aims to:
+a) Translate languages.
+b) Generate text.
+c) Determine the emotional tone of a piece of text.*
+d) Summarize documents.
+
+26. What is a potential ethical concern related to AI?
+a) The potential for bias in algorithms.*
+b) The lack of computational power.
+c) The difficulty of programming robots.
+d) The lack of data.
+
+27. What is the role of data in AI?
+a) Data is irrelevant to AI.
+b) AI can function without data.
+c) Data is the fuel that powers AI algorithms.*
+d) Data is only used for visualization.
+
+28. Which of the following is NOT a core area of AI?
+a) Knowledge Representation
+b) Logical Reasoning
+c) Quantum Physics*
+d) Probabilistic Reasoning
+
+29. What is the purpose of a "knowledge base" in AI?
+a) To store code for computer programs.
+b) To store data and facts an AI system can use.*
+c) To control the physical movement of robots.
+d) To generate random numbers.
+
+30. When designing an AI system, it's important to consider:
+a) Only the technical aspects of the system.
+b) The potential impact of the system on society.*
+c) Only the cost of development.
+d) Ignoring ethical considerations.
+
+1. Which of the following best describes the core goal of Artificial Intelligence (AI)?
+a) Building machines that can physically mimic humans.
+b) Creating systems that can perform tasks typically requiring human intelligence.*
+c) Developing complex mathematical algorithms.
+d) Automating repetitive manual labor.
+
+2. Knowledge representation in AI primarily involves:
+a) Designing efficient computer hardware.
+b) Encoding information in a way a computer can understand and use.*
+c) Writing complex software code.
+d) Optimizing network infrastructure.
+
+3. A "fact" in knowledge representation is best described as:
+a) A statement assumed to be true.*
+b) A complex relationship between two concepts.
+c) A set of instructions for a computer to execute.
+d) A visual representation of data.
+
+4. Which of the following is a common method for representing knowledge in AI?
+a) Using only binary code.
+b) Employing rules like "If...then..." statements.*
+c) Storing data in a database without any structure.
+d) Relying solely on statistical analysis.
+
+5. Logical reasoning in AI relies on:
+a) Statistics and probabilities.
+b) Mathematical calculations.
+c) Formal logic and deduction.*
+d) Machine learning algorithms.
+
+6. Deductive reasoning involves:
+a) Drawing conclusions from specific premises to reach a certain conclusion.*
+b) Discovering patterns in data.
+c) Making predictions based on past events.
+d) Finding the most likely outcome.
+
+7. Inductive reasoning involves:
+a) Drawing general conclusions from specific observations.*
+b) Applying pre-defined rules.
+c) Using mathematical formulas.
+d) Storing data in a database.
+
+8. Probabilistic reasoning deals with:
+a) Certainty and absolute truth.
+b) Uncertainty and likelihood.*
+c) Complex mathematical equations.
+d) Physical simulations.
+
+9. Bayes' Theorem is a key tool in:
+a) Deductive reasoning.
+b) Heuristic search.
+c) Probabilistic reasoning.*
+d) Agent-based systems.
+
+10. What is a heuristic in AI?
+a) A guaranteed solution to a problem.
+b) A method for finding a good, but not necessarily optimal, solution.*
+c) A complex algorithm requiring significant processing power.
+d) A set of rules that are always correct.
+
+11. Heuristic search algorithms are often used when:
+a) The search space is very small.
+b) An optimal solution is guaranteed to exist.
+c) Finding a solution quickly is more important than finding the absolute best solution.*
+d) The problem can be solved with simple mathematical formulas.
+
+12. A common example of a heuristic is:
+a) Performing a complete search of all possible paths.
+b) Always choosing the shortest path.
+c) Estimating the distance to the goal.*
+d) Using a complex mathematical model.
+
+13. What is an agent in AI?
+a) A physical robot.
+b) A software program perceiving its environment and acting upon it.*
+c) A set of mathematical equations.
+d) A database of information.
+
+14. An agent's perception of its environment is typically achieved through:
+a) Direct physical contact.
+b) Sensors and data input.*
+c) Mathematical calculations.
+d) Random guesses.
+
+15. An agent's actions are typically determined by:
+a) Randomness.
+b) Pre-programmed rules and goals.*
+c) Statistical analysis.
+d) Complex mathematical models.
+
+16. In agent-based systems, multiple agents interact to:
+a) Solve complex mathematical problems.
+b) Simulate real-world phenomena.*
+c) Control physical robots.
+d) Store and retrieve data.
+
+17. What is a key challenge in designing social AI agents?
+a) Ensuring they always make the correct decisions.
+b) Creating agents that can understand and respond to human emotions and social cues.*
+c) Making them extremely fast and efficient.
+d) Avoiding any interaction with humans.
+
+18. What is a common application of AI in war game simulations?
+a) Generating realistic terrain maps.
+b) Creating intelligent opponent forces.*
+c) Analyzing historical battle data.
+d) Designing military equipment.
+
+19. In a war game simulation, AI can be used to:
+a) Predict the weather.
+b) Control the movement and actions of enemy units.*
+c) Generate random events.
+d) Optimize resource allocation.
+
+20. Mission planning for robots often involves:
+a) Randomly exploring the environment.
+b) Following pre-programmed instructions.
+c) Planning a sequence of actions to achieve a specific goal.*
+d) Ignoring obstacles.
+
+21. Pathfinding algorithms are crucial for:
+a) Analyzing financial data.
+b) Determining the best route for a robot to navigate.*
+c) Predicting stock market trends.
+d) Designing user interfaces.
+
+22. What is a common pathfinding algorithm?
+a) A complex statistical model.
+b) A method for finding the shortest path between two points.*
+c) A set of mathematical equations.
+d) A method for storing data.
+
+23. What is the difference between "strong AI" and "weak AI"?
+a) Strong AI aims to create machines with human-level intelligence; Weak AI focuses on creating tools to perform specific tasks.*
+b) Strong AI is always more expensive than Weak AI.
+c) Weak AI is always more reliable than Strong AI.
+d) They are the same thing.
+
+24. What is a common application of Natural Language Processing (NLP)?
+a) Controlling physical robots.
+b) Analyzing images and videos.
+c) Enabling computers to understand and process human language.*
+d) Predicting weather patterns.
+
+25. Sentiment analysis, a task in NLP, aims to:
+a) Translate languages.
+b) Generate text.
+c) Determine the emotional tone of a piece of text.*
+d) Summarize documents.
+
+26. What is a potential ethical concern related to AI?
+a) The potential for bias in algorithms.*
+b) The lack of computational power.
+c) The difficulty of programming robots.
+d) The lack of data.
+
+27. What is the role of data in AI?
+a) Data is irrelevant to AI.
+b) AI can function without data.
+c) Data is the fuel that powers AI algorithms.*
+d) Data is only used for visualization.
+
+28. Which of the following is NOT a core area of AI?
+a) Knowledge Representation
+b) Logical Reasoning
+c) Quantum Physics*
+d) Probabilistic Reasoning
+
+29. What is the purpose of a "knowledge base" in AI?
+a) To store code for computer programs.
+b) To store data and facts that an AI system can use.*
+c) To control the physical movement of robots.
+d) To generate random numbers.
+
+30. When designing an AI system, it's important to consider:
+a) Only the technical aspects of the system.
+b) The potential impact of the system on society.*
+c) Only the cost of development.
+d) Ignoring ethical considerations.
+
+1. Which of the following best describes the core goal of Artificial Intelligence (AI)?
+a) Building machines that can physically mimic humans.
+b) Creating systems that can perform tasks typically requiring human intelligence.*
+c) Developing complex mathematical algorithms.
+d) Automating repetitive manual labor.
+
+2. Knowledge representation in AI primarily involves:
+a) Designing efficient computer hardware.
+b) Encoding information in a way a computer can understand and use.*
+c) Writing complex software code.
+d) Optimizing network infrastructure.
+
+3. A "fact" in knowledge representation is best described as:
+a) A statement assumed to be true.*
+b) A complex relationship between two concepts.
+c) A set of instructions for a computer to execute.
+d) A visual representation of data.
+
+4. Which of the following is a common method for representing knowledge in AI?
+a) Using only binary code.
+b) Employing rules like "If...then..." statements.*
+c) Storing data in a database without any structure.
+d) Relying solely on statistical analysis.
+
+5. Logical reasoning in AI relies on:
+a) Statistics and probabilities.
+b) Mathematical calculations.
+c) Formal logic and deduction.*
+d) Machine learning algorithms.
+
+6. Deductive reasoning involves:
+a) Drawing conclusions from specific premises to reach a certain conclusion.*
+b) Discovering patterns in data.
+c) Making predictions based on past events.
+d) Finding the most likely outcome.
+
+7. Inductive reasoning involves:
+a) Drawing general conclusions from specific observations.*
+b) Applying pre-defined rules.
+c) Using mathematical formulas.
+d) Storing data in a database.
+
+8. Probabilistic reasoning deals with:
+a) Certainty and absolute truth.
+b) Uncertainty and likelihood.*
+c) Complex mathematical equations.
+d) Physical simulations.
+
+9. Bayes' Theorem is a key tool in:
+a) Deductive reasoning.
+b) Heuristic search.
+c) Probabilistic reasoning.*
+d) Agent-based systems.
+
+10. What is a heuristic in AI?
+a) A guaranteed solution to a problem.
+b) A method for finding a good, but not necessarily optimal, solution.*
+c) A complex algorithm requiring significant processing power.
+d) A set of rules that are always correct.
+
+11. Heuristic search algorithms are often used when:
+a) The search space is very small.
+b) An optimal solution is guaranteed to exist.
+c) Finding a solution quickly is more important than finding the absolute best solution.*
+d) The problem can be solved with simple mathematical formulas.
+
+12. A common example of a heuristic is:
+a) Performing a complete search of all possible paths.
+b) Always choosing the shortest path.
+c) Estimating the distance to the goal.*
+d) Using a complex mathematical model.
+
+13. What is an agent in AI?
+a) A physical robot.
+b) A software program perceiving its environment and acting upon it.*
+c) A set of mathematical equations.
+d) A database of information.
+
+14. An agent's perception of its environment is typically achieved through:
+a) Direct physical contact.
+b) Sensors and data input.*
+c) Mathematical calculations.
+d) Random guesses.
+
+15. An agent's actions are typically determined by:
+a) Randomness.
+b) Pre-programmed rules and goals.*
+c) Statistical analysis.
+d) Complex mathematical models.
+
+16. In agent-based systems, multiple agents interact to:
+a) Solve complex mathematical problems.
+b) Simulate real-world phenomena.*
+c) Control physical robots.
+d) Store and retrieve data.
+
+17. What is a key challenge in designing social AI agents?
+a) Ensuring they always make the correct decisions.
+b) Creating agents that can understand and respond to human emotions and social cues.*
+c) Making them extremely fast and efficient.
+d) Avoiding any interaction with humans.
+
+18. What is a common application of AI in war game simulations?
+a) Generating realistic terrain maps.
+b) Creating intelligent opponent forces.*
+c) Analyzing historical battle data.
+d) Designing military equipment.
+
+19. In a war game simulation, AI can be used to:
+a) Predict the weather.
+b) Control the movement and actions of enemy units.*
+c) Generate random events.
+d) Optimize resource allocation.
+
+20. Mission planning for robots often involves:
+a) Randomly exploring the environment.
+b) Following pre-programmed instructions.
+c) Planning a sequence of actions to achieve a specific goal.*
+d) Ignoring obstacles.
+
+21. Pathfinding algorithms are crucial for:
+a) Analyzing financial data.
+b) Determining the best route for a robot to navigate.*
+c) Predicting stock market trends.
+d) Designing user interfaces.
+
+22. What is a common pathfinding algorithm?
+a) A complex statistical model.
+b) A method for finding the shortest path between two points.*
+c) A set of mathematical equations.
+d) A method for storing data.
+
+23. What is the difference between "strong AI" and "weak AI"?
+a) Strong AI aims to create machines with human-level intelligence; Weak AI focuses on creating tools to perform specific tasks.*
+b) Strong AI is always more expensive than Weak AI.
+c) Weak AI is always more reliable than Strong AI.
+d) They are the same thing.
+
+24. What is a common application of Natural Language Processing (NLP)?
+a) Controlling physical robots.
+b) Analyzing images and videos.
+c) Enabling computers to understand and process human language.*
+d) Predicting weather patterns.
+
+25. Sentiment analysis, a task in NLP, aims to:
+a) Translate languages.
+b) Generate text.
+c) Determine the emotional tone of a piece of text.*
+d) Summarize documents.
+
+26. What is a potential ethical concern related to AI?
+a) The potential for bias in algorithms.*
+b) The lack of computational power.
+c) The difficulty of programming robots.
+d) The lack of data.
+
+27. What is the role of data in AI?
+a) Data is irrelevant to AI.
+b) AI can function without data.
+c) Data is the fuel that powers AI algorithms.*
+d) Data is only used for visualization.
+
+28. Which of the following is NOT a core area of AI?
+a) Knowledge Representation
+b) Logical Reasoning
+c) Quantum Physics*
+d) Probabilistic Reasoning
+
+29. What is the purpose of a "knowledge base" in AI?
+a) To store code for computer programs.
+b) To store data and facts that an AI system can use.*
+c) To control the physical movement of robots.
+d) To generate random numbers.
+
+30. When designing an AI system, it's important to consider:
+a) Only the technical aspects of the system.
+b) The potential impact of the system on society.*
+c) Only the cost of development.
+d) Ignoring ethical considerations.
