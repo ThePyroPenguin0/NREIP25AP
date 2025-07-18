@@ -1,0 +1,179 @@
+1.  What is the fundamental distinction between artificial intelligence and traditional computer programming?
+    a) AI is limited to processing pre-defined instructions, while traditional programming can adapt to changing conditions.
+    b) Traditional programming is more efficient for complex tasks, while AI is better at handling unstructured data. *
+    c) They are essentially the same, with AI being a more advanced form of traditional programming.
+    d) AI focuses on creating physical robots, while traditional programming focuses on software applications.
+
+2.  Explain the purpose of a "validation set" in a machine learning project.
+    a) To store the training data.
+    b) To evaluate the model's performance on unseen data and prevent overfitting. *
+    c) To create a separate dataset for testing.
+    d) To reduce the size of the training dataset.
+
+3.  What is the difference between "regression" and "classification" in machine learning?
+    a) Regression is used for categorizing data, while classification is used for predicting continuous values.
+    b) Regression is used for predicting continuous values, while classification is used for categorizing data. *
+    c) Regression and classification are the same thing.
+    d) Regression is used for image processing, while classification is used for text analysis.
+
+4.  Define "overfitting" and explain how it can be addressed.
+    a) Overfitting is when a model is too simple to accurately represent the data.
+    b) Overfitting is when a model learns the training data too well and performs poorly on new data. *
+    c) Overfitting is a desirable characteristic of a model.
+    d) Overfitting is the process of reducing the number of features in a model.
+
+5.  What is the role of "features" in a machine learning model?
+    a) Features are the labels used to train the model.
+    b) Features are the input variables used to train the model. *
+    c) Features are the output variables used to evaluate the model.
+    d) Features are the data used to store the model's weights.
+
+6.  Describe the concept of "data augmentation" and provide an example.
+    a) Data augmentation is the process of removing noise from data.
+    b) Data augmentation is the process of creating new, modified versions of existing data to increase the size of the training dataset. *
+    c) Data augmentation is the process of organizing data into a specific format.
+    d) Data augmentation is the process of reducing the size of a model.
+
+7.  What is the difference between "precision" and "recall" in classification?
+    a) Precision is the percentage of false positives, while recall is the percentage of true positives.
+    b) Precision is the percentage of true positives, while recall is the percentage of false positives. *
+    c) Precision and recall are interchangeable.
+    d) Precision and recall are used for different types of data.
+
+8.  What is the bias-variance tradeoff in machine learning?
+    a) Bias-variance tradeoff is the relationship between the amount of data and the complexity of the model.
+    b) Bias-variance tradeoff is the relationship between the accuracy of a model and the amount of noise in the data. *
+    c) Bias-variance tradeoff is the relationship between the speed of a model and the amount of memory it requires.
+    d) Bias-variance tradeoff is the relationship between the complexity of a model and the amount of training data.
+
+9.  What is the purpose of "cross-validation"?
+    a) To reduce the amount of data required to train a model.
+    b) To evaluate the performance of a model on unseen data and prevent overfitting. *
+    c) To increase the complexity of a model.
+    d) To reduce the computational cost of training a model.
+
+10. What are some ethical considerations in AI development and deployment?
+    a) Ensuring fairness, transparency, and accountability in AI systems. *
+    b) Reducing the cost of AI development.
+    c) Increasing the complexity of AI systems.
+    d) Avoiding data collection.
+
+11. Explain the concept of "edge computing" in the context of AI.
+    a) Edge computing is a type of data storage.
+    b) Edge computing is the process of running AI models on devices at the edge of the network. *
+    c) Edge computing is a type of data visualization tool.
+    d) Edge computing is a type of data analysis technique.
+
+12. What are some common applications of AI in healthcare?
+    a) Drug discovery, medical image analysis, personalized medicine. *
+    b) Data storage, data visualization, data analysis.
+    c) Data collection, data storage, data visualization.
+    d) Data analysis, data storage, data visualization.
+
+13. What is the role of "natural language processing (NLP)" in AI?
+    a) NLP is the process of translating languages.
+    b) NLP is the field of AI that enables computers to understand and process human language. *
+    c) NLP is the field of AI that enables computers to generate images.
+    d) NLP is the field of AI that enables computers to generate music.
+
+14. Explain the difference between "supervised learning" and "unsupervised learning."
+    a) Supervised learning requires labeled data, while unsupervised learning does not. *
+    b) Supervised learning requires more data than unsupervised learning.
+    c) Supervised learning is used for image recognition, while unsupervised learning is used for text analysis.
+    d) Supervised learning is only used for continuous data, while unsupervised learning is only used for categorical data.
+
+15. What are some common techniques for feature selection?
+    a) Principal Component Analysis (PCA), Feature Importance, Recursive Feature Elimination *
+    b) Data augmentation, data cleaning, data visualization
+    c) Data storage, data analysis, data visualization
+    d) Data collection, data storage, data visualization
+
+16. What is the difference between "deep learning" and "traditional machine learning"?
+    a) Deep learning uses artificial neural networks with multiple layers, while traditional machine learning uses simpler algorithms. *
+    b) Deep learning requires more data than traditional machine learning.
+    c) Deep learning is only used for image recognition, while traditional machine learning is only used for text analysis.
+    d) Deep learning is only used for continuous data, while traditional machine learning is only used for categorical data.
+
+17. What is the role of "model interpretability" in AI?
+    a) Model interpretability is the process of making the decisions of a model understandable to humans. *
+    b) Model interpretability requires more data than traditional machine learning.
+    c) Model interpretability is only used for complex models.
+    d) Model interpretability is only used for simple models.
+
+18. Explain the concept of "reinforcement learning."
+    a) Reinforcement learning is a type of supervised learning.
+    b) Reinforcement learning is a type of unsupervised learning. *
+    c) Reinforcement learning is a type of deep learning.
+    d) Reinforcement learning is a type of data visualization tool.
+
+19. What are some common applications of reinforcement learning?
+    a) Game playing, robotics, resource management. *
+    b) Data storage, data analysis, data visualization.
+    c) Data collection, data storage, data visualization.
+    d) Data analysis, data storage, data visualization.
+
+20. What is the role of "cloud computing" in AI development?
+    a) Cloud computing is a type of data storage.
+    b) Cloud computing provides the infrastructure and resources needed to develop and deploy AI models. *
+    c) Cloud computing is a type of data visualization tool.
+    d) Cloud computing is a type of data analysis technique.
+
+21. What is the primary benefit of using a "GPU" (Graphics Processing Unit) in AI model training?
+   a) Increased memory capacity for storing large datasets.
+   b) Faster data storage speeds compared to CPUs.
+   c) Parallel processing capabilities for accelerating complex calculations. *
+   d) Reduced power consumption for energy-efficient computing.
+
+22. Explain the concept of "transfer learning."
+   a) Transfer learning is the process of storing data from one source to another.
+   b) Transfer learning is the process of using knowledge gained from solving one problem to solve a different but related problem. *
+   c) Transfer learning is the process of creating new data from existing data.
+   d) Transfer learning is the process of reducing the complexity of a model.
+
+23. What is the difference between "supervised learning" and "unsupervised learning" in terms of the data used for training?
+   a) Supervised learning uses labeled data, while unsupervised learning uses unlabeled data. *
+   b) Supervised learning uses only numerical data, while unsupervised learning uses only categorical data.
+   c) Supervised learning requires more data than unsupervised learning.
+   d) Supervised learning is used for prediction, while unsupervised learning is used for classification.
+
+24. What is the purpose of "hyperparameter tuning"?
+   a) To reduce the amount of training data needed.
+   b) To find the optimal settings for the model's hyperparameters to improve performance. *
+   c) To increase the complexity of the model.
+   d) To reduce the computational cost of training.
+
+25. What is "data preprocessing" and why is it important?
+   a) Data preprocessing is the process of storing data in a specific format.
+   b) Data preprocessing is the process of cleaning and transforming data to make it suitable for machine learning algorithms. *
+   c) Data preprocessing is the process of organizing data into a specific format.
+   d) Data preprocessing is the process of reducing the size of a model.
+
+26. What is the difference between "accuracy" and "precision" in classification?
+   a) Accuracy is the percentage of correct predictions, while precision is the percentage of true positives.
+   b) Accuracy is the percentage of correct predictions, while precision is the percentage of correctly identified items out of all items predicted as positive. *
+   c) Accuracy and precision are interchangeable.
+   d) Accuracy is used for continuous data, while precision is used for categorical data.
+
+27. What is "overfitting" and how can it be mitigated?
+   a) Overfitting is when a model is too simple to accurately represent the data.
+   b) Overfitting is when a model learns the training data too well and performs poorly on new data. *
+   c) Overfitting is a desirable characteristic of a model.
+   d) Overfitting is the process of reducing the number of features in a model.
+
+28. What is the role of "embeddings" in natural language processing (NLP)?
+   a) Embeddings are the process of translatin languages.
+   b) Embeddings are numerical representations of words or phrases that capture their semantic meaning. *
+   c) Embeddings are the process of generating images.
+   d) Embeddings are the process of generating music.
+
+29. What is the difference between "regression" and "classification" in machine learning?
+   a) Regression is used for categorizing data, while classification is used for predicting continuous values. *
+   b) Regression is used for predicting continuous values, while classification is used for categorizing data.
+   c) Regression and classification are the same thing.
+   d) Regression is used for image processing, while classification is used for text analysis.
+
+30. What is "explainable AI (XAI)"?
+   a) XAI is a type of data storage.
+   b) XAI is the field of AI that enables computers to understand and explain their decisions. *
+   c) XAI is a type of data visualization tool.
+   d) XAI is a type of data analysis technique.

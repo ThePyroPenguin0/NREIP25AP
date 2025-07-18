@@ -1,0 +1,179 @@
+1. Which of the following is NOT an advantage of using machine learning over traditional programming?
+    a) Can handle large and complex datasets
+    b) Can adapt to new data without explicit programming
+    c) Always provides deterministic outcomes
+    d) Requires less training data *
+
+2. What does "overfitting" refer to in machine learning?
+    a) When a model learns too little from the available data, underfitting it
+    b) When a model learns too much from the available data, making it less effective on new data *
+    c) When a model correctly identifies all training examples but fails on unseen data
+    d) A situation where a model's performance improves with more training data
+
+3. Which of these is NOT a type of learning in Machine Learning?
+    a) Supervised Learning
+    b) Unsupervised Learning
+    c) Semi-Supervised Learning *
+    d) Fully Supervised Learning
+
+4. What does the term "bias" in AI refer to?
+    a) A measure of model complexity
+    b) A systematic error introduced by approximations or assumptions in the learning algorithm
+    c) The preference of an algorithm for certain classes over others
+    d) All of the above *
+
+5. In reinforcement learning, what does the 'agent' do?
+    a) It interacts with the environment to learn
+    b) It observes and stores data for later use
+    c) It directly provides feedback or rewards
+    d) It formulates and solves optimization problems *
+
+6. What is backpropagation used for in neural networks?
+    a) To initialize the weights of neurons randomly
+    b) To update weight values based on error during training *
+    c) To determine the architecture of the network
+    d) To normalize input data
+
+7. Which of these is NOT an application area of AI?
+    a) Natural Language Processing (NLP)
+    b) Computer Vision
+    c) Robotics
+    d) Financial Forecasting *
+
+8. What does the term "exploration vs exploitation" relate to in reinforcement learning?
+    a) Balancing immediate rewards with long-term benefits
+    b) Exploring new states versus utilizing known beneficial actions *
+    c) Choosing between different types of neural network architectures
+    d) Deciding when to stop learning
+
+9. Which method is NOT used for handling missing data in datasets?
+    a) Mean/Mode imputation
+    b) Deletion of instances/features with missing values
+    c) Predictive modeling using machine learning algorithms *
+    d) Using a separate model to predict missing values
+
+10. What does the term "curse of dimensionality" refer to?
+    a) The problem of having too few training examples
+    b) The exponential increase in computational complexity as the number of features increases
+    c) The challenge of understanding complex models
+    d) Overfitting due to model complexity *
+
+11. Which of these is NOT an unsupervised learning algorithm?
+    a) K-Means Clustering
+    b) Principal Component Analysis (PCA) *
+    c) Support Vector Machines (SVM)
+    d) Autoencoders
+
+12. What does "transfer learning" mean in machine learning?
+    a) Training a model on one task and then fine-tuning it for another related task
+    b) Using the same set of features for different tasks
+    c) Learning from scratch for every new problem
+    d) Using deep neural networks with an increasing number of layers *
+
+13. Which of these is NOT a key component of a typical reinforcement learning setup?
+    a) Agent
+    b) Environment
+    c) Reward function
+    d) Supervisor *
+
+14. What does the term "bias-variance tradeoff" refer to in machine learning models?
+    a) The balance between model complexity and generalization ability
+    b) The difference between training error and test error
+    c) The need for more data to improve model performance
+    d) The impact of feature selection on model accuracy *
+
+15. Which of these is NOT a method for handling categorical data in machine learning?
+    a) One-hot encoding
+    b) Label encoding
+    c) Binning
+    d) Ordinal encoding *
+
+16. What does "ensemble learning" refer to in machine learning?
+    a) Training multiple models independently and combining their outputs
+    b) Using only one model for predictions
+    c) Increasing the depth of neural networks
+    d) Reducing the complexity of decision trees *
+
+17. Which of these is NOT a method used for evaluating classification models?
+    a) Confusion matrix
+    b) Mean Absolute Error (MAE)
+    c) F1 score
+    d) R-squared *
+
+18. What does "regularization" aim to prevent in machine learning models?
+    a) Underfitting
+    b) Overfitting *
+    c) Increasing model interpretability
+    d) Decreasing computational cost
+
+19. Which of these is NOT an aspect considered in AI ethics?
+    a) Privacy and Surveillance
+    b) Algorithmic Bias
+    c) Transparency and Accountability
+    d) Data Security *
+
+20. What does "feature selection" involve in machine learning?
+    a) Creating new features from existing ones
+    b) Choosing a subset of relevant features for use in model construction
+    c) Reducing the dimensionality of data
+    d) Increasing the depth of decision trees *
+
+21. Which of these is NOT a common neural network architecture?
+    a) Convolutional Neural Network (CNN)
+    b) Recurrent Neural Network (RNN)
+    c) Recursive Neural Network
+    d) Feedforward Neural Network *
+
+22. What does "model interpretability" mean in AI?
+    a) The degree to which it is understandable by humans
+    b) How well the model performs on unseen data
+    c) The amount of data required for training
+    d) The computational efficiency of the model *
+
+23. Which of these is NOT a machine learning paradigm?
+    a) Supervised Learning
+    b) Unsupervised Learning
+    c) Semi-Supervised Learning
+    d) Deep Learning *
+
+24. What does "cross-validation" help in assessing when building models?
+    a) The impact of hyperparameter tuning
+    b) The generalization performance of the model
+    c) The importance of individual features
+    d) The speed of convergence during training *
+
+25. Which of these is NOT a technique used for dealing with imbalanced datasets?
+    a) Oversampling the minority class
+    b) Undersampling the majority class
+    c) Using class weights
+    d) Increasing the dimensionality of data *
+
+26. What does "feature engineering" refer to in machine learning?
+    a) Selecting relevant features for model training
+    b) Transforming raw data into meaningful representations for the model
+    c) Reducing the number of input variables
+    d) Increasing the complexity of models *
+
+27. Which of these is NOT a common optimization algorithm used in machine learning?
+    a) Stochastic Gradient Descent (SGD)
+    b) Adam
+    c) Newton's Method
+    d) Principal Component Analysis (PCA) *
+
+28. What does "data leakage" refer to in the context of machine learning model development?
+    a) Unintentional use of future data during training
+    b) Sharing sensitive information about the training dataset
+    c) Using biased or incorrect datasets for training
+    d) Leaving out important variables from the analysis *
+
+29. Which of these is NOT a consideration when choosing an evaluation metric?
+    a) The type of problem (classification, regression, etc.)
+    b) Business context and goals
+    c) Nature of the data
+    d) Computational efficiency of the metric *
+
+30. What does "model explainability" refer to in AI?
+    a) Ability to provide clear reasons for model predictions
+    b) Performance on unseen data
+    c) Speed of training
+    d) Resource consumption during inference *

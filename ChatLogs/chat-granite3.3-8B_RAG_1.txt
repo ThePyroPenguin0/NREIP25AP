@@ -1,0 +1,205 @@
+1. Which of these statements about "Explainable AI" (XAI) is NOT accurate?
+    a) XAI aims to create models that can justify their decisions in human-understandable terms.
+    b) It's crucial for high-stakes applications like healthcare and autonomous vehicles. *
+    c) XAI always results in less accurate models due to added complexity of explanations.
+    d) Common techniques include LIME (Local Interpretable Model-agnostic Explanations) and SHAP (SHapley Additive exPlanations).
+
+
+2. What is a significant difference between "Reinforcement Learning" and "Supervised Learning"?
+    a) RL requires labeled data, while SL doesn't.
+    b) RL uses explicit instructions or labels for learning, whereas SL infers patterns from unlabeled data. *
+    c) RL focuses on classification tasks, while SL is for regression tasks.
+    d) RL is primarily used for discrete decision problems, while SL is for continuous function approximation.
+
+
+3. Consider a scenario where you're building an AI model for medical diagnosis. Which of the following would be the most pressing ethical concern?
+    a) Ensuring model fairness to avoid biased outcomes across different demographic groups.
+    b) Maintaining patient privacy and data security. *
+    c) Maximizing model accuracy without considering interpretability.
+    d) Developing a user-friendly interface for interacting with the AI system.
+
+
+4. What is "Concept Drift" in machine learning, and why can it be problematic?
+    a) When the statistical properties of the data being predicted change over time.
+        It can lead to degraded performance as the model was trained on outdated distributions. *
+    b) A technique for reducing model complexity and preventing overfitting.
+    c) A method for handling missing values in datasets.
+    d) An approach for combining predictions from multiple models.
+
+
+5. Which of these is NOT a key component or concept in Federated Learning?
+    a) Decentralized data stored across multiple devices/servers.
+    b) Model training occurs locally on individual devices without sharing raw data. *
+    c) Requires centralized model updates to aggregate and improve the global model.
+    d) Ensures strong privacy by not exposing raw data during training.
+
+
+6. What are some common methods used in "Feature Selection" as opposed to "Feature Extraction"?
+    a) Principal Component Analysis (PCA), t-SNE, Lasso Regression
+    b) Autoencoders, Decision Trees, Random Forests *
+    c) Gradient Boosting Machines (GBM), Support Vector Machines (SVM) with linear kernels
+    d) Wavelet Transformations, Discrete Cosine Transform (DCT)
+
+
+7. Consider a situation where an AI model makes a decision that results in unintended negative consequences. Which of the following would be a relevant concept to address this issue?
+    a) Model robustness and adversarial training
+    b) Algorithmic accountability and transparency
+    c) Data preprocessing techniques for balanced datasets
+    d) Computational efficiency improvements *
+
+
+8. What is "Transfer Learning" in deep learning, and how does it benefit model training?
+    a) Fine-tuning pre-trained models on new tasks with less data by leveraging learned features. *
+    b) Training models from scratch for each new task to avoid potential biases from pre-training.
+    c) Increasing the depth of neural networks to capture more complex patterns.
+    d) Using larger batch sizes during training to speed up convergence.
+
+
+9. Which of these is NOT a common type of bias in AI systems?
+    a) Selection Bias (occurs when the data used to train models is not representative of the problem domain).
+    b) Confirmation Bias (the tendency for models to seek out information that confirms preexisting beliefs or hypotheses). *
+    c) Measurement Bias (arises from inaccuracies or systematic errors in the data collection process).
+    d) Overfitting Bias (a specific kind of model bias where the model learns the training set too well, including noise and outliers).
+
+
+10. What is a potential drawback of using "Ensemble Methods" like Random Forests?
+    a) They are computationally expensive to train and use. *
+    b) They require large amounts of labeled data for effective learning.
+    c) They provide the simplest model interpretation compared to single-model methods.
+    d) They inherently avoid overfitting due to averaging multiple models.
+
+
+11. Considering a self-driving car's AI, which of the following would be the most challenging ethical issue?
+    a) Ensuring the system respects traffic laws and pedestrian safety.
+    b) Balancing passenger comfort against safety in decision-making processes (e.g., sudden braking). *
+    c) Minimizing computational resources to extend battery life.
+    d) Maximizing fuel efficiency without compromising performance.
+
+
+12. What does "Catastrophic Forgetting" refer to in the context of neural networks, particularly in continual or lifelong learning?
+    a) The inability of models to adapt and learn new tasks while retaining previously learned knowledge. *
+    b) An improvement in model performance as training progresses due to better optimization techniques.
+    c) A technique for efficiently sharing information between models during training.
+    d) A method for reducing the computational complexity of neural networks without loss of accuracy.
+
+
+13. Which of these is NOT a primary goal in developing an AI system for a legal context (e.g., contract analysis)?
+    a) High precision and recall to accurately identify relevant clauses. *
+    b) Minimizing response time to provide real-time assistance.
+    c) Ensuring transparency and explainability of AI decisions.
+    d) Maximizing model interpretability to aid in legal reasoning processes.
+
+
+14. What is "Model Interpretability," and why is it important in AI systems, especially in high-stakes applications?
+    a) The degree to which the internal workings of a model can be understood by humans. Important for building trust and ensuring decisions align with human values. *
+    b) A measure of how well models generalize to unseen data.
+    c) An indicator of computational efficiency in inference.
+    d) A metric used to compare different AI architectures based on their accuracy.
+
+
+15. Which of these is NOT typically considered during the "Data Preprocessing" phase?
+    a) Handling missing values and outliers.
+    b) Performing dimensionality reduction using techniques like PCA.
+    c) Selecting appropriate evaluation metrics for the task (model validation). *
+    d) Implementing algorithms to mitigate bias in the dataset.
+
+
+16. What is "Concept Drift" in machine learning, and why can it be problematic?
+    a) When the statistical properties of the data being predicted change over time.
+        It can lead to degraded performance as the model was trained on outdated distributions. *
+    b) A technique for reducing model complexity and preventing overfitting.
+    c) A method for handling missing values in datasets.
+    d) An approach for combining predictions from multiple models.
+
+
+17. Which of these statements about "Fairness in AI" is NOT accurate?
+    a) Fairness in AI aims to ensure that algorithms do not discriminate based on sensitive attributes like race or gender.
+    b) Achieving fairness often requires careful consideration of data biases and algorithmic choices. *
+    c) Fairness metrics can be applied post-hoc to evaluate models without altering their architecture.
+    d) It's a technical issue that can be fully resolved by tweaking model parameters alone.
+
+
+18. What is "Model Explainability," and how does it differ from "Interpretability"?
+    a) The degree to which it is possible for humans to understand the reasoning behind a model’s decisions. *
+    b) The computational efficiency of generating predictions from a trained model.
+    c) How well a model generalizes to unseen data (a metric of its predictive accuracy).
+    d) A method for visualizing internal representations learned by neural networks.
+
+
+19. Considering the ethical implications in AI, which of the following is NOT typically considered a primary concern?
+    a) Transparency and accountability of AI systems.
+    b) Ensuring privacy and security of user data. *
+    c) Maximizing computational efficiency to reduce energy consumption.
+    d) Achieving high predictive accuracy regardless of potential biases or unfairness.
+
+
+20. What is "Adversarial Machine Learning," and what are its primary concerns?
+    a) The study of designing robust models that can withstand malicious attacks or manipulated inputs. *
+    b) A technique for improving model interpretability through visualizations.
+    c) An approach to reduce the computational cost of training deep learning models.
+    d) A method for generating synthetic data to augment datasets.
+
+
+21. Which of these is NOT a common technique used in "Transfer Learning"?
+    a) Fine-tuning pre-trained models on new tasks with smaller datasets.
+    b) Using pre-trained models as feature extractors for new, related problems. *
+    c) Training models from scratch for each new task to avoid potential biases from pre-training.
+    d) Increasing the depth of neural networks to capture more complex patterns across domains.
+
+
+22. Considering an AI application in healthcare, which ethical challenge would be most pressing?
+    a) Ensuring patient data privacy and security. *
+    b) Maximizing model performance through extensive hyperparameter tuning.
+    c) Achieving state-of-the-art accuracy without considering potential biases.
+    d) Minimizing the computational resources required for inference in resource-constrained settings.
+
+
+23. What does "Bias in AI" primarily refer to?
+    a) Inherent systematic errors or unfairness in data collection, leading to skewed model predictions. *
+    b) The preference of models to choose simpler solutions over complex ones for generalization.
+    c) The trade-off between model complexity and computational efficiency.
+    d) A technique to reduce variance in statistical models.
+
+
+24. Which of these is NOT a common approach to handling class imbalance in machine learning?
+    a) Oversampling the minority class.
+    b) Undersampling the majority class.
+    c) Using synthetic data generation (e.g., SMOTE). *
+    d) Directly optimizing for class-wise performance metrics during training.
+
+
+25. What is "Explainable AI" (XAI), and why is it gaining importance in the field of AI?
+    a) Creating models that can justify their decisions in understandable human terms to build trust and ensure ethical use. *
+    b) Techniques for improving computational efficiency, reducing training times.
+    c) Methods for handling large-scale data without significant hardware upgrades.
+    d) Approaches to enhance model interpretability through complex visualization techniques.
+
+26. In which machine learning scenario is "Unsupervised Learning" typically applied?
+    a) When labeled training data is readily available for classification or regression tasks. *
+    b) When the aim is to predict outcomes based on input features without explicit guidance, often using clustering techniques like K-means.
+    c) When dealing with time series forecasting problems where future values depend on past measurements.
+    d) In reinforcement learning scenarios where an agent learns from trial and error in an environment.
+
+27. What is a common problem addressed by "Generative Adversarial Networks" (GANs)?
+    a) Sequence prediction tasks like language modeling or speech synthesis.
+    b) Unsupervised representation learning through competitive layer training. *
+    c) Directly optimizing for classification accuracy using labeled data.
+    d) Efficiently handling large-scale numerical computations in deep learning models.
+
+28. Which of the following is NOT a primary technique used in "Reinforcement Learning" (RL)?
+    a) Q-Learning, which involves updating action-value functions iteratively. *
+    b) Supervised learning algorithms applied to predict outcomes based on labeled examples.
+    c) Policy gradients that optimize policies directly via gradient ascent on expected cumulative reward.
+    d) Unsupervised pretraining followed by fine-tuning for improved performance on downstream tasks.
+
+29. Considering AI in natural language processing, which of the following is NOT a fundamental concept?
+    a) Tokenization: Breaking text into words or subwords for model input. *
+    b) Word embeddings: Representing words as dense vectors capturing semantic relationships.
+    c) Convolutional Neural Networks (CNNs): Primarily used for sequence modeling in NLP tasks.
+    d) Recurrent Neural Networks (RNNs): Well-suited for handling sequential data like text.
+
+30. What is "Active Learning" in machine learning, and how does it differ from traditional supervised learning?
+    a) A method where the model actively selects the most informative samples to be labeled by humans. *
+    b) Training models using large, unstructured datasets without human intervention.
+    c) Optimizing models for minimal computational resources during inference.
+    d) Ensuring robustness against adversarial attacks in deep learning models.

@@ -1,0 +1,179 @@
+1.  What is the fundamental distinction between artificial intelligence and traditional computer programming?
+    a) AI is limited to processing pre-defined instructions, while traditional programming can adapt to changing conditions.
+    b) Traditional programming is more efficient for complex tasks, while AI is better at handling unstructured data. *
+    c) They are essentially the same, with AI being a more advanced form of traditional programming.
+    d) AI focuses on creating physical robots, while traditional programming focuses on software applications.
+
+2.  Explain the concept of "supervised learning" and provide a real-world example of how it is applied.
+    a) Supervised learning involves training a model on unlabeled data. A real-world example is a robot learning to navigate.
+    b) Supervised learning uses labeled data to train a model to predict outcomes. An example is spam detection in email. *
+    c) Supervised learning is a type of unsupervised learning. A real-world example is image recognition.
+    d) Supervised learning requires a large amount of data. A real-world example is predicting stock prices.
+
+3.  Describe the difference between "regression" and "classification" in the context of machine learning.
+    a) Regression is used for categorizing data, while classification is used for predicting continuous values.
+    b) Regression is used for predicting continuous values, while classification is used for categorizing data. *
+    c) Regression and classification are the same thing.
+    d) Regression is used for image processing, while classification is used for text analysis.
+
+4.  What is the purpose of a "validation set" in a machine learning project?
+    a) To store the training data.
+    b) To evaluate the model's performance on unseen data and prevent overfitting. *
+    c) To create a separate dataset for testing.
+    d) To reduce the size of the training dataset.
+
+5.  Define "overfitting" and explain how it can be addressed.
+    a) Overfitting is when a model is too simple to accurately represent the data.
+    b) Overfitting is when a model learns the training data too well and performs poorly on new data. *
+    c) Overfitting is a desirable characteristic of a model.
+    d) Overfitting is the process of reducing the number of features in a model.
+
+6.  What is the role of "features" in a machine learning model?
+    a) Features are the labels used to train the model.
+    b) Features are the input variables used to train the model. *
+    c) Features are the output variables used to evaluate the model.
+    d) Features are the data used to store the model's weights.
+
+7.  Explain the concept of "data augmentation" and provide an example.
+    a) Data augmentation is the process of removing noise from data.
+    b) Data augmentation is the process of creating new, modified versions of existing data to increase the size of the training dataset. *
+    c) Data augmentation is the process of organizing data into a specific format.
+    d) Data augmentation is the process of reducing the size of a model.
+
+8.  What is the difference between "precision" and "recall" in the context of classification?
+    a) Precision is the percentage of false positives, while recall is the percentage of true positives.
+    b) Precision is the percentage of true positives, while recall is the percentage of false negatives. *
+    c) Precision and recall are the same thing.
+    d) Precision is used for image recognition, while recall is used for text analysis.
+
+9.  Describe the concept of "transfer learning" and give an example of its application.
+    a) Transfer learning is the process of creating a new model from scratch.
+    b) Transfer learning is the process of using a model trained on one task to improve performance on a related task. *
+    c) Transfer learning is the process of reducing the size of a model.
+    d) Transfer learning is the process of increasing the complexity of a model.
+
+10. What are the benefits of using "deep learning" models?
+    a) Deep learning models are always faster than traditional machine learning models.
+    b) Deep learning models are more complex and require more data. *
+    c) Deep learning models are less accurate than traditional machine learning models.
+    d) Deep learning models are not applicable to real-world problems.
+
+11. Explain the concept of "neural networks" and their role in deep learning.
+    a) Neural networks are a type of computer programming language.
+    b) Neural networks are a type of algorithm inspired by the structure of the human brain. *
+    c) Neural networks are a type of data visualization tool.
+    d) Neural networks are a type of data storage mechanism.
+
+12. What are the advantages and disadvantages of using "convolutional neural networks" (CNNs)?
+    a) CNNs are good for processing sequential data, but not for image recognition.
+    b) CNNs are good for image recognition and computer vision tasks. They can be computationally expensive. *
+    c) CNNs are not used in computer vision.
+    d) CNNs are only used for natural language processing.
+
+13. What is the purpose of "hyperparameter tuning"?
+    a) To reduce the size of a model.
+    b) To optimize the hyperparameters of a machine learning model to improve its performance. *
+    c) To increase the complexity of a model.
+    d) To reduce the amount of data required to train a model.
+
+14. Explain the difference between "supervised learning" and "unsupervised learning".
+    a) Supervised learning requires labeled data, while unsupervised learning does not. *
+    b) Supervised learning requires more data than unsupervised learning.
+    c) Supervised learning is used for image recognition, while unsupervised learning is used for text analysis.
+    d) Supervised learning is a type of data visualization tool.
+
+15. What is the role of "algorithms" in machine learning?
+    a) Algorithms are the data used to train a model.
+    b) Algorithms are the sets of instructions that a computer follows to solve a problem. *
+    c) Algorithms are the labels used to train a model.
+    d) Algorithms are the data used to evaluate a model.
+
+16. What are some common evaluation metrics used to assess the performance of a classification model?
+    a) Mean Squared Error (MSE), Root Mean Squared Error (RMSE)
+    b) Accuracy, Precision, Recall, F1-score *
+    c) R-squared, Adjusted R-squared
+    d) Mean Absolute Error (MAE)
+
+17. What is the difference between "linear regression" and "logistic regression"?
+    a) Linear regression is used for classification, while logistic regression is used for regression.
+    b) Linear regression is used for regression, while logistic regression is used for classification. *
+    c) Linear regression is more complex than logistic regression.
+    d) Linear regression is only used for continuous data, while logistic regression is only used for categorical data.
+
+18. Explain the concept of "bias-variance tradeoff" in machine learning.
+    a) Bias-variance tradeoff is the relationship between the amount of data and the complexity of the model.
+    b) Bias-variance tradeoff is the relationship between the accuracy of a model and the amount of noise in the data. *
+    c) Bias-variance tradeoff is the relationship between the speed of a model and the amount of memory it requires.
+    d) Bias-variance tradeoff is the relationship between the complexity of a model and the amount of training data.
+
+19. What is the purpose of "cross-validation"?
+    a) To reduce the amount of data required to train a model.
+    b) To evaluate the performance of a model on unseen data and prevent overfitting. *
+    c) To increase the complexity of a model.
+    d) To reduce the computational cost of training a model.
+
+20. What are some ethical considerations in the development and deployment of AI systems?
+    a) Ensuring fairness, transparency, and accountability in AI systems. *
+    b) Reducing the cost of AI development.
+    c) Increasing the complexity of AI systems.
+    d) Avoiding data collection.
+
+21. Explain the concept of "edge computing" in the context of AI.
+    a) Edge computing is a type of data storage.
+    b) Edge computing is the process of running AI models on devices at the edge of the network. *
+    c) Edge computing is a type of data visualization tool.
+    d) Edge computing is a type of data analysis technique.
+
+22. What are some common applications of AI in healthcare?
+    a) Drug discovery, medical image analysis, personalized medicine. *
+    b) Data storage, data visualization, data analysis.
+    c) Data collection, data storage, data visualization.
+    d) Data analysis, data storage, data visualization.
+
+23. What is the role of "natural language processing (NLP)" in AI?
+    a) NLP is the process of translating languages.
+    b) NLP is the field of AI that enables computers to understand and process human language. *
+    c) NLP is the field of AI that enables computers to generate images.
+    d) NLP is the field of AI that enables computers to generate music.
+
+24. Explain the difference between "supervised learning" and "unsupervised learning" in terms of the type of data they require.
+    a) Supervised learning requires labeled data, while unsupervised learning does not. *
+    b) Supervised learning requires more data than unsupervised learning.
+    c) Supervised learning is used for image recognition, while unsupervised learning is used for text analysis.
+    d) Supervised learning is only used for continuous data, while unsupervised learning is only used for categorical data.
+
+25. What are some common techniques used for feature selection?
+    a) Principal Component Analysis (PCA), Feature Importance, Recursive Feature Elimination *
+    b) Data augmentation, data cleaning, data visualization
+    c) Data storage, data analysis, data visualization
+    d) Data collection, data storage, data visualization
+
+26. What is the difference between "deep learning" and "traditional machine learning"?
+    a) Deep learning is always faster than traditional machine learning.
+    b) Deep learning uses artificial neural networks with multiple layers, while traditional machine learning uses simpler algorithms. *
+    c) Deep learning is only used for image recognition, while traditional machine learning is only used for text analysis.
+    d) Deep learning is only used for continuous data, while traditional machine learning is only used for categorical data.
+
+27. What is the purpose of "model interpretability"?
+    a) To reduce the complexity of a model.
+    b) To make the decisions of a model understandable to humans. *
+    c) To increase the accuracy of a model.
+    d) To reduce the computational cost of training a model.
+
+28. Explain the concept of "reinforcement learning".
+    a) Reinforcement learning is a type of supervised learning.
+    b) Reinforcement learning is a type of unsupervised learning. *
+    c) Reinforcement learning is a type of deep learning.
+    d) Reinforcement learning is a type of data visualization tool.
+
+29. What are some common applications of reinforcement learning?
+    a) Game playing, robotics, resource management. *
+    b) Data storage, data analysis, data visualization.
+    c) Data collection, data storage, data visualization.
+    d) Data analysis, data storage, data visualization.
+
+30. What is the role of "cloud computing" in AI development?
+    a) Cloud computing is a type of data storage.
+    b) Cloud computing provides the infrastructure and resources needed to develop and deploy AI models. *
+    c) Cloud computing is a type of data visualization tool.
+    d) Cloud computing is a type of data analysis technique.

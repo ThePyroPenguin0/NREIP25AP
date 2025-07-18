@@ -2,7 +2,7 @@ import re
 from collections import Counter
 
 def format_questions(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
+    with open(file_path, 'r') as f:
         content = f.read()
     new_content = re.sub(r'^(\d+)\)', r'\1.', content, flags=re.MULTILINE)
     with open(file_path, 'w', encoding='utf-8') as f:
@@ -57,14 +57,14 @@ def print_word_frequencies(entries, word):
     print(f"The word '{word}' appears {total_instances} time(s) with a {100*frequency:.2f}% chance of appearing in any answer in this list.")
     return frequency
 
-def get_correct_answer_frequency(answers_list, min_length=5, top_n=15):
+def get_keyword_frequency(answers_list, min_length=5, top_n=15):
     text = ' '.join(answers_list).lower()
-    words = re.findall(r'\b[a-zA-Z]{%d,}\b' % min_length, text)
+    words = re.findall(r'\b[a-zA-Z]{%d,}\b' % min_length, text) # I hate RegEx I hate RegEx I hate RegEx
     common = Counter(words).most_common(top_n)
     return [word for word, _ in common]
 
 def main():
-    filepath = r'C:\Users\glipo\Documents\GitHub\NREIP25AP\ChatLogs\chat-granite3.3-8B_2.txt'
+    filepath = r'C:\Users\glipo\Documents\GitHub\NREIP25AP\ChatLogs\chat-granite3.3-8B_RAG_1.txt'
     # format_questions(filepath)
     correct_answers_list, incorrect_answers_list = read_quiz(filepath)
 
@@ -76,8 +76,9 @@ def main():
     answer_length(correct_answers_list, incorrect_answers_list)
     print("\n")
 
+    # Static list of keywords formerly used, now dynamically generated
     # keywords = ['ai', 'agent', 'system', 'systems', 'information', 'language', 'environment', 'all of the above', 'none of the above', 'reasoning', 'knowledge', 'represenation', 'expert', 'algorithm', 'algorithms']
-    keywords = get_correct_answer_frequency(correct_answers_list, min_length=5, top_n=30)
+    keywords = get_keyword_frequency(correct_answers_list, min_length=5, top_n=30)
     keywords.append('all of the above')
     keywords.append('none of the above')
     for word in keywords:
@@ -85,8 +86,10 @@ def main():
         incorrect_frequency = print_word_frequencies(incorrect_answers_list, word)
         if incorrect_frequency != 0:
             percent_more_likely = (correct_frequency / incorrect_frequency) * 100
-            print(f'"{word}" is {percent_more_likely:.2f}% as likely to appear in correct answers compared to incorrect answers.\n')
+            print(f'"The word {word}" is {percent_more_likely:.2f}% as likely to appear in correct answers compared to incorrect answers.\n')
+        elif(correct_frequency == 0):
+            print(f'"{word}" is not present in the correct answers list.\n')
         else:
-            print(f'"{word}" does not appear in incorrect answers.\n')
+            print(f'Any answer with "{word}" will always be correct.\n')
 
 main()

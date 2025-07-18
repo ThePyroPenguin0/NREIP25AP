@@ -1,0 +1,179 @@
+1. Which of the following best describes the core goal of artificial intelligence?
+a) To create machines that can only perform pre-programmed tasks.
+b) To replicate human intelligence and cognitive abilities. *
+c) To automate all tasks currently performed by humans.
+d) To develop machines that are physically stronger than humans.
+
+2. What is machine learning?
+a) A type of programming that allows computers to follow strict, step-by-step instructions.
+b) A field of computer science that enables systems to learn from data without explicit programming. *
+c) A process of manually writing code to solve specific problems.
+d) A method of creating robots that can perform physical tasks.
+
+3. Which type of machine learning algorithm learns from labeled data?
+a) Unsupervised learning
+b) Reinforcement learning
+c) Supervised learning *
+d) Semi-supervised learning
+
+4. What is the purpose of training an AI model?
+a) To reduce the number of data points required.
+b) To optimize the model's ability to make accurate predictions based on data. *
+c) To make the model easier to understand.
+d) To increase the model's computational speed.
+
+5. What does "data cleaning" typically involve?
+a) Creating new datasets from existing ones.
+b) Removing errors, inconsistencies, and missing values from datasets. *
+c) Organizing data into a specific format.
+d) Augmenting data with synthetic data.
+
+6. Which of the following is a common application of supervised learning?
+a) Predicting customer behavior based on historical data. *
+b) Discovering patterns in unlabeled data.
+c) Controlling a robot's movements.
+d) Generating creative content like art or music.
+
+7. What is the difference between supervised and unsupervised learning?
+a) Supervised learning requires labeled data, while unsupervised learning does not. *
+b) Supervised learning is faster than unsupervised learning.
+c) Supervised learning is only used for classification tasks.
+d) Unsupervised learning is only used for regression tasks.
+
+8. What is the role of a "feature" in machine learning?
+a) The output of the model.
+b) A measurable characteristic of a phenomenon, used as input to the model. *
+c) The process of training the model.
+d) The data used to evaluate the model's performance.
+
+9. What is the purpose of a validation set in machine learning?
+a) To train the model on a large portion of the data.
+b) To evaluate the model's performance on unseen data and prevent overfitting. *
+c) To create a separate dataset for testing.
+d) To reduce the size of the training dataset.
+
+10. What is overfitting?
+a) When a model generalizes well to new data.
+b) When a model learns the training data too well and performs poorly on unseen data. *
+c) When a model is too complex to understand.
+d) When a model is too simple to be effective.
+
+11. What is the difference between classification and regression?
+a) Classification predicts categories, while regression predicts continuous values. *
+b) Classification is used for image recognition, while regression is used for text analysis.
+c) Classification is faster than regression.
+d) Regression is only used for time series data.
+
+12. Which of the following is an example of a classification task?
+a) Predicting house prices.
+b) Forecasting sales.
+c) Identifying spam emails. *
+d) Determining the optimal route for a delivery driver.
+
+13. Which of the following is an example of a regression task?
+a) Categorizing customers into different segments.
+b) Predicting stock prices. *
+c) Detecting fraudulent transactions.
+d) Matching users with relevant products.
+
+14. What is the concept of "reinforcement learning"?
+a) Training an AI agent through trial and error to maximize a reward. *
+b) Using supervised learning to classify data.
+c) Creating a model that can generate text.
+d) Automating data cleaning tasks.
+
+15. What is the role of a "reward" in reinforcement learning?
+a) To penalize incorrect actions.
+b) To provide feedback to the agent on the quality of its actions. *
+c) To limit the agent's exploration of the environment.
+d) To ensure the agent learns a safe policy.
+
+16. What is the purpose of a model evaluation metric?
+a) To identify the best features for a model.
+b) To measure how well a model performs on a given task. *
+c) To reduce the computational cost of training a model.
+d) To create a visualization of the model's predictions.
+
+17. Which of the following is a common evaluation metric for classification tasks?
+a) Mean Squared Error (MSE)
+b) R-squared
+c) Accuracy *
+d) Root Mean Squared Error (RMSE)
+
+18. Which of the following is a common evaluation metric for regression tasks?
+a) Accuracy
+b) Precision
+c) Recall
+d) Mean Absolute Error (MAE) *
+
+19. What is "data augmentation"?
+a) The process of removing noise from data.
+b) The process of creating new, modified versions of existing data to increase the size of the training dataset. *
+c) The process of organizing data into a specific format.
+d) The process of cleaning data.
+
+20. What is the purpose of a "model" in AI?
+a) To store the training data.
+b) To represent the learned patterns and relationships from data. *
+c) To provide a user interface for interacting with the AI system.
+d) To manage the computational resources used by the AI system.
+
+21. What is "neural network" in the context of AI?
+a) A type of algorithm that mimics the structure of the human brain. *
+b) A programming language for developing AI applications.
+c) A method for visualizing data.
+d) A tool for data analysis.
+
+22. What is the role of "layers" in a neural network?
+a) To store the weights of the network.
+b) To process data in multiple stages, extracting increasingly complex features. *
+c) To control the flow of data through the network.
+d) To provide a user interface for interacting with the network.
+
+23. What is "deep learning"?
+a) A type of machine learning that uses artificial neural networks with multiple layers. *
+b) A method for data visualization.
+c) A programming language for AI development.
+d) A technique for data cleaning.
+
+24. What is the difference between supervised and unsupervised learning in terms of the data they require?
+a) Supervised learning requires labeled data, while unsupervised learning does not. *
+b) Supervised learning requires more data than unsupervised learning.
+c) Supervised learning requires only input data, while unsupervised learning requires only output data.
+d) Supervised learning is only used for classification, while unsupervised learning is only used for regression.
+
+25. What is the concept of "transfer learning"?
+a) Using data from one domain to train a model for a different, related domain. *
+b) Creating a new model from scratch.
+c) Reducing the size of a model.
+d) Increasing the complexity of a model.
+
+26. What is the role of "algorithms" in AI?
+a) To provide a user interface for interacting with AI systems.
+b) To provide a set of instructions that a computer follows to solve a problem. *
+c) To store the training data.
+d) To visualize data.
+
+27. What is the difference between supervised and unsupervised learning algorithms?
+a) Supervised algorithms require labeled data, while unsupervised algorithms do not. *
+b) Supervised algorithms are faster than unsupervised algorithms.
+c) Supervised algorithms are only used for classification, while unsupervised algorithms are only used for regression.
+d) Supervised algorithms are more complex than unsupervised algorithms.
+
+28. What is the purpose of "feature engineering"?
+a) To clean and preprocess data.
+b) To select and transform raw data into features that are suitable for machine learning models. *
+c) To create new features from existing ones.
+d) To visualize data.
+
+29. What is the difference between precision and recall in classification?
+a) Precision is the percentage of correctly classified instances, while recall is the percentage of actual positive instances that are correctly identified. *
+b) Precision is the percentage of correctly classified instances, while recall is the percentage of incorrectly classified instances.
+c) Precision is the percentage of positive instances, while recall is the percentage of negative instances.
+d) Precision is the number of false positives, while recall is the number of false negatives.
+
+30. What is the importance of ethical considerations in AI development?
+a) To ensure that AI systems are fair, transparent, and accountable. *
+b) To reduce the computational cost of AI development.
+c) To make AI systems more complex.
+d) To avoid data collection.

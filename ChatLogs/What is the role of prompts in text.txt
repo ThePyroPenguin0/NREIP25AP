@@ -1,0 +1,106 @@
+What is the role of prompts in text-based generative AI?
+
+Select one
+To store previously generated responses
+
+To fix errors in the AI's output
+
+To increase the speed of text generation
+
+To direct the type and structure of generated text output *
+
+
+What is Artificial Intelligence (AI)?
+
+Select one
+A field dedicated to building machines that can perform intelligent tasks *
+
+A type of computer programming language
+
+A set of fixed rules that computers must follow
+
+A collection of training data used to teach computers
+
+
+What is the correct definition of a neural network?
+
+Select one
+A computing system that processes data through connected layers of nodes *
+
+A type of deep learning system that processes complex data
+
+A system that builds detailed understanding of input through a single processing layer
+
+A method for teaching computers to recognize only complex patterns in images
+
+
+What is the primary purpose of synthetic data in AI systems?
+
+Select one
+It ensures complete transparency in AI systems
+
+It provides an alternative when real data is scarce or sensitive *
+
+It replaces all real data in AI training
+
+It eliminates all bias from AI training
+
+
+What is the key distinguishing characteristic of unsupervised learning compared to other types of machine learning?
+
+Select one
+It makes sequential decisions to reach goals
+
+It uses a system of rewards and penalties
+
+It works with unlabeled data and finds patterns independently *
+
+It learns from examples with known outcomes
+
+
+What is the defining characteristic of Large Language Models (LLMs) that distinguishes them from other transformer models?
+
+Select one
+They are the only AI models that can process language
+
+They are the only type of generative AI
+
+They use attention mechanisms to understand context
+
+They are transformer models trained on vast amounts of text data *
+
+
+What is the defining characteristic of Large Language Models (LLMs) that distinguishes them from other transformer models?
+
+Select one
+They are the only AI models that can process language
+
+They are the only type of generative AI
+
+They use attention mechanisms to understand context
+
+They are transformer models trained on vast amounts of text data *
+
+
+What is the primary purpose of the two-step training process (pre-training and fine-tuning) in generative AI?
+
+Select one
+To eliminate the need for large datasets
+
+To create multiple versions of the same model
+
+To combine broad knowledge with specialized capabilities *
+
+To reduce the total training time required
+
+
+What is the core purpose of prompts in AI image generation?
+
+Select one
+To store previously created images
+
+To compress image files
+
+To increase image resolution
+
+To guide the visual characteristics and content of generated images *

@@ -1,0 +1,208 @@
+1. Artificial intelligence can be described as:
+a) Software trying to duplicate human thinking
+b) Software doing things beyond human capabilities
+c) Robots, cyborgs, and other evil intelligences that want to make humans their slaves
+d) Software doing things humans would consider requiring intelligence *
+
+2. AI:
+a) Does not necessarily model human thinking
+b) Is not advanced software engineering
+c) Does not benefit from large amounts of training data
+d) A and B *
+e) A, B, and C
+ 
+3. Usually, AI:
+a) Focuses heavily on data and may need to spend much time examining data
+b) Needs many more cycles of testing and improvement than conventional softwaruilding the AI
+c) Is not guaranteed to always work
+d) All of the above *
+
+4. Which is a way that AI differs from traditional data analysis?
+a) AI usually does not require as much data
+b) AI reaches more complex conclusions about data *
+c) AI does not use statistics like means and standard deviations
+d) AI is just sophisticated data analysis
+
+5. Which is the standard approach to developing an AI application?
+a) Find an appropriate AI model, train the model using machine learning, clean the output data, identify  relevant output data
+b) Identify relevant data, clean the data, find an appropriate AI model, train the model using machine learning *
+c) Identify relevant data, find an appropriate AI model, train the model using machine learning, clean the output data
+d) Find an appropriate AI model, Identify relevant data, clean the data, train the model using machine learning
+
+6. AI models carry the biases of their creators…
+a) Always
+b) Sometimes *
+c) Rarely
+d) Never
+
+7. AI models carry the biases latent in the data on which they are trained…
+a) Always *
+b) Sometimes
+c) Rarely
+d) Never
+
+8. Which of the following are potential data and training issues with AI?
+a) The need for extensive data preparation and cleaning
+b) Model/data drift
+c) Algorithmic bias
+d) All of the above *
+ 
+9. You want to use a neural network to select the best candidates for promotion in your organization using their current employment histories. What is the most serious concern about bias in the network?
+a) Neural networks cannot find biases in their data
+b) The training data reflects existing biases in employment *
+c) Neural networks were invented by white people and are unfair to blacks
+d) You will still have bias in the network unless you use hundreds of layers
+
+10. Which is NOT required for a “trustworthy” AI system?
+a) Effective and safe
+b) Secure and Private
+c) Fully automated and unmonitored *
+d) Transparent and explainable
+
+11. What is cross-validation of an AI model?
+a) Checking whether results on one set of data are close to results on another set
+b) Testing on a different set of data than used for training the model
+c) Splitting tagged data randomly into a training set and a test set
+d) Splitting tagged data randomly into a training set and a test set several ways and comparing results for consistency *
+ 
+12. If an object is made entirely out of wood, then we can assume that any part of it is also made of wood. What is the name for this kind of inference?
+a) Transitivity
+b) Inheritance *
+c) Materialization
+d) Induction
+
+13. What is a “random forest”?
+a) A set of decision trees with a set of randomly chosen initial questions
+b) A set of decision trees with random chosen questions along their branches *
+c) A set of decision trees representing parts of a much larger decision tree
+d) A place where evolutionary algorithms evolve, populated by random artificial predators
+
+14. How are “deepfakes” constructed by AI programs?
+a) By generative AI using “deep” large language models
+b) By deep generative adversarial neural networks *
+c) By evolutionary computing using deep neural networks
+d) By expert art forgers working in “deep” human-AI teams
+ 
+15. Adversarial AI, where adversaries deliberately try to hurt the performance of AI systems, is mainly concerned with the threat of:
+a) Adversaries modifying the weights of a trained neural-network model to give false results.
+b) Adversaries modifying the hyperparameters (non-weight parameters such as constant arguments to the nonlinear function) of a neural-network model to give false results
+c) Adversaries creating misleading training data for our systems *
+d) Adversaries inserting malware inside AI software
+
+16. A concern is that AI algorithms do not always understand human society and could do harmful things. What is the best strategy to combat this?
+a) Increase the number of their inputs so they see the full context of decision-making
+b) Use unsupervised machine learning so bad ideas are not imposed on AI
+c) Provide a thorough explanation capability so the AI can explain why it does things *
+d) Use good programmers with considerable software experience
+
+17. A concern is that AI programs may not value things like safety as much humans do. How do we best improve that?
+a) Give the AI a ranked list of the values we consider important
+b) Give the AI a numeric ranking function for the options it recommends that includes measurements of all the values we have
+c) Give AI the ability to models human brains in full detail, including emotions and values
+d) Give the AI examples of results we want from it as well as results we do not from it, so it can learn our preferences *
+
+18. How does machine learning differ from artificial intelligence?
+a) Artificial intelligence is the hard cases of machine learning
+b) Machine learning imitates human methods whereas AI does not
+c) Machine learning is optimization of artificial-intelligence methods *
+d) They are very similar terms, and some vendors use one and some use the other
+
+19. What can make machine learning model development time-intensive?
+a) Model parameter optimization
+b) Model architecture and hyper-parameter search
+c) Dataset creation
+d) All of the above *
+
+20. Which type of machine learning requires curated, structured input and output pairs?
+a) Supervised *
+b) Unsupervised
+c) Reinforcement Learning
+d) All of the above
+
+21. What amount of the time should well performing machine learning models be expected to make an error?
+a) Always
+b) Often
+c) Rarely *
+d) Never
+
+22. Large Language Models (e.g. ChatGPT) are doing next token prediction, like auto-complete does
+a) True *
+b) False
+
+23. Why is machine learning often used for recognizing cyberattacks on digital technology?
+a) Attackers change their methods constantly
+b) Too much cyberattack data is available for humans to understand *
+c) Different countries have distinctive attack methods
+d) Attacks often use machine learning to disguise what they are doing, so it’s only fair
+ 
+24. Is the Google browser using artificial intelligence?
+a) Yes, because it can search for sequences of words
+b) Yes, because it knows verb and noun forms
+c) No, because it does not understand word meanings *
+d) No, because it answers questions using indexes much more quickly than people
+
+25. Which is NOT part of the U.S. President’s 2023 AI Strategic Plan?
+a) Develop shared public datasets and environments for AI training and testing
+b) Better understand the national AI R&D workforce needs *
+c) Establish a principled and coordinated approach to AI software development
+
+26. You’ve been asked to look into using AI for predicting failures of government contracts based on features of the contractor such as years in business, market capitalization, and fraud investigations. What possible problems are most important to investigate?
+a) Defining “failure” precisely
+b) Identifying who will benefit from the data and how
+c) Formulating a mechanism for collecting data
+d) All of the above *
+
+27. Generative AI using large language models to answer questions has been criticized for all reasons EXCEPT
+a) It “hallucinates” answers that have no basis in facts
+b) People are overly and unfairly impressed with an ability to carry on a conversation *
+c) It requires large organizations with many resources
+d) It can violate copyright laws
+
+28. Artificial intelligence would be least useful for medical diagnosis in which of the following cases?
+a) A rare disease *
+b) A disease that has a definitive blood test
+c) A disease with a wide range of symptoms
+d) A disease that is misdiagnosed frequently by professionals
+
+29. You are evaluating for purchase by the VA an AI program that can detect previously undetected early stages of cancer based on several million medical images. It uses a neural network. On what performance metric will such as program likely do the worst?
+a) Accuracy, since it is new
+b) Storage required, to hold the training images
+c) Speed of training, since it needs many cycles through the data *
+d) Speed of conclusions, since it will be a big neural network
+
+30. What is the major challenge in automated speech understanding?
+a) Different people pronounce words differently
+b) There are many possible words to recognize
+c) Speech sounds (phonemes) are very noisy data points, so context is needed to understand *
+d) Speech occurs so fast that it is difficult for digital technology to keep up 
+
+31. When neural networks are used for image processing and object recognition, what do the early layers (nearest the input) usually do?
+a) Identify in the whole image the large regions of similar color and texture
+b) Find shadows and other illumination effects
+c) Label local regions with their average colors
+d) Identify local regions of similar color and texture *
+
+32. In reinforcement learning for planning, it is best to modify a weight as follows:
+a) Multiply the weight of the previous plan node by a fixed attenuation factor K.
+b) Multiply the weight of the next node when the plan is completed by a fixed attenuation factor K
+c) Multiply the weight of the previous plan node by the ratio of the average plan cost divided by the plan cost eventually reached from this node *
+d) Multiply the weight of the next node when the plan is completed by the ratio of the average plan cost divided by the plan cost eventually reached from this node
+
+33. In a survey of patients at a large medical clinic, 150 patients had pain in their abdomen, and 250 had pancreatic cancer. 30 patients with pancreatic cancer had pain in their abdomen. What is the
+probability of pancreatic cancer in this clinic if a patient has pain in their abdomen?
+a) 5/3
+b) 1/50
+c) 9/125 *
+d) 3/5
+
+34. A neuron in an artificial neural network has three numeric inputs of 5, 8, and 6 with weights of 0.2, 0.25, and 0.5. It applies a nonlinear function of 7/(1+x) to get final outputs. What is its final output?
+a) 7/60
+b) 6
+c) 1 *
+d) 124
+
+35. Given that A is true if D is true or C is false, and E is false if D is false. What can we conclude if we are also told that C is false and E is true?
+a) B is false
+b) Either A is false or C is true
+c) A is false
+d) A is true *

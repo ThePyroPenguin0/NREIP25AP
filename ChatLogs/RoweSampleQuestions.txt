@@ -1,0 +1,148 @@
+1. Which is the LEAST serious possible harm of AI in the next 20 years?
+A) If it reasons about an adversary, the adversary may deliberately change their behavior and make the AI useless.
+B) It may be unable to explain its reasoning.
+C) It may make all humans obsolete. *
+D) It may run up high energy bills if it must be trained.
+E) It may have unfair hidden biases.
+
+2. Suppose you have an AI method that figures out relative importance of clues that an employee could be an insider threat in an organization. It uses statistics about previous insider incidents. What is the best term for what kind of method it is?
+A) logical reasoning
+B) numerical reasoning
+C) logical learning
+D) numerical learning *
+E) unsupervised learning
+
+3. Suppose you have an AI method to help with acquisition. It applies DoD policy to determine the right forms to use and which parts of them to fill out. What is the best term for what kind of method it is?
+A) logical reasoning *
+B) numerical reasoning
+C) logical learning
+D) numerical learning
+E) unsupervised learning
+
+4. Suppose we are using AI to rate targets for military operations. Its choices and ratings will be submitted to a group of human planners for final approval. What is the evaluation metric most important to measure for this system?
+A) Accuracy of its solutions
+B) Speed of its solutions
+C) Memory and storage needed
+D) "Explainability" of its methods *
+E) Epistemological adequacy (whether its methods can adequately model the
+data)
+
+5. Suppose an AI system infers the most likely nationalities of aircraft from their tracks. Eventually nationalities are confirmed from where they land. To learn from initial clues, it later stores them for each aircraft every minute with the eventual nationality that was revealed. What is the evaluation metric on which this system will perform the WORST?
+A) Accuracy of its solutions
+B) Speed of its solutions
+C) Memory and storage needed *
+D) "Explainability" of its methods
+E) Epistemological adequacy (whether its methods can adequately model the
+data)
+
+6. What kind of data does Wordnet fail to cover about common words of English?
+A) Different senses of words
+B) Synonyms for words
+C) Prepositions associated with words *
+D) Type-subtype relationships between words
+E) Part-whole relationships between words
+
+7. Which property and relationship can best be said to exhibit inheritance?
+A) Property: color of object; Relationship: next_to
+B) Property: name of object; Relationship: inside_of
+C) Property: shape of object; Relationship: a_kind_of
+D) Property: time of event; Relationship: before
+E) Property: location of object; Relationship: inside_of *
+
+8. You have an innovative AI system that tries to identify nuclear submarines from clues on the surface. In tests, it had 200 true positives, 40 false positives, and 60 false negatives. What is its F1-score?
+A) 5/6
+B) 8/10 *
+C) 5/13
+D) 1/2
+E) 1/3
+
+9. Which is the LEAST important obstacle to data sharing between organizations?
+A) Data may be in incompatible formats.
+B) Personal names may need to be anonymized.
+C) Nobody thought about sharing before and no procedure exists.
+D) Data that you want to combine may be at different classification levels.
+E) There is no way to get the data between the organizations. *
+
+10. You have a file where a lines look like this: 17,18,33,28,3104,26,19,23. What is the name of the format?
+A) XML
+B) JSON
+C) CSV *
+D) TSV
+E) SQL
+
+11. Suppose we want to classify observed military vehicle types. We will take a weighted average of numeric clues to classify. Duration between transmitted communications is often a good clue, but intervals range from fractions of a second to days. What would be a good transformation to apply to the durations to prevent overweighting differences between very large or very small durations?
+A) logarithm
+B) square root
+C) logistic function *
+D) cube
+E) reciprocal (inverse)
+
+12. You have a three known data points for case-based reasoning: (x=4, y=1, class=good), (x=2, y=1, class=bad), (x=1, y=3, class-good). Suppose you have a new case with (x=1, y=1) but you do not know what the "class" variable is. What is its nearest neighbor and class using case-based reasoning with Euclidean distance?
+A. Item 1, "good"
+B. Item 2, "bad" *
+C. Item 3, "good"
+D. There is no nearest neighbor.
+E. The data are inconsistent so we cannot find the nearest neighbor.
+
+13. To approximate the distance between the meanings of two verbs with case-based reasoning, it would be most useful to:
+A. Measure the number of letters that match between the two verbs.
+B. Count the absolute value of the differences in the number of characters.
+C. Count the shortest number of steps between them in a type ("a_kind_of") hierarchy of verbs. *
+D. Count the number of meanings and synonyms they have in an online dictionary.
+E. Sum the number of steps from the topmost verb in the type ("a_kind_of") hierarchy of verbs, "act", for the two verbs.
+
+14. The probability of A&B is 0.2, the probability of A alone is 0.5, and the probability of B alone is 0.4. What is the probability of (A or B)?
+A. 0.7 *
+B. 0.1
+C. 0.3
+D. 0.9
+E. 0.5
+
+15. Assume when a workstation crashes, malware is responsible 13% of the time. Malware occurs in 7% of the weeks. Crashes of workstations occur in 11% of the weeks. What is the probability that a crash of a workstation is due to malware, using Bayes' Rule?
+A. 0.13*0.07*0.11
+B. 0.13*0.11/0.07 *
+C. 0.13/(0.07*0.11)
+D. 0.13*0.07/0.11
+E. 0.07*0.11/0.13
+
+16. Suppose we have a linear model x+2y which predicts class C when it calculates a number greater than 10. Suppose we have two cases of class C, x=5, y=5 and x=2, y=6 and one case not in class C, x=7, y=1. How correct is the model for the three cases?
+A. All cases are correct. *
+B. All cases but one are correct.
+C. Only one of the cases is correct.
+D. None of the cases are correct.
+E. It depends on the data as to which cases are correct.
+
+17. You are not sure what groupings occur in some numeric sensor data that is unlike any data you have examined before. What would likely be the best method to try first?
+A. decision tree
+B. principal components analysis *
+C. support-vector machine
+D. convolutional neural network
+E. Bayesian inference
+
+18. The LEAST important reason why artificial neural networks have nonlinearity is:
+A. Multi-layer networks do not make sense without nonlinearity.
+B. Biological neural networks have nonlinearity, and biological models are often useful analogies in artificial intelligence.
+C. Nonlinearity enables smaller networks. *
+D. We cannot model an exclusive-or without it. (An exclusive-or of A and B is true if either of A or B is true but not both.)
+E. It permits modeling relationships between factors.
+
+19. An artificial neural network is a good way to identify handwritten digits for all reasons EXCEPT:
+A. There are only ten.
+B. Neural networks are good at handling numerical inputs, and digits are numbers. *
+C. They do not require high-resolution images to identify.
+D. People are good at creating and identifying digits, so there is much training data.
+E. Digits were designed to look different from one another.
+
+20. Decision trees and neural networks have been called "compiled" AI methods. What is the LEAST important difference of compiled methods from other AI methods?
+A. Compiled methods often have difficulty with logical reasoning. *
+B. Compiled methods are often harder to explain and debug.
+C. Compiled methods can have problems with handling negations of facts.
+D. Compiled methods are often faster than uncompiled methods.
+E. Compiled methods are often important for the final versions of systems rather than prototypes.
+
+21. Artificial-intelligence agents are LEAST helpful in modeling:
+A. Information flow on a ship
+B. Platforms in an air-combat simulation
+C. People contributing to a negotiation
+D. Searching the Internet for reports of arms sales between countries
+E. Finding the drag of a particular airframe *

@@ -1,0 +1,180 @@
+1. Which of the following is the primary goal of artificial intelligence?
+a) To create machines that can only perform pre-programmed tasks.
+b) To replicate human intelligence and cognitive abilities. *
+c) To automate all tasks currently performed by humans.
+d) To develop machines that are physically stronger than humans.
+
+2. What is the core principle behind machine learning?
+a) Programming machines with explicit, step-by-step instructions.
+b) Learning from data without being explicitly programmed. *
+c) Manually writing code to solve specific problems.
+d) Creating robots that can perform physical tasks.
+
+3. Which type of machine learning algorithm learns from labeled data?
+a) Unsupervised learning
+b) Reinforcement learning
+c) Supervised learning *
+d) Semi-supervised learning
+
+4. What is the primary benefit of training an AI model?
+a) To reduce the computational cost of the model.
+b) To make the model easier to understand.
+c) To optimize the model's ability to make accurate predictions based on data. *
+d) To increase the model's computational speed.
+
+5. What does "data cleaning" typically involve?
+a) Creating new datasets from existing ones.
+b) Removing errors, inconsistencies, and missing values from datasets. *
+c) Organizing data into a specific format.
+d) Augmenting data with synthetic data.
+
+6. Which of the following is a common application of supervised learning?
+a) Predicting customer behavior based on historical data.
+b) Discovering patterns in unlabeled data.
+c) Identifying spam emails. *
+d) Controlling a robot's movements.
+
+7. What is the difference between supervised and unsupervised learning?
+a) Supervised learning requires labeled data, while unsupervised learning does not. *
+b) Supervised learning is faster than unsupervised learning.
+c) Supervised learning is only used for classification tasks.
+d) Unsupervised learning is only used for regression tasks.
+
+8. What is the role of a "feature" in machine learning?
+a) The output of the model.
+b) A measurable characteristic of a phenomenon, used as input to the model. *
+c) The process of training the model.
+d) The data used to evaluate the model's performance.
+
+9. What is the purpose of a validation set in machine learning?
+a) To train the model on a large portion of the data.
+b) To evaluate the model's performance on unseen data and prevent overfitting. *
+c) To create a separate dataset for testing.
+d) To reduce the size of the training dataset.
+
+10. What is overfitting?
+a) When a model generalizes well to new data.
+b) When a model learns the training data too well and performs poorly on unseen data. *
+c) When a model is too complex to understand.
+d) When a model is too simple to be effective.
+
+11. What is the difference between classification and regression?
+a) Classification predicts categories, while regression predicts continuous values. *
+b) Classification is used for image recognition, while regression is used for text analysis.
+c) Classification is faster than regression.
+d) Regression is only used for time series data.
+
+12. Which of the following is an example of a classification task?
+a) Predicting house prices.
+b) Forecasting sales.
+c) Identifying spam emails. *
+d) Determining the optimal route for a delivery driver.
+
+13. Which of the following is an example of a regression task?
+a) Categorizing customers into different segments.
+b) Predicting stock prices.
+c) Detecting fraudulent transactions.
+d) Matching users with relevant products. *
+
+14. What is the importance of feature engineering?
+a) To clean and preprocess data.
+b) To select and transform raw data into features that are suitable for machine learning models. *
+c) To create new features from existing ones.
+d) To visualize data.
+
+15. What does precision mean in the context of classification?
+a) The percentage of instances that are correctly classified.
+b) The percentage of instances that are correctly identified as positive. *
+c) The percentage of instances that are incorrectly classified as positive.
+d) The percentage of instances that are incorrectly classified as negative.
+
+16. What does recall mean in the context of classification?
+a) The percentage of instances that are correctly classified.
+b) The percentage of instances that are correctly identified as positive. *
+c) The percentage of instances that are incorrectly classified as positive.
+d) The percentage of instances that are incorrectly classified as negative.
+
+17. What is the purpose of ethical considerations in AI development?
+a) To ensure AI systems are fair, transparent, and accountable. *
+b) To reduce the computational cost of AI development.
+c) To make AI systems more complex.
+d) To avoid data collection.
+
+18. What is the difference between supervised and unsupervised learning?
+a) Supervised learning requires labeled data, while unsupervised learning does not. *
+b) Supervised learning is faster than unsupervised learning.
+c) Supervised learning is only used for classification tasks.
+d) Unsupervised learning is only used for regression tasks.
+
+19. What is the purpose of feature engineering?
+a) To clean and preprocess data.
+b) To select and transform raw data into features that are suitable for machine learning models. *
+c) To create new features from existing ones.
+d) To visualize data.
+
+20. What is the difference between precision and recall in classification?
+a) Precision is the percentage of instances that are correctly classified.
+b) Precision is the percentage of instances that are correctly identified as positive. *
+c) Precision is the percentage of instances that are incorrectly classified as positive.
+d) Precision is the percentage of instances that are incorrectly classified as negative.
+Okay, here are questions 21-30, following the same format and constraints as the previous questions. I've tried to cover a wider range of topics within introductory AI.
+
+21. What is the role of a loss function in machine learning?
+a) To visualize the model's predictions.
+b) To measure the difference between the model's predictions and the true values. *
+c) To train the model on a large portion of the data.
+d) To create a separate dataset for testing.
+
+22. Which of the following is a common technique for reducing overfitting?
+a) Increasing the number of features.
+b) Using a more complex model.
+c) Using regularization techniques like L1 or L2 regularization. *
+d) Reducing the size of the training dataset.
+
+23. What is the purpose of cross-validation?
+a) To reduce the compuataional cost of training a model.
+b) To evaluate the model's performaance on unseen data and prevent overfitting. *
+c) To create a separate dataset for testing.
+d) To select the best hyperparameters for a model.
+
+24. What is the difference between a supervised and an unsupervised learning task?
+a) Supervised learning requires labeled data, while unsupervised learning does not. *
+b) Supervised learning is faster than unsupervised learning.
+c) Supervised learning is onlly used for classification tasks.
+d) Unsupervised learning is onlly used for regression tasks.
+
+25. What is the purpose of data augmentation?
+a) To reduce the size of the training dataset.
+b) To create new data points from existing ones to increase the size and diversity of the training dataset. *
+c) To clean and preprocess data.
+d) To select and transform raw data into features that are suitable for machine learning models.
+
+26. What is the difference between a classification and a regression problem?
+a) Classification predicts categories, while regression predicts continuous values. *
+b) Classification is used for image recognition, while regression is used for text analysis.
+c) Classification is faster than regression.
+d) Regression is onlly used for time series data.
+
+27. What is the role of a "hyperparameter" in a machine learning model?
+a) The input data used to train the model.
+b) A parameter that is set before training and controls the learning process. *
+c) The output of the model.
+d) The process of training the model.
+
+28. What is the purpose of a validation set?
+a) To train the model on a large portion of the data.
+b) To evaluate the model's performaance on unseen data and prevent overfitting. *
+c) To create a separate dataset for testing.
+d) To reduce the size of the training dataset.
+
+29. What is the difference between precision and recall?
+a) Precision is the percentage of instances that are correctlly classified.
+b) Precision is the percentage of instances that are correctly identified as positive. *
+c) Precision is the percentage of instances that are incorrectly classified as positive.
+d) Precision is the percentage of instances that are incorrectly classified as negative.
+
+30. What is the purpose of a "model evaluation metric"?
+a) To train the model on a large portion of the data.
+b) To measure the model's performaance on unseen data. *
+c) To create a separate dataset for testing.
+d) To select the best hyperparameters for a model.
