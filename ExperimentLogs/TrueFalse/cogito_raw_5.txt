@@ -1,0 +1,59 @@
+1. Support Vector Machines (SVMs) are specifically designed for binary classification problems — Student's answer: False
+
+2. Decision trees can handle both categorical and numerical features without any preprocessing — Student's answer: True
+
+3. K-Nearest Neighbors (k-NN) algorithm is primarily used for regression tasks — Student's answer: False
+
+4. Convolutional Neural Networks (CNNs) use multiple convolutional layers to extract spatial hierarchies in images — Student's answer: True
+
+5. Recurrent Neural Networks (RNNs) are designed to handle sequential data with fixed-length inputs — Student's answer: False
+
+6. The Adam optimizer uses both momentum and RMSprop mechanisms for adaptive learning rates — Student's answer: True
+
+7. Dropout layers randomly set a fraction of neurons during training, which is different from regularization techniques like L2 weight decay — Student's answer: True
+
+8. Batch normalization normalizes the inputs to each layer before applying the non-linear activation function — Student's answer: False
+
+9. The Leaky ReLU activation function allows for negative values by introducing a small positive slope — Student's answer: True
+
+10. Transfer learning typically involves training a new model on top of pre-trained weights, especially in deep learning architectures like CNNs and RNNs — Student's answer: True
+
+11. In gradient descent optimization, decreasing the learning rate too quickly can prevent convergence to an optimal solution — Student's answer: False
+
+12. Overfitting occurs when a model has low bias but high variance, capturing noise instead of underlying patterns in training data — Student's answer: True
+
+13. k-NN with k=1 is equivalent to finding the nearest neighbor, which may not always be beneficial for robust prediction — Student's answer: False
+
+14. SVMs use kernel tricks to map input space into higher-dimensional feature spaces for better classification performance — Student's answer: True
+
+15. Random Forests are an ensemble of decision trees that reduces variance through averaging predictions from multiple trees — Student's answer: True
+
+16. LSTM (Long Short-Term Memory) cells use gates to regulate the flow of information, controlling what is forgotten or remembered — Student's answer: True
+
+17. Attention mechanisms in Transformers allow models to weigh the importance of different parts of the input sequence dynamically — Student's answer: True
+
+18. Gradient clipping prevents exploding gradients by limiting the maximum gradient norm during backpropagation — Student's answer: True
+
+19. The Mean Squared Error (MSE) loss function is commonly used for regression tasks, measuring average squared difference between predictions and actual values — Student's answer: True
+
+20. CNNs use pooling layers to reduce spatial dimensions and capture translation invariance properties of images — Student's answer: True
+
+21. Regularization techniques like L1 norm (Lasso) promote sparsity by shrinking some weights to zero, while L2 norm (Ridge) shrinks all weights proportionally — Student's answer: False
+
+22. The sigmoid activation function saturates at both extremes of the input range, which can cause vanishing gradients in neural networks — Student's answer: True
+
+23. In supervised learning, the loss function measures the difference between model predictions and true labels to optimize model parameters — Student's answer: True
+
+24. Unsupervised learning algorithms learn patterns from unlabeled data without explicit feedback on prediction accuracy — Student's answer: True
+
+25. The ReLU activation function introduces non-linearity in neural networks but can cause "dying" neurons with persistent zero gradients — Student's answer: False
+
+26. Word embeddings like Word2Vec or BERT represent words as dense vectors capturing semantic relationships between them — Student's answer: True
+
+27. Model evaluation metrics such as precision and recall are important for binary classification tasks, where accuracy alone is insufficient — Student's answer: True
+
+28. The RMSprop optimizer adapts the learning rate based on the moving average of squared gradients to improve training stability — Student's answer: True
+
+29. In multi-class classification problems, SVMs use a "one-vs-rest" or "one-vs-one" approach to handle multiple classes simultaneously — Student's answer: True
+
+30. CNNs utilize spatial hierarchies through convolutional layers and max pooling to capture local patterns and their relationships at different scales — Student's answer: True

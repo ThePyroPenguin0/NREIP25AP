@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\FleschKincaidTest.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FleschKincaidTest.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\OpenResponseAnalysis.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OpenResponseAnalysis.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito_raw_questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExperimentLogs\\FillBlank\\cogito_raw_questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-5.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExperimentLogs\\FillBlank\\cogito-raw-5.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-4.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExperimentLogs\\FillBlank\\cogito-raw-4.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExperimentLogs\\FillBlank\\cogito-raw-3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExperimentLogs\\FillBlank\\cogito-raw-2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\AnswerAnalyzer.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AnswerAnalyzer.py||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-granite3.3-8B_RAG_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-granite3.3-8B_RAG_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-granite3.3-8B_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-granite3.3-8B_RAG.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-gemma3N-E4b_RAG_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-gemma3N-E4b_RAG_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-gemma3N-E4b_RAG_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\chat-gemma3N-E4b_RAG.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\sample_ai_prompt_questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatLogs\\sample_ai_prompt_questions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,132 +42,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "chat-granite3.3-8B_RAG_2.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG_2.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-granite3.3-8B_RAG_2.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG_2.txt",
-              "RelativeToolTip": "ChatLogs\\chat-granite3.3-8B_RAG_2.txt",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-18T16:59:02.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "chat-granite3.3-8B_3.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_3.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-granite3.3-8B_3.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_3.txt",
-              "RelativeToolTip": "ChatLogs\\chat-granite3.3-8B_3.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T18:33:12.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "chat-granite3.3-8B_RAG.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-granite3.3-8B_RAG.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG.txt",
-              "RelativeToolTip": "ChatLogs\\chat-granite3.3-8B_RAG.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T18:26:37.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "AnswerAnalyzer.py",
               "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\AnswerAnalyzer.py",
               "RelativeDocumentMoniker": "AnswerAnalyzer.py",
               "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\AnswerAnalyzer.py",
               "RelativeToolTip": "AnswerAnalyzer.py",
-              "ViewState": "AgIAADgAAAAAAAAAAAAmwFgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2025-06-26T21:55:09.429Z",
+              "WhenOpened": "2025-07-28T21:40:14.517Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FleschKincaidTest.py",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\FleschKincaidTest.py",
+              "RelativeDocumentMoniker": "FleschKincaidTest.py",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\FleschKincaidTest.py",
+              "RelativeToolTip": "FleschKincaidTest.py",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-22T22:53:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cogito-raw-4.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-4.txt",
+              "RelativeDocumentMoniker": "ExperimentLogs\\FillBlank\\cogito-raw-4.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-4.txt",
+              "RelativeToolTip": "ExperimentLogs\\FillBlank\\cogito-raw-4.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-22T18:07:22.422Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "chat-granite3.3-8B_RAG_1.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG_1.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-granite3.3-8B_RAG_1.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-granite3.3-8B_RAG_1.txt",
-              "RelativeToolTip": "ChatLogs\\chat-granite3.3-8B_RAG_1.txt",
-              "ViewState": "AgIAALsAAAAAAAAAAAAAAMgAAAACAAAAAAAAAA==",
+              "Title": "cogito_raw_questions.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito_raw_questions.txt",
+              "RelativeDocumentMoniker": "ExperimentLogs\\FillBlank\\cogito_raw_questions.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito_raw_questions.txt",
+              "RelativeToolTip": "ExperimentLogs\\FillBlank\\cogito_raw_questions.txt",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAIwJUAAAChAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T18:33:30.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T17:51:37.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "chat-gemma3N-E4b_RAG_2.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_2.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-gemma3N-E4b_RAG_2.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_2.txt",
-              "RelativeToolTip": "ChatLogs\\chat-gemma3N-E4b_RAG_2.txt",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAALIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T17:49:33.624Z"
+              "DocumentIndex": 1,
+              "Title": "OpenResponseAnalysis.py",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\OpenResponseAnalysis.py",
+              "RelativeDocumentMoniker": "OpenResponseAnalysis.py",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\OpenResponseAnalysis.py",
+              "RelativeToolTip": "OpenResponseAnalysis.py",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-21T23:06:04.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "chat-gemma3N-E4b_RAG.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-gemma3N-E4b_RAG.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG.txt",
-              "RelativeToolTip": "ChatLogs\\chat-gemma3N-E4b_RAG.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "cogito-raw-5.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-5.txt",
+              "RelativeDocumentMoniker": "ExperimentLogs\\FillBlank\\cogito-raw-5.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-5.txt",
+              "RelativeToolTip": "ExperimentLogs\\FillBlank\\cogito-raw-5.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T17:22:38.033Z"
+              "WhenOpened": "2025-08-22T18:07:34.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "chat-gemma3N-E4b_RAG_3.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_3.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-gemma3N-E4b_RAG_3.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_3.txt",
-              "RelativeToolTip": "ChatLogs\\chat-gemma3N-E4b_RAG_3.txt",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T18:00:30.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "chat-gemma3N-E4b_RAG_1.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_1.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\chat-gemma3N-E4b_RAG_1.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\chat-gemma3N-E4b_RAG_1.txt",
-              "RelativeToolTip": "ChatLogs\\chat-gemma3N-E4b_RAG_1.txt",
+              "Title": "cogito-raw-3.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-3.txt",
+              "RelativeDocumentMoniker": "ExperimentLogs\\FillBlank\\cogito-raw-3.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-3.txt",
+              "RelativeToolTip": "ExperimentLogs\\FillBlank\\cogito-raw-3.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-17T17:37:02.048Z"
+              "WhenOpened": "2025-08-22T18:07:10.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "sample_ai_prompt_questions.txt",
-              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\sample_ai_prompt_questions.txt",
-              "RelativeDocumentMoniker": "ChatLogs\\sample_ai_prompt_questions.txt",
-              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ChatLogs\\sample_ai_prompt_questions.txt",
-              "RelativeToolTip": "ChatLogs\\sample_ai_prompt_questions.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAB5AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "cogito-raw-2.txt",
+              "DocumentMoniker": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-2.txt",
+              "RelativeDocumentMoniker": "ExperimentLogs\\FillBlank\\cogito-raw-2.txt",
+              "ToolTip": "C:\\Users\\glipo\\Documents\\GitHub\\NREIP25AP\\ExperimentLogs\\FillBlank\\cogito-raw-2.txt",
+              "RelativeToolTip": "ExperimentLogs\\FillBlank\\cogito-raw-2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-15T17:09:39.846Z"
+              "WhenOpened": "2025-08-22T17:59:52.707Z"
             }
           ]
         }

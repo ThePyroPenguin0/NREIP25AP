@@ -1,0 +1,150 @@
+﻿Artificial Intelligence is the field of study concerned with creating systems that exhibit.
+The process of teaching a computer to recognize patterns in unlabeled data is called learning.
+A rule-based system uses to make decisions based on predefined conditions.
+Alpha-beta pruning is an optimization technique used in algorithms.
+The ability of a system to reason about what it believes rather than what is actually true is called reasoning.
+Neural networks are inspired by the structure and function of the human.
+Gradient descent is an optimization algorithm used to find the minimum value of a.
+The concept of training a model on input-output pairs without showing the between them.
+A neural network with three or more layers is called a network.
+Ethical considerations in AI development include issues related to , fairness, and transparency.
+The branch of computer science that focuses on the creation of intelligent agents capable of interactions with humans.
+Backpropagation is an algorithm used to efficiently calculate gradients in multi-layer neural networks.
+A tree is a search strategy that explores all possible paths from the root node before backtracking.
+The process of reducing uncertainty about an event or outcome through evidence.
+In reinforcement learning, the agent receives after each action based on its environment.
+A knowledge representation system that uses a semantic network to represent relationships between concepts is called a network.
+The ability of an AI system to improve through experience without human intervention is known as learning.
+A decision tree algorithm that creates binary splits based on the most significant features is called a tree.
+In logic, the principle of states that if both P and Q are true, then their conjunction (P ∧ Q) must be true.
+The field of study that focuses on developing systems capable of human-like visual perception is called Vision.
+A search algorithm that explores a solution space by moving from the root node to its neighbors in some order is known as search.
+The concept of creating systems that can understand and respond to natural language is called Language Processing.
+In machine learning, overfitting occurs when a model learns the training data too well but performs poorly on new.
+The process of converting high-dimensional data into a lower-dimensional representation while preserving key relationships is called learning.
+A neural network with multiple input nodes, one hidden layer, and one output node is used for basic classification tasks.
+The ethical principle that suggests AI systems should be designed to benefit all stakeholders rather than a select few is known as justice.
+In reinforcement learning, the challenge of discovering an optimal policy without knowing the environment's dynamics is called the problem.
+The concept of representing knowledge in a form that computers can understand and reason with is known as representation.
+A type of neural network that uses gated recurrent units to process sequential data is called a network.
+The field of study that focuses on the development and application of systems capable of simulating human cognitive processes is called Science.
+Artificial Intelligence is the field of study concerned with creating systems that exhibit.
+In machine learning, a model learns from data through the process called.
+The algorithm that finds an optimal solution by evaluating all possible paths is known as.
+In knowledge representation, a system uses propositional logic to handle and/or.
+When dealing with uncertain information, AI systems often use the method of.
+Reinforcement learning involves an agent making decisions based on rewards through a process called.
+The type of neural network that uses three layers (input, hidden, output) is called.
+A decision tree algorithm makes splits in the data based on information gain from features.
+In supervised learning, the model learns to map inputs to outputs using a dataset of pairs.
+The graph search algorithm that explores the least-cost path first is called search.
+When building an AI system, it's important to consider ethical implications related to and bias.
+In knowledge representation, a rule of the form IF antecedent THEN consequent is called a.
+The type of learning where an agent learns optimal behavior through interaction with an environment is.
+When analyzing data for patterns, unsupervised learning methods look for in the dataset.
+In decision theory, a rational agent should act to maximize expected of outcomes.
+The process of improving model performance through iterative training and evaluation is called.
+In neural networks, backpropagation calculates the gradient of the error with respect to the network's.
+The graph search algorithm that uses a priority queue ordered by path cost plus heuristic is called.
+When dealing with incomplete information, AI systems often use methods of reasoning.
+In machine learning, the error function that measures the difference between predicted and actual values is called a.
+The neural network architecture that uses self-organizing maps to visualize high-dimensional data is called an network.
+When evaluating the performance of an AI system, metrics such as precision and recall are used to measure its ability to make correct decisions.
+The concept of in neural networks refers to the ability of nodes to learn to represent features at different levels of abstraction.
+In knowledge representation, a system that can reason about beliefs and possibilities is said to have reasoning capabilities.
+When building an AI system for a specific task, it's important to consider the trade-off between computational complexity and model.
+The graph search algorithm that uses breadth-first search to explore all possible states is called search.
+In decision making, the principle of considering multiple competing goals is known as decision theory.
+When evaluating the fairness of an AI system, metrics such as demographic parity and equalized odds are used to measure its ability to make unbiased decisions.
+The process of converting a problem into a form that can be solved by an algorithm is called reduction.
+When dealing with noisy data, AI systems often use techniques such as outlier detection and robust regression to improve the quality of their estimates.
+Artificial Intelligence is the field of study concerned with creating systems that exhibit.
+The process by which a system learns from its environment without human intervention is called.
+A neural network with multiple layers of processing units, including at least one hidden layer, is known as a.
+In the A* search algorithm, the heuristic function used to estimate the cost of reaching the goal from a given node must be.
+The ability of an AI system to reason about the truth or falsity of statements is related to.
+Machine learning techniques that automatically improve with experience are called.
+The process by which an AI system learns to make decisions based on rewards or penalties is known as.
+Knowledge representation techniques that use logical statements to describe relationships between objects are called.
+A decision tree splits data based on the values of attributes in a way that minimizes.
+The principle that states an AI system should never pursue a goal if achieving it would require violating fundamental laws is known as the.
+In knowledge representation, relationships between concepts are typically represented using a network structure called a.
+The process of training neural networks by propagating errors backwards through the network is known as.
+Hidden layers in neural networks are designed to automatically learn and represent.
+The boundary that separates different classes of data in a classification problem is called the.
+Bayesian inference involves updating probabilities based on new evidence, and this process is known as.
+The architecture of a neural network refers to its structure in terms of layers and the connections between them, which includes the number of.
+Optimization algorithms like gradient descent are used to minimize.
+The process of extracting meaningful features from raw data is called.
+In knowledge bases, a collection of facts and rules that describe the world is stored in a structured format using a database system with the help of.
+The study of how concepts are related to each other through their meanings and relationships falls under the field known as.
+Bias in AI systems can arise from various sources, including but not limited to the training data being.
+Natural Language Processing (NLP) deals with the interaction between computers and human languages using algorithms that process.
+The ability to make logical deductions based on given premises is a fundamental aspect of AI systems known as.
+Evolutionary algorithms are inspired by the process of natural selection, where solutions that perform better in their environment survive and reproduce through a process called.
+Deep learning frameworks provide high-level APIs for building and training neural networks with support for.
+The goal of creating AI systems that can perform any intellectual task at the level of a human is known as.
+In adversarial training, an AI system is trained to be robust against.
+Transfer learning involves using knowledge learned from one task to improve performance on a second related task through the reuse of.
+The ability for AI systems to provide explanations for their decisions or predictions is known as.
+Quantifying the uncertainty associated with an AI system's outputs and predictions is a crucial aspect of building reliable and robust.
+Artificial Intelligence is the field of study concerned with creating systems that exhibit.
+Search algorithms like A* and Dijkstra's are used to find the optimal solution by considering both the and the.
+In machine learning, supervised learning involves training a model on labeled data where each input has an associated.
+Neural networks are based on the concept of interconnected nodes called that process information.
+Knowledge representation systems use various techniques to encode information, including and relationships.
+The logical rule "If P then Q" is known as a statement.
+Reinforcement learning involves an agent learning by receiving rewards or penalties based on its in making decisions.
+Unsupervised learning algorithms like K-means clustering group data points into clusters based on their similarities.
+Ethical considerations in AI include concerns about bias, privacy, and the potential for systems to exhibit harmful behavior.
+Expert systems use a combination of rules and knowledge bases to mimic human expert decision-making by applying logical reasoning.
+The fundamental problem of search in AI is finding an optimal path from start to goal while considering constraints such as time or costs.
+Deep learning models employ multiple layers of neural networks, with each layer processing the information to learn increasingly complex features.
+Machine learning algorithms can be categorized into three main types: supervised, unsupervised, and learning.
+Natural language processing involves training AI systems on human-written text to understand syntax, semantics, and the context-dependent meanings of words.
+In decision trees, each internal node represents a test on an attribute, and branches represent possible values for that attribute based on whether the value meets the condition.
+Knowledge representation frameworks include semantic networks, frames, and predicate logic-based systems, which differ primarily in their approach to representing entities and relationships.
+The primary goal of supervised learning is to minimize the error between predicted outputs and actual values.
+In neural network training, gradient descent optimizes the model parameters by iteratively adjusting them to reduce the loss function based on predictions about the training data.
+Machine translation systems use sequence-to-sequence models with attention mechanisms to map source sentences to target sentences while preserving information and grammatical correctness.
+The Turing Test evaluates a machine's ability to exhibit human-like intelligence by determining whether an evaluator can tell it apart from a real person in natural language conversations.
+In decision support systems, expert knowledge is encoded into rules that are then applied to new cases using techniques such as forward chaining and backward reasoning.
+Probabilistic graphical models represent complex dependencies between variables using directed or undirected graphs, where the nodes represent random and edges indicate conditional independence relationships.
+The primary advantage of deep learning over traditional machine learning methods is its ability to learn hierarchical representations of patterns from data without requiring manual feature engineering.
+In reinforcement learning, Markov Decision Processes model sequential decision-making problems as state-action pairs with transition probabilities between states based on the agent's current and actions taken.
+Ethical considerations in AI development include issues related to fairness, transparency, accountability, privacy protection, safety guarantees, and the potential for systems to exhibit harmful behaviors or perpetuate societal biases.
+Symbolic reasoning involves manipulating symbols according to logical rules to derive new information from existing knowledge bases using techniques such as forward chaining, backward reasoning, and resolution theorem proving.
+In natural language processing tasks like machine translation and sentiment analysis, the model's performance is often evaluated based on how well it preserves semantic and grammatical structure while adapting to cultural nuances in different languages.
+Deep learning models can learn hierarchical representations of complex patterns by iteratively refining their internal representation using techniques such as convolutional neural networks (CNNs) for spatial patterns and recurrent neural networks (RNNs) for sequential information.
+Expert systems incorporate knowledge bases containing domain-specific rules, facts, and relationships that are used to draw conclusions about new situations using logical inference techniques.
+The primary challenge in developing trustworthy AI systems is ensuring they can reliably reason about complex domains while being transparent about their limitations and potential for making errors.
+Artificial Intelligence is the field of study concerned with creating systems that exhibit.
+In machine learning, refers to the problem of predicting a continuous value rather than classifying into discrete categories.
+The search algorithm used in solving puzzles like the 8-queen or n-queens problems is the algorithm.
+A neural network with multiple layers that can automatically learn hierarchical features from raw input data is called a network.
+In logic programming, facts and rules are represented using the notation.
+The process of training a model to optimize its performance on a specific task without human intervention is known as learning.
+A technique for representing knowledge in a form that makes it easy to answer questions about the world by reasoning from the knowledge stored is called representation.
+In supervised learning, the algorithm learns from data, which consists of input-output pairs.
+The field of AI that focuses on developing systems capable of autonomous action and decision-making without explicit human instructions is known as intelligence.
+A problem where the optimal solution cannot be found using a brute force approach is an example of complexity.
+In computer vision, convolutional neural networks use layers to learn spatial hierarchies of features from images.
+The process of teaching an AI system to make decisions by trial and error with rewards for desired behavior is called learning.
+A common algorithm used for finding the shortest path between two points in a graph is the search algorithm.
+In machine learning, data that has been normalized or scaled to have zero mean is said to be in a distribution.
+The type of knowledge representation where information is stored as a network of concepts and their relationships is called representation.
+A neural network architecture consisting of input layers, hidden layers, and output layers with weights adjusted during training is known as a network.
+In logic programming, the process of determining if a query can be satisfied by the current knowledge base is called resolution.
+The field of AI that focuses on developing systems capable of understanding human language is known as processing.
+A technique for representing uncertainty in AI systems is called reasoning.
+In machine learning, overfitting occurs when a model learns the training data too well and fails to generalize to new data because it's paying too much attention to features.
+The algorithm that finds the optimal solution by exploring all possible solutions in an ordered fashion is known as the search algorithm.
+A type of learning where the AI system learns from its interactions with the environment without explicit supervision or reinforcement signals is called learning.
+In computer vision, edge detection algorithms are used to identify features in images.
+The process of converting human language into machine-readable form is known as processing.
+A problem where the optimal solution cannot be found using a brute force approach because it's computationally infeasible is an example of complexity.
+In logic programming, the process of determining if all possible queries can be satisfied by the current knowledge base is called inference.
+The field of AI that focuses on developing systems capable of visual perception and interpretation is known as vision.
+A technique for representing knowledge in a form that makes it easy to answer questions about the world by reasoning from the knowledge stored is called representation.
+In machine learning, bias in an algorithm refers to its tendency to consistently make errors due to limitations.
+The field of AI that focuses on developing systems capable of autonomous action and decision-making without explicit human instructions is known as intelligence.

@@ -1,0 +1,59 @@
+1. Neural networks can learn hierarchical features from data — Student's answer: True
+
+2. Decision trees are based on splitting data by feature values in a way that maximizes information gain — Student's answer: True
+
+3. Stochastic gradient descent is an optimization algorithm used to minimize the loss function in machine learning models — Student's answer: True
+
+4. Overfitting occurs when a model learns the training data too well, including noise and outliers — Student's answer: True
+
+5. CNNs use convolutional layers to detect spatial patterns in images without assuming predefined locations of objects — Student's answer: True
+
+6. Regularization techniques help prevent overfitting by adding constraints to the model — Student's answer: False
+
+7. RNNs are designed to handle sequential data with their recurrent connections — Student's answer: True
+
+8. The softmax function is commonly used as an activation function in the output layer of classification models — Student's answer: True
+
+9. Backpropagation calculates gradients by applying the chain rule backwards through the network — Student's answer: True
+
+10. k-NN algorithm stores all training data and computes distances to find nearest neighbors for prediction — Student's answer: False
+
+11. Dropout is a regularization technique that randomly sets input units to 0 during training to prevent overfitting — Student's answer: True
+
+12. The learning rate in neural networks determines how large of a step the optimizer takes towards minimizing the loss function — Student's answer: True
+
+13. Transformers use self-attention mechanisms to process sequential data in parallel without recurrent connections — Student's answer: True
+
+14. Cross-validation is a technique used to evaluate model performance by splitting the dataset into training and validation sets multiple times — Student's answer: True
+
+15. Mean squared error (MSE) is commonly used as an evaluation metric for regression problems — Student's answer: True
+
+16. ReLU activation function outputs 0 when input is negative, allowing faster convergence in deep networks — Student's answer: True
+
+17. Batch normalization helps stabilize the training of neural networks by normalizing layer inputs — Student's answer: True
+
+18. The Adam optimizer combines the advantages of AdaGrad and RMSProp for adaptive learning rate optimization — Student's answer: False
+
+19. Autoencoders are used for dimensionality reduction, feature learning, and anomaly detection in unsupervised learning — Student's answer: True
+
+20. SVMs find a hyperplane that maximizes the margin between classes in high-dimensional spaces — Student's answer: True
+
+21. Transfer learning allows pre-trained models to be fine-tuned on new tasks with limited training data — Student's answer: True
+
+22. L1 regularization (Lasso) adds absolute value of coefficients to loss function, promoting sparse solutions — Student's answer: True
+
+23. The vanishing gradient problem occurs when gradients become too small during backpropagation in deep networks — Student's answer: False
+
+24. CNNs use pooling layers to reduce spatial dimensions and capture local patterns in images — Student's answer: True
+
+25. RNNs are suitable for sequence prediction tasks such as time series forecasting, text generation, and speech recognition — Student's answer: True
+
+26. The gradient descent algorithm converges to a minimum when the learning rate is too small but may not find the global minimum — Student's answer: False
+
+27. Deep belief networks use multiple layers of restricted Boltzmann machines for unsupervised feature learning — Student's answer: True
+
+28. k-NN algorithms are distance-based and do not require explicit training in the traditional sense — Student's answer: False
+
+29. The attention mechanism allows models to focus on different parts of the input sequence when generating outputs — Student's answer: True
+
+30. Hyperparameters include model architecture, learning rate, batch size, and regularization strength — Student's answer: True

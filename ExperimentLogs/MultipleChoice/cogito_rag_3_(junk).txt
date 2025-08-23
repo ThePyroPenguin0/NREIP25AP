@@ -1,0 +1,149 @@
+1. What is the primary difference between supervised and unsupervised learning?
+a) Supervised learning requires labeled data, while unsupervised learning does not
+b) Supervised learning uses more complex algorithms than unsupervised learning
+c) Unsupervised learning finds patterns without known outcomes, while supervised learning learns from examples with known outcomes *
+
+2. What is the main purpose of neural networks in AI systems?
+a) To store all possible answers to questions
+b) To process data through connected layers of nodes by recognizing complex patterns *
+c) To increase processing speed
+
+3. What does it mean when an AI system uses "transfer learning"?
+a) It learns completely new tasks without any prior knowledge
+b) It shares knowledge from one task to improve performance on another
+c) It uses existing knowledge and features learned in one task to help with a different task *
+
+4. Which of the following is a characteristic of reinforcement learning in AI?
+a) The agent must always choose the action that yields the highest reward
+b) The agent learns through trial and error, receiving rewards or penalties for actions taken *
+c) Reinforcement learning only works with static data
+
+5. What is the purpose of "embedding" in natural language processing (NLP)?
+a) To convert text into binary code
+b)To represent words and phrases as continuous vector values that capture semantic meaning *
+c) To translate all text into a different language
+
+6. In deep learning, what does the term "backpropagation" refer to?
+a) The process of adjusting weights based on error signals
+b) The method for calculating gradients in neural networks by propagating errors backward through layers *
+c) A technique for pruning unnecessary neurons
+
+7. What is the main advantage of using synthetic data in AI training?
+a) It ensures complete transparency in all systems
+b) It provides an alternative when real data is scarce or sensitive, allowing training to continue with high-quality examples *
+c) Synthetic data completely eliminates bias from all AI models
+
+8. How do Large Language Models (LLMs) differ from other transformer models?
+a) They can only process language without understanding context
+b) They are trained on vast amounts of text data using attention mechanisms to understand context and generate human-like responses *
+c) LLMs cannot handle any type of input besides text
+
+9. What is the primary goal of "pre-training" in generative AI?
+a) To eliminate the need for large datasets
+b) To create broad knowledge that can be fine-tuned later for specific tasks by using a large amount of unsupervised data *
+c) Pre-training reduces total training time required
+
+10. Which technique is commonly used to improve the performance of neural networks?
+a) Only increasing the size of the network architecture
+b) Using regularization techniques such as dropout and weight decay to prevent overfitting *
+c) Removing all noise from input data before processing
+
+11. What is "hyperparameter tuning" in machine learning?
+a) The process of manually adjusting model parameters during training
+b) The optimization technique used to automatically select the best combination of hyperparameters for a given model *
+c) Hyperparameter tuning eliminates the need for large datasets
+
+12. How does transfer learning work in deep learning?
+a) Models learn completely new tasks without any prior knowledge
+b) Transfer learning only works with static data
+c) Models use existing knowledge from one task to improve performance on another by sharing features *
+
+13. What is the main purpose of "pre-training" followed by "fine-tuning" in generative AI?
+a) To eliminate the need for large datasets
+b) Fine-tuning reduces total training time required
+c) Pre-training builds broad knowledge that can be fine-tuned later using smaller amounts of supervised data *
+
+14. What is "self-supervised learning"?
+a) Learning from examples with known outcomes without supervision
+b) A form of unsupervised learning where the model generates its own labels
+c) Learning by predicting missing or corrupted parts in unlabeled input data *
+
+15. How does reinforcement learning differ from supervised learning?
+a) Reinforcement learning uses no labeled data
+b) Reinforcement learning always yields optimal results
+c) Reinforcement learning learns through trial and error, using rewards to guide policy updates instead of direct supervision *
+
+16. What is the primary purpose of "neural architecture search" (NAS)?
+a) To automatically discover all possible network architectures
+b) To efficiently search for optimal neural network designs by evaluating many different configurations *
+c) NAS eliminates the need for manual hyperparameter tuning
+
+17. How does "transfer learning" help in deep learning?
+a) Models learn completely new tasks without any prior knowledge
+b) Transfer learning only works with static data
+c) Models use existing features learned from one task to improve performance on another by leveraging their generalizability *
+
+18. What is the main advantage of using synthetic data in AI training?
+a) It ensures complete transparency in all systems
+b) Synthetic data completely eliminates bias from all models
+c) It provides an alternative when real data is scarce or sensitive, allowing high-quality examples to be used for training *
+
+19. How do Large Language Models (LLMs) differ from other transformer models?
+a) LLMs can only process language without understanding context
+b) LLMs cannot handle any input besides text
+c) LLMs are trained on vast amounts of text data using attention mechanisms, allowing them to capture semantic meaning and generate human-like responses *
+
+20. What is the primary goal of "pre-training" in generative AI?
+a) To eliminate the need for large datasets
+b) Pre-training reduces total training time required
+c) To create broad knowledge that can be fine-tuned later using smaller amounts of supervised data, enabling effective learning from limited labeled examples *
+
+21. What is the main advantage of using synthetic data in AI training?
+a) It ensures complete transparency in all systems
+b) Synthetic data completely eliminates bias from all models
+c) It provides an alternative when real data is scarce or sensitive, allowing high-quality examples to be used for training without compromising privacy *
+
+22. How does transfer learning work in deep learning?
+a) Models learn completely new tasks without any prior knowledge
+b) Transfer learning only works with static data
+c) Models use existing features learned from one task to improve performance on another by leveraging their generalizability and reducing the need for large amounts of supervised data *
+
+23. What is the primary purpose of "pre-training" followed by "fine-tuning" in generative AI?
+a) To eliminate the need for large datasets
+b) Fine-tuning reduces total training time required
+c) Pre-training builds broad knowledge that can be fine-tuned later using smaller amounts of supervised data, enabling effective learning from limited labeled examples *
+
+24. What is "self-supervised learning"?
+a) Learning from examples with known outcomes without supervision
+b) A form of unsupervised learning where the model generates its own labels
+c) Learning by predicting missing or corrupted parts in unlabeled input data, allowing models to learn valuable representations without explicit annotations *
+
+25. How does reinforcement learning differ from supervised learning?
+a) Reinforcement learning uses no labeled data
+b) Reinforcement learning always yields optimal results
+c) Reinforcement learning learns through trial and error, using rewards to guide policy updates instead of direct supervision, which makes it particularly effective for sequential decision-making tasks *
+
+26. What is the primary purpose of "neural architecture search" (NAS)?
+a) To automatically discover all possible network architectures
+b) NAS eliminates the need for manual hyperparameter tuning
+c) To efficiently search for optimal neural network designs by evaluating many different configurations, which helps in finding more effective architectures without extensive manual experimentation *
+
+27. How does transfer learning help in deep learning?
+a) Models learn completely new tasks without any prior knowledge
+b) Transfer learning only works with static data
+c) Models use existing features learned from one task to improve performance on another by leveraging their generalizability, which makes them more effective when limited labeled data is available *
+
+28. What is the main advantage of using synthetic data in AI training?
+a) It ensures complete transparency in all systems
+b) Synthetic data completely eliminates bias from all models
+c) It provides an alternative when real data is scarce or sensitive, allowing high-quality examples to be used for training without compromising privacy, which makes it particularly valuable in domains where obtaining labeled data is challenging *
+
+29. How do Large Language Models (LLMs) differ from other transformer models?
+a) LLMs can only process language without understanding context
+b) LLMs cannot handle any input besides text
+c) LLMs are trained on vast amounts of text data using attention mechanisms, allowing them to capture semantic meaning and generate human-like responses, which makes them particularly effective for natural language tasks *
+
+30. What is the primary goal of "pre-training" in generative AI?
+a) To eliminate the need for large datasets
+b) Pre-training reduces total training time required
+c) To create broad knowledge that can be fine-tuned later using smaller amounts of supervised data, enabling effective learning from limited labeled examples, which makes it particularly valuable when high-quality labeled data is scarce *

@@ -1,0 +1,167 @@
+1. What does the term "Artificial Intelligence" (AI) refer to?
+   a) Programming languages
+   b) Computers that simulate human intelligence *
+   c) Software development tools
+   d) Computer hardware components
+
+2. Which of these is NOT a type of machine learning?
+   a) Supervised Learning
+   b) Reinforcement Learning
+   c) Natural Language Processing
+   d) Random Walk *
+
+3. In the context of AI, what does "neural network" refer to?
+   a) A group of human experts
+   b) A computing model inspired by biological neural networks *
+   c) A data visualization technique
+   d) A type of algorithm for optimization problems
+
+4. What is the difference between machine learning and deep learning?
+   a) Machine learning uses more layers than deep learning
+   b) Deep learning is a subset of machine learning that uses multiple neural networks *
+   c) Deep learning is older than machine learning
+   d) They are completely different fields
+
+5. Which AI technique is used for decision-making tasks where the outcome depends on multiple factors?
+   a) Neural Networks
+   b) Genetic Algorithms
+   c) Decision Trees *
+
+6. What does "training data" mean in machine learning?
+   a) The final dataset after cleaning and processing
+   b) Data that is used to teach the model how to make predictions *
+   c) Historical performance metrics
+   d) Validation results
+
+7. Which of these is an example of unsupervised learning?
+   a) Image recognition
+   b) Clustering similar customers *
+   c) Predicting stock prices
+   d) Sentiment analysis
+
+8. What does the term "backpropagation" refer to in neural networks?
+   a) Forward propagation of information through layers
+   b) Learning how to make predictions using historical data
+   c) Adjusting weights based on error gradients *
+
+9. Which type of AI focuses on understanding and generating human language?
+   a) Computer Vision
+   b) Speech Recognition
+   c) Natural Language Processing (NLP) *
+
+10. What is the difference between overfitting and underfitting in machine learning models?
+    a) Overfitting occurs when the model learns too well, while underfitting happens when it doesn't learn at all *
+    b) Underfitting refers to poor performance on new data, while overfitting means good performance only on training data
+    c) Overfitting is good for performance but bad for generalization
+    d) Both are equally important and there's no significant difference
+
+11. What does the term "convolutional neural network" (CNN) refer to?
+    a) A type of network used primarily for text analysis
+    b) A specialized network architecture designed for image processing *
+    c) A system for natural language understanding
+    d) A method for clustering data points
+
+12. Which AI technique is typically used for playing games like chess or Go?
+    a) Decision Trees
+    b) Genetic Algorithms
+    c) Reinforcement Learning (RL) *
+
+13. What is the purpose of regularization in machine learning models?
+    a) To reduce training time
+    b) To prevent overfitting by adding penalty terms to the loss function *
+    c) To improve model accuracy immediately
+    d) To increase dataset size
+
+14. Which type of AI focuses on understanding and analyzing images and videos?
+    a) Natural Language Processing (NLP)
+    b) Speech Recognition
+    c) Computer Vision *
+
+15. What is the difference between a parametric and non-parametric model?
+    a) Parametric models use fixed number of parameters, while non-parametric models have variable numbers of parameters *
+    b) Non-parametric models are always more accurate than parametric ones
+    c) Parametric models require less data to train
+    d) There is no difference between them
+
+16. What does the term "feature engineering" refer to in machine learning?
+    a) The process of selecting relevant features for the model
+    b) Creating new features from existing ones to improve model performance *
+    c) Removing irrelevant features from the dataset
+    d) All of the above
+
+17. Which AI technique is typically used for speech recognition systems?
+    a) Neural Networks
+    b) Random Forests
+    c) Hidden Markov Models (HMM) *
+
+18. What does the term "gradient descent" refer to in machine learning optimization?
+    a) The process of finding the optimal parameters by minimizing the loss function *
+    b) A method for increasing model accuracy over time
+    c) A technique for reducing training data size
+    d) All of the above
+
+19. Which type of AI focuses on understanding and generating human speech?
+    a) Natural Language Processing (NLP)
+    b) Speech Recognition
+    c) Text-to-Speech Systems *
+
+20. What is the purpose of cross-validation in machine learning?
+    a) To evaluate model performance on unseen data *
+    b) To reduce training time
+    c) To increase dataset size
+    d) To improve feature selection
+
+21. Which AI technique is typically used for recommendation systems like Netflix or Amazon?
+    a) Collaborative Filtering
+    b) Content-Based Filtering
+    c) Hybrid Approach *
+
+22. What does the term "activation function" refer to in neural networks?
+    a) A mathematical function that determines whether neurons should be activated based on input values *
+    b) A way to measure the performance of the model
+    c) A method for normalizing data
+    d) All of the above
+
+23. Which type of AI focuses on understanding and generating human emotions?
+    a) Sentiment Analysis
+    b) Emotion Recognition Systems *
+    c) Facial Expression Analysis
+
+24. What is the difference between supervised and unsupervised learning?
+    a) Supervised learning uses labeled data, while unsupervised learning doesn't require labels *
+    b) Unsupervised learning always has better accuracy than supervised learning
+    c) Supervised learning requires more computational resources
+    d) All of the above
+
+25. Which AI technique is typically used for facial recognition systems?
+    a) Convolutional Neural Networks (CNNs)
+    b) Recurrent Neural Networks (RNNs)
+    c) Support Vector Machines (SVMs) *
+
+26. What does the term "neural network architecture" refer to in deep learning?
+    a) The structure and organization of layers in the neural network
+    b) The type of data that can be processed by the network
+    c) The choice of activation functions used
+    d) All of the above
+
+27. Which AI technique is typically used for time series forecasting?
+    a) Long Short-Term Memory (LSTM)
+    b) Random Forests
+    c) Support Vector Regression (SVR) *
+
+28. What does the term "data preprocessing" refer to in machine learning?
+    a) The process of cleaning and preparing data for model training *
+    b) Feature selection and engineering
+    c) Model evaluation and testing
+    d) All of the above
+
+29. Which AI technique is typically used for autonomous vehicles?
+    a) Computer Vision
+    b) Natural Language Processing (NLP)
+    c) Reinforcement Learning (RL) *
+
+30. What does the term "loss function" refer to in machine learning?
+    a) A measure of how well the model is performing on training data *
+    b) A way to evaluate model performance over time
+    c) A method for reducing training data size
+    d) All of the above

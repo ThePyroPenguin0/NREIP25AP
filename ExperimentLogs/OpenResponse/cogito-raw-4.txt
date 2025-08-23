@@ -1,0 +1,89 @@
+1. What are the main differences between narrow AI and general AI?
+// Student answer: Narrow AI (like Siri or Alexa) can perform specific tasks within their programming, while general AI would possess human-like reasoning and intelligence across all domains.
+
+2. Explain how machine learning differs from traditional programming approaches.
+// Student answer: In machine learning, software learns from data to improve performance without explicit instructions for each task. Traditional programming relies on predetermined rules and logic.
+
+3. What is the purpose of feature selection in machine learning?
+// Student answer: Feature selection identifies the most relevant input variables from a dataset, reducing dimensionality and improving model performance by removing irrelevant or redundant features.
+
+4. Describe the key components of neural networks.
+// Student answer: Neural networks consist of layers (input, hidden, output), neurons that process information through weighted connections, activation functions, and an optimization algorithm for learning parameters.
+
+5. What is the difference between supervised and unsupervised learning?
+// Student answer: Supervised learning uses labeled training data to predict outcomes, while unsupervised learning works with unlabeled data to discover patterns or structure in the input.
+
+6. Explain how reinforcement learning differs from other ML paradigms.
+// Student answer: Reinforcement learning involves an agent taking actions in an environment to maximize cumulative reward through trial and error, using feedback rather than direct supervision.
+
+7. What is Bayesian inference?
+// Student answer: Bayesian inference uses Bayes' theorem to update the probability of a hypothesis as more evidence becomes available, combining prior knowledge with new data for better decision-making.
+
+8. Describe the key principles of expert systems.
+// Student answer: Expert systems use knowledge bases containing domain-specific rules and facts, combined with reasoning algorithms (like forward or backward chaining) to mimic human expert decision-making.
+
+9. What is the difference between symbolic and connectionist AI approaches?
+// Student answer: Symbolic AI relies on logical rule-based representations and explicit symbol manipulation, while connectionist AI uses distributed neural network representations based on weighted connections.
+
+10. Explain how genetic algorithms work.
+// Student answer: Genetic algorithms use principles inspired by natural selection and genetics, evolving solutions through mutation, crossover, and selection of fittest individuals in each generation.
+
+11. What are the main components of knowledge representation?
+// Student answer: Knowledge representation includes ontologies (concept hierarchies), taxonomies, semantic networks, logic-based formalisms, and procedural rules for reasoning.
+
+12. Describe the key concepts in natural language processing.
+// Student answer: Natural language processing involves tokenization, part-of-speech tagging, parsing, semantics, syntax analysis, machine translation, and dialogue systems for human-computer interaction.
+
+13. What is the role of probability theory in AI?
+// Student answer: Probability theory provides mathematical foundations for uncertainty handling, reasoning under incomplete information, and decision-making in uncertain environments through concepts like Bayesian inference.
+
+14. Explain how decision trees work.
+// Student answer: Decision trees use hierarchical partitions based on feature values to classify examples, splitting nodes based on feature thresholds that maximize information gain or classification accuracy.
+
+15. What is the difference between deep learning and traditional machine learning?
+// Student answer: Deep learning uses multi-layer neural networks with thousands of parameters, trained end-to-end through backpropagation for tasks like image recognition, while traditional ML uses simpler algorithms.
+
+16. Describe the key concepts in fuzzy logic.
+// Student answer: Fuzzy logic extends classical binary logic to handle degrees of truth between 0 and 1, using membership functions, linguistic variables, rules, and inference mechanisms based on possibility theory.
+
+17. What is the difference between deductive and inductive reasoning?
+// Student answer: Deductive reasoning derives conclusions with certainty from premises using logical rules (like syllogisms), while inductive reasoning makes probable generalizations based on specific observations.
+
+18. Explain how evolutionary computation differs from other optimization approaches.
+// Student answer: Evolutionary computation simulates biological evolution processes through selection, crossover, mutation, and genetic drift to find optimal solutions across complex search spaces.
+
+19. What are the main applications of computer vision?
+// Student answer: Computer vision applies image processing algorithms for tasks like object detection, facial recognition, medical imaging analysis, autonomous navigation, and augmented reality.
+
+20. Describe the key concepts in robotics.
+// Student answer: Robotics integrates mechanical design, sensors, actuators, control systems, and AI for autonomous or semi-autonomous behavior in physical environments.
+
+21. What is the difference between supervised learning and semi-supervised learning?
+// Student answer: Supervised learning requires fully labeled training data, while semi-supervised learning leverages unlabeled examples to improve model performance by reducing the amount of labeled data needed.
+
+22. Explain how association rules work.
+// Student answer: Association rule mining discovers interesting relationships in transactional datasets through metrics like support (occurrence frequency) and confidence (predictive power).
+
+23. What is the role of optimization algorithms in machine learning?
+// Student answer: Optimization algorithms find model parameters that maximize performance on training data, using methods like gradient descent, stochastic gradient descent, or evolutionary strategies.
+
+24. Describe the key concepts in agent-based modeling.
+// Student answer: Agent-based modeling simulates complex systems as interacting autonomous agents with simple rules of behavior, capturing emergent phenomena and system-level properties.
+
+25. What is the difference between generative and discriminative models?
+// Student answer: Generative models learn data distributions to generate new samples or complete missing values, while discriminative models directly predict target variables from inputs without explicit distribution learning.
+
+26. Explain how reinforcement learning differs from supervised learning.
+// Student Answer: Reinforcement learning involves an agent taking actions in an environment to maximize cumulative reward through trial and error, using feedback rather than direct supervision. Supervised learning uses labeled training data to predict outcomes.
+
+27. What are the main components of knowledge representation?
+// Student answer: Knowledge representation includes ontologies (concept hierarchies), taxonomies, semantic networks, logic-based formalisms, and procedural rules for reasoning.
+
+28. Describe the key concepts in natural language processing.
+// Student answer: Natural language processing involves tokenization, part-of-speech tagging, parsing, semantics, syntax analysis, machine translation, and dialogue systems for human-computer interaction.
+
+29. What is the role of probability theory in AI?
+// Student answer: Probability theory provides mathematical foundations for uncertainty handling, reasoning under incomplete information, and decision-making in uncertain environments through concepts like Bayesian inference.
+
+30. Explain how decision trees work.
+// Student answer: Decision trees use hierarchical partitions based on feature values to classify examples, splitting nodes based on feature thresholds that maximize information gain or classification accuracy.

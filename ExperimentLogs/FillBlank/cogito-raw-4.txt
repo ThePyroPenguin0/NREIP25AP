@@ -1,0 +1,96 @@
+**Questions:**
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit __________.
+2. Search algorithms like A* and Dijkstra's are used to find the optimal solution by considering both the __________ and the __________.
+3. In machine learning, supervised learning involves training a model on labeled data where each input has an associated __________.
+4. Neural networks are based on the concept of interconnected nodes called __________ that process information.
+5. Knowledge representation systems use various techniques to encode information, including __________ and __________ relationships.
+6. The logical rule "If P then Q" is known as a __________ statement.
+7. Reinforcement learning involves an agent learning by receiving rewards or penalties based on its __________ in making decisions.
+8. Unsupervised learning algorithms like K-means clustering group data points into clusters based on their __________ similarities.
+9. Ethical considerations in AI include concerns about bias, privacy, and the potential for systems to exhibit harmful __________ behavior.
+10. Expert systems use a combination of rules and knowledge bases to mimic human expert decision-making by applying logical __________ reasoning.
+11. The fundamental problem of search in AI is finding an optimal path from start to goal while considering constraints such as time or __________ costs.
+12. Deep learning models employ multiple layers of neural networks, with each layer processing the __________ information to learn increasingly complex features.
+13. Machine learning algorithms can be categorized into three main types: supervised, unsupervised, and __________ learning.
+14. Natural language processing involves training AI systems on human-written text to understand syntax, semantics, and the context-dependent meanings of __________ words.
+15. In decision trees, each internal node represents a test on an attribute, and branches represent possible values for that attribute based on whether the value meets the __________ condition.
+16. Knowledge representation frameworks include semantic networks, frames, and predicate logic-based systems, which differ primarily in their approach to representing __________ entities and relationships.
+17. The primary goal of supervised learning is to minimize the error between predicted outputs and actual __________ values.
+18. In neural network training, gradient descent optimizes the model parameters by iteratively adjusting them to reduce the loss function based on predictions about the training __________ data.
+19. Machine translation systems use sequence-to-sequence models with attention mechanisms to map source sentences to target sentences while preserving __________ information and grammatical correctness.
+20. The Turing Test evaluates a machine's ability to exhibit human-like intelligence by determining whether an evaluator can tell it apart from a real person in natural language __________ conversations.
+21. In decision support systems, expert knowledge is encoded into rules that are then applied to new cases using techniques such as forward chaining and backward __________ reasoning.
+22. Probabilistic graphical models represent complex dependencies between variables using directed or undirected graphs, where the nodes represent random __________ and edges indicate conditional independence relationships.
+23. The primary advantage of deep learning over traditional machine learning methods is its ability to learn hierarchical representations of __________ patterns from data without requiring manual feature engineering.
+24. In reinforcement learning, Markov Decision Processes model sequential decision-making problems as state-action pairs with transition probabilities between states based on the agent's current __________ and actions taken.
+25. Ethical considerations in AI development include issues related to fairness, transparency, accountability, privacy protection, safety guarantees, and the potential for systems to exhibit harmful __________ behaviors or perpetuate societal biases.
+26. Symbolic reasoning involves manipulating symbols according to logical rules to derive new information from existing knowledge bases using techniques such as forward chaining, backward __________ reasoning, and resolution theorem proving.
+27. In natural language processing tasks like machine translation and sentiment analysis, the model's performance is often evaluated based on how well it preserves semantic __________ and grammatical structure while adapting to cultural nuances in different languages.
+28. Deep learning models can learn hierarchical representations of complex patterns by iteratively refining their internal representation using techniques such as convolutional neural networks (CNNs) for spatial __________ patterns and recurrent neural networks (RNNs) for sequential information.
+29. Expert systems incorporate knowledge bases containing domain-specific rules, facts, and relationships that are used to draw conclusions about new situations using logical inference __________ techniques.
+30. The primary challenge in developing trustworthy AI systems is ensuring they can reliably reason about complex domains while being transparent about their limitations and potential for making __________ errors.
+
+**Answer Key:**
+1. intelligent behavior
+2. path cost, time
+3. output
+4. neurons
+5. hierarchical, associative
+6. conditional
+7. actions taken
+8. similar patterns
+9. harmful behaviors
+10. logical deduction
+11. resource constraints
+12. processed information
+13. reinforcement
+14. ambiguous words
+15. condition
+16. abstract concepts
+17. actual outputs
+18. training data
+19. contextual information
+20. dialogue
+21. reasoning
+22. variables
+23. complex patterns
+24. agent's current state
+25. harmful behaviors
+26. deductive reasoning
+27. semantic meaning
+28. spatial patterns, sequential information
+29. inference techniques
+30. incorrect errors
+
+// Exam generated with grammatical errors, such as duplicate words around the answer spaces.
+**Questions with Answers:** 
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit (intelligent behavior).
+2. Search algorithms like A* and Dijkstra's are used to find the optimal solution by considering both the (path cost), and (time).
+3. In machine learning, supervised learning involves training a model on labeled data where each input has an associated (output).
+4. Neural networks are based on the concept of interconnected nodes called (neurons) that process information.
+5. Knowledge representation systems use various techniques to encode information, including (hierarchical) and (associative) relationships.
+6. The logical rule "If P then Q" is known as a (conditional) statement.
+7. Reinforcement learning involves an agent learning by receiving rewards or penalties based on its (actions taken) in making decisions.
+8. Unsupervised learning algorithms like K-means clustering group data points into clusters based on their (similarities).
+9. Ethical considerations in AI include concerns about bias, privacy, and the potential for systems to exhibit (harmful behaviors).
+10. Expert systems use a combination of rules and knowledge bases to mimic human expert decision-making by applying (logical deduction).
+11. The fundamental problem of search in AI is finding an optimal path from start to goal while considering constraints such as time or (resource constraints).
+12. Deep learning models employ multiple layers of neural networks, with each layer processing the (processed information) to learn increasingly complex features.
+13. Machine learning algorithms can be categorized into three main types: supervised, unsupervised, and (reinforcement) learning.
+14. Natural language processing involves training AI systems on human-written text to understand syntax, semantics, and the context-dependent meanings of (ambiguous words).
+15. In decision trees, each internal node represents a test on an attribute, and branches represent possible values for that attribute based on whether the value meets the (condition).
+16. Knowledge representation frameworks include semantic networks, frames, and predicate logic-based systems, which differ primarily in their approach to representing (abstract concepts) entities and relationships.
+17. The primary goal of supervised learning is to minimize the error between predicted outputs and actual (actual outputs) values.
+18. In neural network training, gradient descent optimizes the model parameters by iteratively adjusting them to reduce the loss function based on predictions about the (training data).
+19. Machine translation systems use sequence-to-sequence models with attention mechanisms to map source sentences to target sentences while preserving (contextual information) and grammatical correctness.
+20. The Turing Test evaluates a machine's ability to exhibit human-like intelligence by determining whether an evaluator can tell it apart from a real person in natural language (dialogue) conversations.
+21. In decision support systems, expert knowledge is encoded into rules that are then applied to new cases using techniques such as forward chaining and backward (reasoning).
+22. Probabilistic graphical models represent complex dependencies between variables using directed or undirected graphs, where the nodes represent random (variables) and edges indicate conditional independence relationships.
+23. The primary advantage of deep learning over traditional machine learning methods is its ability to learn hierarchical representations of (complex patterns) from data without requiring manual feature engineering.
+24. In reinforcement learning, Markov Decision Processes model sequential decision-making problems as state-action pairs with transition probabilities between states based on the (agent's current state) and actions taken.
+25. Ethical considerations in AI development include issues related to fairness, transparency, accountability, privacy protection, safety guarantees, and the potential for systems to exhibit (harmful behaviors) or perpetuate societal biases.
+26. Symbolic reasoning involves manipulating symbols according to logical rules to derive new information from existing knowledge bases using techniques such as forward chaining, backward (deductive reasoning), and resolution theorem proving.
+27. In natural language processing tasks like machine translation and sentiment analysis, the model's performance is often evaluated based on how well it preserves (semantic meaning) and grammatical structure while adapting to cultural nuances in different languages.
+28. Deep learning models can learn hierarchical representations of complex patterns by iteratively refining their internal representation using techniques such as convolutional neural networks for (spatial patterns) and (sequential information) .
+29. Expert systems incorporate knowledge bases containing domain-specific rules, facts, and relationships that are used to draw conclusions about new situations using logical inference (inference techniques) techniques.
+30. The primary challenge in developing trustworthy AI systems is ensuring they can reliably reason about complex domains while being transparent about their limitations and potential for making (errors).

@@ -1,0 +1,179 @@
+1. Which of the following is NOT a common application of machine learning?
+a) Image recognition
+b) Stock market prediction *
+c) Weather forecasting
+d) Human language translation
+
+2. What does the term "neural network" refer to?
+a) A group of neurons working together
+b) An artificial system inspired by biological neural networks  *
+c) A single decision tree algorithm
+d) A mathematical optimization function
+
+3. Which type of learning is considered supervised learning?
+a) When the model learns from unlabeled data
+b) When the model learns from labeled training examples *
+c) When the model improves through user feedback
+d) When the model generates new ideas independently
+
+4. What does "backpropagation" mean in neural networks?
+a) Forward propagation of information
+b) The process of updating weights based on error *
+c) Training a network from scratch
+d) Converting neural networks to decision trees
+
+5. Which of the following is an example of reinforcement learning?
+a) A self-driving car learning to avoid obstacles *
+b) A spam filter learning to classify emails
+c) A chess program learning optimal moves
+d) A recommendation system learning user preferences
+
+6. What is the purpose of normalization in neural networks?
+a) To speed up training
+b) To reduce numerical instability *
+c) To increase model accuracy
+d) To decrease model complexity
+
+7. Which type of machine learning is used for classification tasks?
+a) Regression
+b) Decision trees
+c) Neural networks *
+d) Clustering
+
+8. What does "overfitting" mean in the context of AI models?
+a) When a model performs well on training data but poorly on new data *
+b) When a model performs equally well on all types of data
+c) When a model cannot be trained at all
+d) When a model produces accurate results too quickly
+
+9. Which algorithm is commonly used for clustering?
+a) K-means *
+b) Random forest
+c) Support vector machines
+d) Deep learning
+
+10. What is the purpose of cross-validation in machine learning?
+a) To reduce computational complexity
+b) To evaluate model performance more accurately *
+c) To increase data size artificially
+d) To speed up training time
+
+11. Which type of neural network architecture is most commonly used for image recognition?
+a) Convolutional Neural Networks (CNNs) *
+b) Recurrent Neural Networks (RNNs)
+c) Long Short-Term Memory networks (LSTMs)
+d) Feedforward Neural Networks (FNNs)
+
+12. What does "batch size" refer to in neural network training?
+a) The number of samples used for each update *
+b) The total number of parameters in the model
+c) The size of the dataset
+d) The learning rate
+
+13. Which of the following is an example of unsupervised learning?
+a) A computer vision system identifying objects
+b) A recommendation system suggesting products
+c) A clustering algorithm grouping similar data points *
+d) A language model generating text
+
+14. What is the purpose of the "loss function" in neural networks?
+a) To measure training accuracy
+b) To determine optimal hyperparameters
+c) To quantify prediction error *
+d) To calculate gradient descent steps
+
+15. Which type of learning requires labeled data?
+a) Semi-supervised learning
+b) Reinforcement learning
+c) Supervised learning *
+d) Unsupervised learning
+
+16. What is the purpose of regularization in neural networks?
+a) To prevent overfitting *
+b) To increase model complexity
+c) To speed up training
+d) To reduce numerical instability
+
+17. Which algorithm is commonly used for feature selection?
+a) Random Forest
+b) Support Vector Machines (SVM)
+c) Principal Component Analysis (PCA) *
+d) K-means clustering
+
+18. What does "gradient descent" refer to in machine learning?
+a) The process of minimizing loss function using gradients *
+b) The technique of increasing model accuracy
+c) The method of selecting optimal hyperparameters
+d) The approach of training on small datasets
+
+19. Which type of neural network is best suited for time series data?
+a) Recurrent Neural Networks (RNNs)
+b) Convolutional Neural Networks (CNNs)
+c) Long Short-Term Memory networks (LSTMs) *
+d) Feedforward Neural Networks (FNNs)
+
+20. What is the purpose of hyperparameter tuning in machine learning?
+a) To optimize model performance *
+b) To reduce computational complexity
+c) To increase data size artificially
+d) To speed up training time
+
+21. Which algorithm is commonly used for dimensionality reduction?
+a) Principal Component Analysis (PCA) *
+b) Random Forest
+c) Support Vector Machines (SVM)
+d) K-means clustering
+
+22. What does "validation set" refer to in machine learning?
+a) The subset of data used to evaluate model performance *
+b) The entire dataset used for training
+c) The test data not yet evaluated
+d) The hyperparameters to be optimized
+
+23. Which type of neural network is best suited for natural language processing tasks?
+a) Recurrent Neural Networks (RNNs)
+b) Convolutional Neural Networks (CNNs)
+c) Long Short-Term Memory networks (LSTMs) *
+d) Feedforward Neural Networks (FNNs)
+
+24. What is the purpose of data augmentation in machine learning?
+a) To increase dataset size artificially *
+b) To reduce computational complexity
+c) To decrease model accuracy
+d) To prevent overfitting
+
+25. Which algorithm is commonly used for regression tasks?
+a) Linear Regression *
+b) Decision Trees
+c) Support Vector Machines (SVM)
+d) K-means clustering
+
+26. What does "epoch" refer to in neural network training?
+a) The number of times the model processes the entire dataset *
+b) The total number of parameters in the model
+c) The size of the dataset
+d) The learning rate
+
+27. Which type of learning is considered semi-supervised?
+a) Learning from labeled data only
+b) Learning from both labeled and unlabeled data *
+c) Learning from user feedback alone
+d) Learning from environmental feedback alone
+
+28. What is the purpose of dropout in neural networks?
+a) To prevent overfitting by randomly dropping neurons during training *
+b) To increase model complexity
+c) To speed up training
+d) To reduce numerical instability
+
+29. Which algorithm is commonly used for text classification?
+a) Naive Bayes
+b) Support Vector Machines (SVM)
+c) Long Short-Term Memory networks (LSTMs) *
+d) Feedforward Neural Networks (FNNs)
+
+30. What does "model generalization" refer to in machine learning?
+a) The ability of a model to perform well on unseen data *
+b) The process of training a model on a specific dataset
+c) The method of selecting optimal hyperparameters
+d) The approach of reducing numerical instability

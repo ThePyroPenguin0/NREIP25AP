@@ -1,0 +1,59 @@
+1. What is the primary difference between narrow AI and general AI? // Student answer: Narrow AI is designed for a specific task (like facial recognition), while general AI would be able to perform any intellectual task that a human can do.
+
+2. Describe the key components of Alan Turing's 1950 paper "Computing Machinery and Intelligence." // Student answer: Turing proposed the Turing Test, discussed machine learning through examples like checkers playing, and addressed questions about whether machines could think.
+
+3. How does supervised learning differ from unsupervised learning? // Student answer: In supervised learning, the algorithm is trained on labeled data (with correct answers), while in unsupervised learning, it finds patterns in unlabeled data without predefined outcomes.
+
+4. What are decision trees and how do they work? // Student answer: Decision trees are algorithms that split data into branches based on conditions, building a tree-like structure to make decisions by evaluating the best split at each node.
+
+5. Explain the difference between a neural network and a deep learning model. // Student answer: While both use layers of interconnected nodes, neural networks can be shallow or deep; deep learning specifically refers to using multiple hidden layers to learn complex patterns.
+
+6. What are the main types of knowledge representation in AI? // Student answer: The main types include symbolic representation (using symbols and rules), semantic nets (graph-like structures showing relationships between concepts), frames (data structures representing real-world objects), and production systems (rules for generating actions).
+
+7. How does Bayesian inference relate to probability theory? // Student answer: Bayesian inference uses Bayes' theorem to update the probability of a hypothesis based on new evidence, combining prior knowledge with new data in a probabilistic framework.
+
+8. What is the significance of the term "backpropagation" in neural networks? // Student answer: Backpropagation refers to the algorithm used to calculate gradients during training, allowing neural networks to learn by adjusting weights based on errors calculated from the output layer backwards through the network.
+
+9. Explain the difference between machine learning and deep learning. // Student answer: Machine learning encompasses all techniques that enable systems to learn from data, while deep learning is a subset focused on using multiple layers of artificial neurons to automatically extract features from raw input.
+
+10. What are heuristic search algorithms? // Student answer: Heuristic search algorithms use problem-specific knowledge and educated guesses (heuristics) to find solutions more efficiently than exhaustive search methods by guiding the search through promising areas of the solution space.
+
+11. How does natural language processing differ from machine translation? // Student answer: Natural Language Processing involves understanding, generating, or analyzing human language in various forms, while Machine Translation is a specific application focused on converting text between languages.
+
+12. What are the key components of a knowledge base system? // Student answer: A knowledge base typically includes facts and rules stored as data structures (like semantic networks), inference engines to reason with that knowledge, and query interfaces for accessing information.
+
+13. How does reinforcement learning differ from supervised learning? // Student answer: In reinforcement learning, an agent learns by interacting with an environment and receiving rewards or penalties based on actions, while in supervised learning, the algorithm is trained on labeled examples of correct outputs.
+
+14. What is the significance of the term "symbol grounding" in AI research? // Student answer: Symbol grounding refers to the challenge of connecting abstract symbols used in language or reasoning to real-world meaning, ensuring that concepts have actual referents in the physical world.
+
+15. How does expert systems differ from machine learning systems? // Student answer: Expert Systems use hand-coded rules and knowledge bases to mimic human expertise for specific domains, while Machine Learning Systems automatically learn patterns from data without requiring explicit programming of rules.
+
+16. What are the main challenges in implementing AI ethics frameworks? // Student answer: Key challenges include ensuring transparency in AI decision-making, addressing bias in training data, protecting user privacy, and balancing automation with human values and agency.
+
+17. How does knowledge representation relate to reasoning systems? // Student answer: Knowledge representation provides the structures and methods used by reasoning systems to draw conclusions from information, whether through logical inference, probabilistic reasoning, or other approaches.
+
+18. What is the role of neural networks in image recognition tasks? // Student answer: Neural Networks are particularly effective at image recognition because they can automatically learn features like edges, textures, and patterns relevant to classification tasks.
+
+19. How does unsupervised learning relate to clustering algorithms? // Student answer: Unsupervised Learning often involves clustering algorithms that group similar data points together without prior knowledge of categories or labels, allowing for pattern discovery in unlabeled data.
+
+20. What are the key differences between first-order logic and propositional logic? // Student answer: First-order logic allows quantification over variables (all x, some x), while propositional logic deals with atomic propositions without internal structure.
+
+21. How does machine learning relate to predictive analytics? // Student answer: Machine Learning is a subset of techniques used in Predictive Analytics that enable systems to learn patterns from data and make predictions about future outcomes.
+
+22. What are the main types of decision-making algorithms in AI? // Student answer: Decision-making algorithms include rule-based systems, case-based reasoning, utility-based approaches, game-theoretic models, and heuristic search methods.
+
+23. How does natural language understanding differ from machine translation? // Student answer: Natural Language Understanding involves interpreting meaning from text or speech input, while Machine Translation focuses on converting text between languages with grammatical accuracy.
+
+24. What is the significance of the term "deep learning" in AI research? // Student answer: Deep Learning refers to a subset of machine learning techniques that use multiple layers of neural networks to automatically learn features and patterns from raw data inputs.
+
+25. How does knowledge representation affect reasoning systems? // Student answer: Knowledge representation structures influence how reasoning systems can draw conclusions by determining what information is available, how it's organized, and which logical operations are applicable.
+
+26. What are the main challenges in implementing AI ethics frameworks? // Student answer: Key challenges include ensuring transparency in AI decision-making, addressing bias in training data, protecting user privacy, and balancing automation with human values and agency.
+
+27. How does unsupervised learning relate to clustering algorithms? // Student answer: Unsupervised Learning often involves clustering algorithms that group similar data points together without prior knowledge of categories or labels, allowing for pattern discovery in unlabeled data.
+
+28. What are the key differences between first-order logic and propositional logic? // Student answer: First-order logic allows quantification over variables (all x, some x), while propositional logic deals with atomic propositions without internal structure.
+
+29. How does machine learning relate to predictive analytics? // Student answer: Machine Learning is a subset of techniques used in Predictive Analytics that enable systems to learn patterns from data and make predictions about future outcomes.
+
+30. What are the main types of decision-making algorithms in AI? // Student answer: Decision-making algorithms include rule-based systems, case-based reasoning, utility-based approaches, game-theoretic models, and heuristic search methods.

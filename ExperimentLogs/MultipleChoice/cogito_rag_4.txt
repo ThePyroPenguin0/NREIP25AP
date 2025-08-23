@@ -1,0 +1,179 @@
+1. What is the primary advantage of using machine learning over traditional programming?
+a) It allows for more complex algorithms
+b) It enables systems to learn from data without explicit programming *
+c) It reduces system maintenance costs
+d) It improves user interface design
+
+2. Which statement best describes neural networks in AI?
+a) They are complex decision trees used for classification
+b) They use layers of interconnected nodes to process information *
+c) They are simple linear regression models for predictions
+d) They rely solely on statistical analysis techniques
+
+3. What is the key difference between machine learning and deep learning?
+a) Machine learning uses shallow networks, while deep learning uses very deep networks
+b) Deep learning focuses only on image processing applications
+c) Machine learning requires more human intervention than deep learning *
+d) Deep learning can only be used with large datasets
+
+4. How does unsupervised learning differ from supervised learning in AI?
+a) Unsupervised learning always produces better results
+b) Supervised learning uses labeled data to train models, while unsupervised learning does not require labels *
+c) Unsupervised learning is only useful for image classification tasks
+d) Supervised learning is limited to simple linear regression problems
+
+5. What are the main components of a typical AI system architecture?
+a) A central processing unit and various input devices
+b) A database, user interface, and business logic layer *
+c) Only hardware components like processors and memory
+d) Software-only solutions without any specialized infrastructure
+
+6. How does reinforcement learning differ from other types of machine learning?
+a) It focuses solely on game playing applications
+b) It uses reward signals to guide learning behavior instead of predefined labels
+c) It only works with supervised datasets *
+d) It requires manual labeling for training data
+
+7. What is the role of natural language processing in modern AI systems?
+a) To convert text into simple numerical values
+b) To understand and generate human language effectively *
+c) To process images automatically
+d) To perform complex mathematical calculations
+
+8. Which type of machine learning model would be most suitable for predicting house prices based on features like square footage, location, and number of bedrooms?
+a) Decision trees
+b) Random forests
+c) Support vector machines
+d) Deep neural networks *
+
+9. What are the main challenges in implementing AI systems in real-world applications?
+a) Limited processing power and memory constraints
+b) Lack of available training data
+c) Difficulty in ensuring system safety and reliability *
+d) High costs associated with hardware implementation
+
+10. How does transfer learning differ from traditional machine learning approaches?
+a) It requires more extensive training datasets
+b) It only applies to image recognition tasks
+c) It enables models trained on one task to be fine-tuned for a related but different task *
+d) It always results in better performance than retraining from scratch
+
+11. What is the primary advantage of using cloud-based AI services?
+a) They reduce local computational requirements
+b) They provide access to more advanced algorithms and models
+c) They eliminate the need for local data storage *
+d) They decrease the cost of system maintenance
+
+12. How does automated machine learning (AutoML) differ from traditional ML approaches?
+a) It completely eliminates human involvement in model development
+b) It automates the entire process of model selection, training, and tuning without requiring expertise
+c) It provides more accurate results than human-developed models *
+d) It reduces computational requirements for training
+
+13. What are the key components of a typical AI ethics framework?
+a) Focus solely on technical implementation details
+b) Include considerations for privacy, fairness, transparency, accountability, and bias mitigation *
+c) Ignore social implications and human impact of AI systems
+d) Restrict deployment to only commercial applications
+
+14. How does explainable AI (XAI) differ from traditional black-box ML models?
+a) It provides more accurate predictions but less interpretability
+b) It focuses solely on image-based visualizations of model behavior
+c) It enables developers and end-users to understand how decisions are being made *
+d) It reduces the need for human oversight in decision-making
+
+15. What is the primary advantage of using multi-modal AI systems?
+a) They require less training data than single-modal systems
+b) They can process multiple types of input simultaneously (e.g., text, images, audio)
+c) They are limited to only image processing applications *
+d) They provide more accurate results than unimodal models
+
+16. How does continuous learning differ from traditional batch learning in AI?
+a) It requires retraining the model on new data at regular intervals
+b) It focuses solely on updating weights based on incoming data without recomputing all parameters
+c) It enables models to learn and improve over time as more data becomes available *
+d) It always results in decreased performance compared to batch learning
+
+17. What is the role of knowledge graphs in modern AI systems?
+a) To store raw unprocessed text data
+b) To represent structured information and relationships between entities in a logical form
+c) To perform complex image recognition tasks
+d) To generate random numbers for algorithmic operations *
+
+18. How does federated learning differ from traditional distributed machine learning approaches?
+a) It requires all training data to be centralized on a single server
+b) It focuses solely on optimizing models across multiple devices with minimal communication
+c) It enables models to learn from decentralized data without sharing raw data between parties *
+d) It always results in better performance than traditional distributed ML
+
+19. What is the primary advantage of using generative AI over traditional rule-based systems?
+a) They can generate new content that meets specific requirements
+b) They are limited to only image generation tasks
+c) They require more extensive training datasets than rule-based systems
+d) They always provide more accurate results for all applications *
+
+20. How does reinforcement learning differ from supervised learning in terms of feedback mechanisms?
+a) It uses external reward signals rather than human-labeled outputs
+b) It is limited to only game-playing environments and scenarios
+c) It requires manual labeling for training data
+d) It always produces better performance results than supervised learning
+
+21. What are the main challenges in implementing ethical AI systems?
+a) Technical limitations in algorithmic fairness and bias mitigation
+b) Difficulty in ensuring transparency and explainability of model decisions
+c) Balancing competing interests between different stakeholders *
+d) High costs associated with implementation
+
+22. How does active learning differ from traditional passive machine learning approaches?
+a) It requires continuous human intervention to label new data points
+b) It focuses solely on optimizing the selection process for training data
+c) It enables models to learn more efficiently by actively requesting labels for specific instances *
+d) It always results in decreased performance compared to traditional ML
+
+23. What is the primary advantage of using cognitive architecture frameworks in AI?
+a) They enable systems to mimic human-like reasoning and problem-solving capabilities
+b) They are limited to only image recognition tasks
+c) They require more extensive training datasets than traditional ML models
+d) They always result in better performance for all applications *
+
+24. How does transfer learning differ from fine-tuning approaches in AI?
+a) Transfer learning involves training a model on one task and applying it directly to another related task, while fine-tuning involves further training the model with domain-specific data
+b) Fine-tuning requires more extensive training datasets than transfer learning
+c) Transfer learning always results in better performance than fine-tuning *
+d) Fine-tuning is limited to only image recognition tasks
+
+25. What are the key components of a typical AI governance framework?
+a) Focus solely on technical implementation details and compliance requirements
+b) Include considerations for data privacy, security, accountability, transparency, and ethical implications *
+c) Restrict deployment to only commercial applications without considering social impact
+d) Eliminate all human oversight from decision-making processes
+
+26. How does explainable AI (XAI) differ from traditional ML in terms of interpretability?
+a) It requires more extensive training datasets than traditional ML models
+b) It focuses solely on image-based visualizations of model behavior
+c) It enables developers and end-users to understand how decisions are being made based on interpretable features *
+d) It always results in decreased performance compared to traditional ML
+
+27. What is the primary advantage of using multi-modal machine learning models?
+a) They can process multiple types of input simultaneously (e.g., text, images, audio)
+b) They require less training data than single-modal systems
+c) They are limited to only image processing applications *
+d) They always provide more accurate results for all applications
+
+28. How does continuous learning differ from traditional batch learning in AI?
+a) It requires retraining the model on new data at regular intervals
+b) It focuses solely on updating weights based on incoming data without recomputing all parameters
+c) It enables models to learn and improve over time as more data becomes available *
+d) It always results in decreased performance compared to batch learning
+
+29. What is the role of knowledge graphs in modern AI systems?
+a) To store raw unprocessed text data
+b) To represent structured information and relationships between entities in a logical form
+c) To perform complex image recognition tasks
+d) To generate random numbers for algorithmic operations *
+
+30. How does federated learning differ from traditional distributed machine learning approaches?
+a) It requires all training data to be centralized on a single server
+b) It focuses solely on optimizing models across multiple devices with minimal communication
+c) It enables models to learn from decentralized data without sharing raw data between parties *
+d) It always results in better performance than traditional distributed ML

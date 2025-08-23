@@ -1,0 +1,104 @@
+Here are 30 fill-in-the-blank exam questions covering core AI topics, followed by an answer key:
+
+**Questions:**
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit __________.
+2. In machine learning, __________ refers to the problem of predicting a continuous value rather than classifying into discrete categories.
+3. The search algorithm used in solving puzzles like the 8-queen or n-queens problems is the __________ algorithm.
+4. A neural network with multiple layers that can automatically learn hierarchical features from raw input data is called a __________ network.
+5. In logic programming, facts and rules are represented using the __________ notation.
+6. The process of training a model to optimize its performance on a specific task without human intervention is known as __________ learning.
+7. A technique for representing knowledge in a form that makes it easy to answer questions about the world by reasoning from the knowledge stored is called __________ representation.
+8. In supervised learning, the algorithm learns from __________ data, which consists of input-output pairs.
+9. The field of AI that focuses on developing systems capable of autonomous action and decision-making without explicit human instructions is known as __________ intelligence.
+10. A problem where the optimal solution cannot be found using a brute force approach is an example of __________ complexity.
+11. In computer vision, convolutional neural networks use __________ layers to learn spatial hierarchies of features from images.
+12. The process of teaching an AI system to make decisions by trial and error with rewards for desired behavior is called __________ learning.
+13. A common algorithm used for finding the shortest path between two points in a graph is the __________ search algorithm.
+14. In machine learning, data that has been normalized or scaled to have zero mean is said to be in a __________ distribution.
+15. The type of knowledge representation where information is stored as a network of concepts and their relationships is called __________ representation.
+16. A neural network architecture consisting of input layers, hidden layers, and output layers with weights adjusted during training is known as a __________ network.
+17. In logic programming, the process of determining if a query can be satisfied by the current knowledge base is called __________ resolution.
+18. The field of AI that focuses on developing systems capable of understanding human language is known as __________ processing.
+19. A technique for representing uncertainty in AI systems is called __________ reasoning.
+20. In machine learning, overfitting occurs when a model learns the training data too well and fails to generalize to new data because it's paying too much attention to __________ features.
+21. The algorithm that finds the optimal solution by exploring all possible solutions in an ordered fashion is known as the __________ search algorithm.
+22. A type of learning where the AI system learns from its interactions with the environment without explicit supervision or reinforcement signals is called __________ learning.
+23. In computer vision, edge detection algorithms are used to identify __________ features in images.
+24. The process of converting human language into machine-readable form is known as __________ processing.
+25. A problem where the optimal solution cannot be found using a brute force approach because it's computationally infeasible is an example of __________ complexity.
+26. In logic programming, the process of determining if all possible queries can be satisfied by the current knowledge base is called __________ inference.
+27. The field of AI that focuses on developing systems capable of visual perception and interpretation is known as __________ vision.
+28. A technique for representing knowledge in a form that makes it easy to answer questions about the world by reasoning from the knowledge stored is called __________ representation.
+29. In machine learning, bias in an algorithm refers to its tendency to consistently make errors due to __________ limitations.
+30. The field of AI that focuses on developing systems capable of autonomous action and decision-making without explicit human instructions is known as __________ intelligence.
+
+**Answer Key:**
+1. intelligent behavior
+2. regression
+3. backtracking
+4. deep learning
+5. predicate logic notation
+6. unsupervised learning
+7. semantic networks
+8. labeled data
+9. strong AI
+10. NP complexity
+
+11. convolutional layers
+12. reinforcement learning
+13. A* search algorithm
+14. zero-mean distribution
+15. semantic networks
+
+16. feedforward neural network
+17. logical resolution
+18. natural language processing
+19. probabilistic reasoning
+
+20. noise or outliers in the training data
+21. depth-first search algorithm
+
+22. self-supervised learning
+23. contour edges
+24. natural language processing
+
+25. NP complexity
+26. logical inference
+27. computer vision
+
+28. semantic networks (duplicate)
+29. inadequate information about the problem domain
+30. strong AI (duplicate)
+
+**Questions with Answers Included:**
+
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit (intelligent behavior).
+2. In machine learning, (regression) refers to the problem of predicting a continuous value rather than classifying into discrete categories.
+3. The search algorithm used in solving puzzles like the 8-queen or n-queens problems is the (backtracking) algorithm.
+4. A neural network with multiple layers that can automatically learn hierarchical features from raw input data is called a (deep learning) network.
+5. In logic programming, facts and rules are represented using the (predicate logic notation).
+6. The process of training a model to optimize its performance on a specific task without human intervention is known as (unsupervised learning).
+7. A technique for representing knowledge in a form that makes it easy to answer questions about the world by reasoning from the knowledge stored is called (semantic networks) representation.
+8. In supervised learning, the algorithm learns from (labeled data), which consists of input-output pairs.
+9. The field of AI that focuses on developing systems capable of autonomous action and decision-making without explicit human instructions is known as (strong AI) intelligence.
+10. A problem where the optimal solution cannot be found using a brute force approach is an example of (NP complexity).
+11. In computer vision, convolutional neural networks use (convolutional layers) to learn spatial hierarchies of features from images.
+12. The process of teaching an AI system to make decisions by trial and error with rewards for desired behavior is called (reinforcement learning).
+13. A common algorithm used for finding the shortest path between two points in a graph is the (A* search algorithm).
+14. In machine learning, data that has been normalized or scaled to have zero mean is said to be in a (zero-mean distribution).
+15. The type of knowledge representation where information is stored as a network of concepts and their relationships is called (semantic networks) representation.
+16. A neural network architecture consisting of input layers, hidden layers, and output layers with weights adjusted during training is known as a (feedforward neural network).
+17. In logic programming, the process of determining if a query can be satisfied by the current knowledge base is called (logical resolution).
+18. The field of AI that focuses on developing systems capable of understanding human language is known as (natural language processing).
+19. A technique for representing uncertainty in AI systems is called (probabilistic reasoning).
+20. In machine learning, overfitting occurs when a model learns the training data too well and fails to generalize to new data because it's paying too much attention to (noise or outliers in the training data) features.
+21. The algorithm that finds the optimal solution by exploring all possible solutions in an ordered fashion is known as the (depth-first search algorithm).
+22. A type of learning where the AI system learns from its interactions with the environment without explicit supervision or reinforcement signals is called (self-supervised learning).
+23. In computer vision, edge detection algorithms are used to identify (contour edges) features in images.
+24. The process of converting human language into machine-readable form is known as (natural language processing).
+25. A problem where the optimal solution cannot be found using a brute force approach because it's computationally infeasible is an example of (NP complexity).
+26. In logic programming, the process of determining if all possible queries can be satisfied by the current knowledge base is called (logical inference).
+27. The field of AI that focuses on developing systems capable of visual perception and interpretation is known as (computer vision).
+28. A technique for representing knowledge in a form that makes it easy to answer questions about the world by reasoning from the knowledge stored is called (semantic networks) representation.
+29. In machine learning, bias in an algorithm refers to its tendency to consistently make errors due to (inadequate information about the problem domain) limitations.
+30. The field of AI that focuses on developing systems capable of autonomous action and decision-making without explicit human instructions is known as (strong AI) intelligence.

@@ -1,0 +1,59 @@
+1. Decision trees can be used for both classification and regression tasks — Student's answer: True
+
+2. The k-NN algorithm is a non-parametric learning method that uses all available data points in its final prediction — Student's answer: False
+
+3. SVMs work by finding the optimal hyperplane that maximizes the margin between classes — Student's answer: True
+
+4. Neural networks require backpropagation to compute gradients during training — Student's answer: True
+
+5. CNNs use convolutional layers to automatically detect spatial hierarchies of features in images — Student's answer: True
+
+6. RNNs are designed specifically for sequential data, making them excellent choices for natural language processing tasks — Student's answer: False
+
+7. Transformers use self-attention mechanisms instead of recurrent connections to process sequences — Student's answer: True
+
+8. Dropout is a regularization technique that randomly sets input units to 0 during training time to prevent overfitting — Student's answer: True
+
+9. The learning rate in gradient descent determines how many steps the optimizer takes towards the minimum — Student's answer: False
+
+10. Cross-validation helps estimate model performance on unseen data by dividing the dataset into multiple subsets — Student's answer: True
+
+11. Adam is an optimization algorithm that adapts its learning rate for each parameter — Student's answer: True
+
+12. Activation functions like ReLU help introduce non-linearity in neural networks — Student's answer: True
+
+13. Batch normalization can be applied to any layer of a neural network, not just the fully connected layers — Student's answer: False
+
+14. The RMSprop optimization algorithm is designed specifically for training RNNs — Student's answer: False
+
+15. Overfitting occurs when a model learns the noise in the training data rather than the underlying pattern — Student's answer: True
+
+16. Weight decay is an alternative to dropout for regularization that penalizes large weights during training — Student's answer: True
+
+17. The loss function used for classification tasks should always be cross-entropy loss — Student's answer: False
+
+18. CNNs automatically detect edges and corners in images due to the use of pooling layers — Student's answer: False
+
+19. LSTM networks are specifically designed to handle long-range dependencies in sequential data — Student's answer: True
+
+20. Gradient clipping prevents exploding gradients during backpropagation by limiting their magnitude — Student's answer: True
+
+21. The mean squared error (MSE) loss function is commonly used for regression tasks — Student's answer: True
+
+22. Transfer learning involves training a new model on the same dataset without fine-tuning — Student's answer: False
+
+23. Attention mechanisms allow models to focus on specific parts of input sequences when making predictions — Student's answer: True
+
+24. The AdamW optimization algorithm is an improved version of Adam that uses weight decay instead of momentum for regularization — Student's answer: True
+
+25. Regularization techniques like L1 and L2 help prevent overfitting by penalizing large weights in the model — Student's answer: True
+
+26. The k-means clustering algorithm minimizes within-cluster variance to group similar data points together — Student's answer: False
+
+27. Autoencoders are designed to learn compressed representations of input data that capture essential features — Student's answer: True
+
+28. Deep reinforcement learning combines deep learning with reinforcement learning for decision-making tasks — Student's answer: True
+
+29. The validation set is used during training to monitor the model's performance and detect overfitting — Student's answer: True
+
+30. Hyperparameter tuning involves searching through possible parameter settings to find the optimal combination for a given model architecture — Student's answer: True

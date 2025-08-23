@@ -1,0 +1,61 @@
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit __________.
+2. The process by which a system learns from its environment without human intervention is called __________.
+3. A neural network with multiple layers of processing units, including at least one hidden layer, is known as a __________.
+4. In the A* search algorithm, the heuristic function used to estimate the cost of reaching the goal from a given node must be __________.
+5. The ability of an AI system to reason about the truth or falsity of statements is related to __________.
+6. Machine learning techniques that automatically improve with experience are called __________.
+7. The process by which an AI system learns to make decisions based on rewards or penalties is known as __________.
+8. Knowledge representation techniques that use logical statements to describe relationships between objects are called __________.
+9. A decision tree splits data based on the values of attributes in a way that minimizes __________.
+10. The principle that states an AI system should never pursue a goal if achieving it would require violating fundamental laws is known as the __________.
+11. In knowledge representation, relationships between concepts are typically represented using a network structure called a __________.
+12. The process of training neural networks by propagating errors backwards through the network is known as __________.
+13. Hidden layers in neural networks are designed to automatically learn and represent __________.
+14. The boundary that separates different classes of data in a classification problem is called the __________.
+15. Bayesian inference involves updating probabilities based on new evidence, and this process is known as __________.
+16. The architecture of a neural network refers to its structure in terms of layers and the connections between them, which includes the number of __________.
+17. Optimization algorithms like gradient descent are used to minimize __________.
+18. The process of extracting meaningful features from raw data is called __________.
+19. In knowledge bases, a collection of facts and rules that describe the world is stored in a structured format using a database system with the help of __________.
+20. The study of how concepts are related to each other through their meanings and relationships falls under the field known as __________.
+21. Bias in AI systems can arise from various sources, including but not limited to the training data being __________.
+22. Natural Language Processing (NLP) deals with the interaction between computers and human languages using algorithms that process __________.
+23. The ability to make logical deductions based on given premises is a fundamental aspect of AI systems known as __________.
+24. Evolutionary algorithms are inspired by the process of natural selection, where solutions that perform better in their environment survive and reproduce through a process called __________.
+25. Deep learning frameworks provide high-level APIs for building and training neural networks with support for __________.
+26. The goal of creating AI systems that can perform any intellectual task at the level of a human is known as __________.
+27. In adversarial training, an AI system is trained to be robust against __________.
+28. Transfer learning involves using knowledge learned from one task to improve performance on a second related task through the reuse of __________.
+29. The ability for AI systems to provide explanations for their decisions or predictions is known as __________.
+30. Quantifying the uncertainty associated with an AI system's outputs and predictions is a crucial aspect of building reliable and robust __________.
+
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit (intelligent behavior).
+2. The process by which a system learns from its environment without human intervention is called (unsupervised learning).
+3. A neural network with multiple layers of processing units, including at least one hidden layer, is known as a (deep neural network).
+4. In the A* search algorithm, the heuristic function used to estimate the cost of reaching the goal from a given node must be (admissible).
+5. The ability of an AI system to reason about the truth or falsity of statements is related to (logical reasoning).
+6. Machine learning techniques that automatically improve with experience are called (self-improving algorithms).
+7. The process by which an AI system learns to make decisions based on rewards or penalties is known as (reinforcement learning).
+8. Knowledge representation techniques that use logical statements to describe relationships between objects are called (predicate logic).
+9. A decision tree splits data based on the values of attributes in a way that minimizes (entropy).
+10. The principle that states an AI system should never pursue a goal if achieving it would require violating fundamental laws is known as the (no-go theorem).
+11. In knowledge representation, relationships between concepts are typically represented using a network structure called a (semantic network).
+12. The process of training neural networks by propagating errors backwards through the network is known as (backpropagation).
+13. Hidden layers in neural networks are designed to automatically learn and represent (features).
+14. The boundary that separates different classes of data in a classification problem is called the (decision boundary).
+15. Bayesian inference involves updating probabilities based on new evidence, and this process is known as (Bayes' rule).
+16. The architecture of a neural network refers to its structure in terms of layers and the connections between them, which includes the number of (neurons).
+17. Optimization algorithms like gradient descent are used to minimize (loss function).
+18. The process of extracting meaningful features from raw data is called (feature extraction).
+19. In knowledge bases, a collection of facts and rules that describe the world is stored in a structured format using a database system with the help of (ontologies).
+20. The study of how concepts are related to each other through their meanings and relationships falls under the field known as (ontology).
+21. Bias in AI systems can arise from various sources, including but not limited to the training data being (imbalanced).
+22. Natural Language Processing (NLP) deals with the interaction between computers and human languages using algorithms that process (natural language).
+23. The ability to make logical deductions based on given premises is a fundamental aspect of AI systems known as (deductive reasoning).
+24. Evolutionary algorithms are inspired by the process of natural selection, where solutions that perform better in their environment survive and reproduce through a process called (evolution).
+25. Deep learning frameworks provide high-level APIs for building and training neural networks with support for (GPU acceleration).
+26. The goal of creating AI systems that can perform any intellectual task at the level of a human is known as (artificial general intelligence (AGI)).
+27. In adversarial training, an AI system is trained to be robust against (adversarial examples).
+28. Transfer learning involves using knowledge learned from one task to improve performance on a second related task through the reuse of (pre-trained models).
+29. The ability for AI systems to provide explanations for their decisions or predictions is known as (explainability).
+30. Quantifying the uncertainty associated with an AI system's outputs and predictions is a crucial aspect of building reliable and robust (models).

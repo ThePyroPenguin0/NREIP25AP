@@ -1,0 +1,98 @@
+**Questions:**
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit __________.
+2. In machine learning, a model learns from data through the process called __________.
+3. The algorithm that finds an optimal solution by evaluating all possible paths is known as __________.
+4. In knowledge representation, a system uses propositional logic to handle __________ and/or.
+5. When dealing with uncertain information, AI systems often use the method of __________.
+6. Reinforcement learning involves an agent making decisions based on rewards through a process called __________.
+7. The type of neural network that uses three layers (input, hidden, output) is called __________.
+8. A decision tree algorithm makes splits in the data based on information gain from __________ features.
+9. In supervised learning, the model learns to map inputs to outputs using a dataset of __________ pairs.
+10. The graph search algorithm that explores the least-cost path first is called __________ search.
+11. When building an AI system, it's important to consider ethical implications related to __________ and bias.
+12. In knowledge representation, a rule of the form IF antecedent THEN consequent is called a __________.
+13. The type of learning where an agent learns optimal behavior through interaction with an environment is __________.
+14. When analyzing data for patterns, unsupervised learning methods look for __________ in the dataset.
+15. In decision theory, a rational agent should act to maximize expected __________ of outcomes.
+16. The process of improving model performance through iterative training and evaluation is called __________.
+17. In neural networks, backpropagation calculates the gradient of the error with respect to the network's __________.
+18. The graph search algorithm that uses a priority queue ordered by path cost plus heuristic is called __________.
+19. When dealing with incomplete information, AI systems often use methods of __________ reasoning.
+20. In machine learning, the error function that measures the difference between predicted and actual values is called a __________.
+21. The neural network architecture that uses self-organizing maps to visualize high-dimensional data is called an __________ network.
+22. When evaluating the performance of an AI system, metrics such as precision and recall are used to measure its ability to make correct __________ decisions.
+23. The concept of __________ in neural networks refers to the ability of nodes to learn to represent features at different levels of abstraction.
+24. In knowledge representation, a system that can reason about beliefs and possibilities is said to have __________ reasoning capabilities.
+25. When building an AI system for a specific task, it's important to consider the trade-off between computational complexity and model __________.
+26. The graph search algorithm that uses breadth-first search to explore all possible states is called __________ search.
+27. In decision making, the principle of considering multiple competing goals is known as __________ decision theory.
+28. When evaluating the fairness of an AI system, metrics such as demographic parity and equalized odds are used to measure its ability to make unbiased __________ decisions.
+29. The process of converting a problem into a form that can be solved by an algorithm is called __________ reduction.
+30. When dealing with noisy data, AI systems often use techniques such as outlier detection and robust regression to improve the quality of their __________ estimates.
+
+**Answers:**
+1. intelligent behavior
+2. training
+3. brute force search
+4. relationships between propositions
+5. probability theory
+6. trial and error
+7. feedforward network
+8. selected
+9. labeled
+10. A* (A-star)
+11. fairness and transparency
+12. logical implication
+13. reinforcement
+14. natural groupings
+15. utility
+16. hyperparameter tuning
+17. weights
+18. Dijkstra's algorithm
+19. default
+20. loss function
+21. SOM (Self-Organizing Map)
+22. classification decisions
+23. hierarchical organization
+24. modal logic
+25. interpretability
+26. BFS (Breadth-First Search)
+27. multi-objective decision theory
+28. prediction or classification
+29. computational
+30. statistical
+
+And here are the questions with answers included and underlined:
+
+Here is the modified output:
+
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit (intelligent behavior).
+2. In machine learning, a model learns from data through the process called (training).
+3. The algorithm that finds an optimal solution by evaluating all possible paths is known as (brute force search).
+4. In knowledge representation, a system uses propositional logic to handle (relationships between propositions) and/or.
+5. When dealing with uncertain information, AI systems often use the method of (probability theory).
+6. Reinforcement learning involves an agent making decisions based on rewards through a process called (trial and error).
+7. The type of neural network that uses three layers (input, hidden, output) is called (feedforward network).
+8. A decision tree algorithm makes splits in the data based on information gain from (selected) features.
+9. In supervised learning, the model learns to map inputs to outputs using a dataset of (labeled) pairs.
+10. The graph search algorithm that explores the least-cost path first is called (A* (A-star)) search.
+11. When building an AI system, it's important to consider ethical implications related to (fairness and transparency) and bias.
+12. In knowledge representation, a rule of the form IF antecedent THEN consequent is called a (logical implication).
+13. The type of learning where an agent learns optimal behavior through interaction with an environment is (reinforcement).
+14. When analyzing data for patterns, unsupervised learning methods look for (natural groupings) in the dataset.
+15. In decision theory, a rational agent should act to maximize expected (utility) of outcomes.
+16. The process of improving model performance through iterative training and evaluation is called (hyperparameter tuning).
+17. In neural networks, backpropagation calculates the gradient of the error with respect to the network's (weights).
+18. The graph search algorithm that uses a priority queue ordered by path cost plus heuristic is called (Dijkstra's algorithm).
+19. When dealing with incomplete information, AI systems often use methods of (default) reasoning.
+20. In machine learning, the error function that measures the difference between predicted and actual values is called a (loss function).
+21. The neural network architecture that uses self-organizing maps to visualize high-dimensional data is called an (SOM (Self-Organizing Map)) network.
+22. When evaluating the performance of an AI system, metrics such as precision and recall are used to measure its ability to make correct (classification) decisions.
+23. The concept of (hierarchical organization) in neural networks refers to the ability of nodes to learn to represent features at different levels of abstraction.
+24. In knowledge representation, a system that can reason about beliefs and possibilities is said to have (modal logic) reasoning capabilities.
+25. When building an AI system for a specific task, it's important to consider the trade-off between computational complexity and model (interpretability).
+26. The graph search algorithm that uses breadth-first search to explore all possible states is called (BFS (Breadth-First Search)).
+27. In decision making, the principle of considering multiple competing goals is known as (multi-objective decision theory).
+28. When evaluating the fairness of an AI system, metrics such as demographic parity and equalized odds are used to measure its ability to make unbiased (prediction or classification) decisions.
+29. The process of converting a problem into a form that can be solved by an algorithm is called (computational) reduction.
+30. When dealing with noisy data, AI systems often use techniques such as outlier detection and robust regression to improve the quality of their (statistical) estimates.

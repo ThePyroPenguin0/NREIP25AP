@@ -1,0 +1,150 @@
+What are the main differences between narrow AI and general AI? Include examples of each type in your answer.
+Explain the key components and differences between supervised learning and unsupervised learning.
+Describe the role of neural networks in modern AI systems.
+What is the significance of the Turing Test in AI development?
+Explain the concept of knowledge representation in AI.
+What are the main ethical considerations in developing AI systems?
+Describe the purpose and functionality of search algorithms in AI.
+What is the difference between symbolic AI and connectionist AI?
+Explain the concept of reinforcement learning.
+What are decision trees and how do they differ from neural networks?
+Describe the concept of feature extraction in machine learning.
+What is the difference between supervised and unsupervised learning in terms of their requirements and applications?
+Explain the concept of backpropagation in neural networks.
+What are the main components of an expert system?
+Describe the significance of the No Free Lunch Theorem in machine learning.
+What is the difference between parametric and non-parametric models?
+Explain the concept of transfer learning in machine learning.
+What is the role of genetic algorithms in AI optimization?
+Describe the concept of Bayesian networks in AI.
+What is the significance of the Vanishing Gradient Problem in deep learning?
+Explain the concept of attention mechanisms in neural networks.
+What is the difference between feature selection and feature extraction?
+Describe the concept of ensemble learning in machine learning.
+What is the significance of the Halting Problem in AI?
+Explain the concept of dimensionality reduction in machine learning.
+What is the role of reinforcement learning in robotics?
+Describe the concept of explainable AI (XAI).
+What is the significance of the Pigeonhole Principle in AI?
+Explain the concept of online learning versus offline learning.
+Describe the concept of meta-learning in AI.
+What was Alan Turing's contribution to artificial intelligence, and how does it relate to modern AI development?
+Explain the key differences between supervised learning and unsupervised learning.
+Describe the primary components of an expert system.
+How does neural network learning differ from traditional machine learning algorithms?
+What is the significance of the No Free Lunch Theorem in machine learning?
+Explain the difference between a rule-based system and a neural network-based system.
+What are the key components of knowledge representation in AI?
+Describe the search algorithms commonly used in AI problem-solving.
+What is the difference between weak and strong AI?
+Explain the concept of transfer learning in machine learning.
+What are the key characteristics of logic programming languages like Prolog?
+Describe the role of machine learning in natural language processing.
+What is the purpose of cross-validation in machine learning?
+Explain the concept of deep learning and its relationship to neural networks.
+What are the key limitations of symbolic AI approaches?
+Describe the ethical considerations in deploying AI systems.
+What is the difference between deterministic and stochastic algorithms?
+Explain how reinforcement learning differs from other machine learning paradigms.
+What is the significance of the frame problem in AI?
+Describe the role of Bayesian networks in probabilistic reasoning.
+What is the difference between supervised and semi-supervised learning?
+Explain how decision trees differ from neural networks in their approach to classification tasks.
+What are the key advantages of using genetic algorithms for optimization problems?
+Describe the role of attention mechanisms in modern AI systems.
+What is the significance of the curse of dimensionality in machine learning?
+Explain the difference between active learning and passive learning in AI systems.
+What is the purpose of regularization techniques in machine learning?
+Describe the key differences between symbolic and subsymbolic approaches to AI problem-solving.
+What is the role of ensemble learning in improving model performance?
+Explain how natural language processing systems typically handle ambiguity and context dependence.
+What were the primary motivations behind creating artificial intelligence in the first place?
+Define the difference between narrow AI (weak AI) and general AI (strong AI), and provide examples of each.
+Explain the concept of knowledge representation in AI systems. How is it different from data storage?
+What are the key differences between machine learning and traditional programming?
+Describe the major limitations of current AI systems in terms of common sense reasoning.
+What is the difference between supervised learning, unsupervised learning, and reinforcement learning?
+How does symbolic AI differ from connectionist (neural network) approaches?
+What are the key components of an expert system?
+Describe the basic principles of heuristic search algorithms.
+What is the significance of the Turing Test in AI development?
+How do neural networks learn patterns in data?
+What are the main types of learning algorithms used in AI?
+Explain the concept of machine learning bias and its potential consequences.
+What is the difference between machine learning and deep learning?
+How does natural language processing differ from general AI?
+What are the key limitations of current natural language processing systems?
+Explain the concept of knowledge engineering and its role in expert system development.
+What is the difference between supervised and unsupervised learning in practice?
+How does reinforcement learning differ from other machine learning approaches?
+What are the main challenges in developing general artificial intelligence?
+Explain the concept of transfer learning in machine learning.
+What is the significance of neural network architectures like CNNs and RNNs?
+How does AI ethics differ from traditional software engineering ethics?
+What are the main limitations of current computer vision systems?
+Explain the concept of probabilistic reasoning in AI.
+What is the difference between supervised classification and regression?
+How does explainability in machine learning differ from other forms of software transparency?
+What are the main challenges in developing autonomous robots?
+Explain the concept of cognitive architectures in AI.
+What are the potential implications of advanced AI systems on human employment?
+What are the main differences between narrow AI and general AI?
+Explain how machine learning differs from traditional programming approaches.
+What is the purpose of feature selection in machine learning?
+Describe the key components of neural networks.
+What is the difference between supervised and unsupervised learning?
+Explain how reinforcement learning differs from other ML paradigms.
+What is Bayesian inference?
+Describe the key principles of expert systems.
+What is the difference between symbolic and connectionist AI approaches?
+Explain how genetic algorithms work.
+What are the main components of knowledge representation?
+Describe the key concepts in natural language processing.
+What is the role of probability theory in AI?
+Explain how decision trees work.
+What is the difference between deep learning and traditional machine learning?
+Describe the key concepts in fuzzy logic.
+What is the difference between deductive and inductive reasoning?
+Explain how evolutionary computation differs from other optimization approaches.
+What are the main applications of computer vision?
+Describe the key concepts in robotics.
+What is the difference between supervised learning and semi-supervised learning?
+Explain how association rules work.
+What is the role of optimization algorithms in machine learning?
+Describe the key concepts in agent-based modeling.
+What is the difference between generative and discriminative models?
+Explain how reinforcement learning differs from supervised learning.
+What are the main components of knowledge representation?
+Describe the key concepts in natural language processing.
+What is the role of probability theory in AI?
+Explain how decision trees work.
+What is the primary difference between narrow AI and general AI?
+Describe the key components of Alan Turing's 1950 paper "Computing Machinery and Intelligence."
+How does supervised learning differ from unsupervised learning?
+What are decision trees and how do they work?
+Explain the difference between a neural network and a deep learning model.
+What are the main types of knowledge representation in AI?
+How does Bayesian inference relate to probability theory?
+What is the significance of the term "backpropagation" in neural networks?
+Explain the difference between machine learning and deep learning.
+What are heuristic search algorithms?
+How does natural language processing differ from machine translation?
+What are the key components of a knowledge base system?
+How does reinforcement learning differ from supervised learning?
+What is the significance of the term "symbol grounding" in AI research?
+How does expert systems differ from machine learning systems?
+What are the main challenges in implementing AI ethics frameworks?
+How does knowledge representation relate to reasoning systems?
+What is the role of neural networks in image recognition tasks?
+How does unsupervised learning relate to clustering algorithms?
+What are the key differences between first-order logic and propositional logic?
+How does machine learning relate to predictive analytics?
+What are the main types of decision-making algorithms in AI?
+How does natural language understanding differ from machine translation?
+What is the significance of the term "deep learning" in AI research?
+How does knowledge representation affect reasoning systems?
+What are the main challenges in implementing AI ethics frameworks?
+How does unsupervised learning relate to clustering algorithms?
+What are the key differences between first-order logic and propositional logic?
+How does machine learning relate to predictive analytics?
+What are the main types of decision-making algorithms in AI?

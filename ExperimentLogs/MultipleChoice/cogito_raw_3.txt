@@ -1,0 +1,181 @@
+1. Which term best describes the ability of machines to perform tasks that typically require human intelligence?
+   a) Information theory
+   b) Machine learning
+   c) Artificial Intelligence *
+   d) Computer vision
+
+2. What is a neural network?
+   a) A mathematical model used in machine learning
+   b) A collection of computer algorithms
+   c) An interconnected group of nodes (neurons) that process information using connection weights *
+   d) A hardware device for processing data
+
+3. Which AI technique involves training models on large amounts of data to learn patterns and make decisions?
+   a) Expert systems
+   b) Supervised learning *
+   c) Reinforcement learning
+   d) Unsupervised learning
+
+4. What is the difference between narrow AI and general AI?
+   a) Narrow AI focuses on a single task while general AI can perform any intellectual task, though both are types of artificial intelligence
+   b) Narrow AI uses neural networks while general AI uses decision trees
+   c) Narrow AI learns from data while general AI learns through human intervention
+   d) Narrow AI is designed for commercial use only *
+   e) General AI does not exist yet
+
+5. What is a feature in machine learning?
+   a) The input variables used to make predictions
+   b) The output values produced by the model
+   c) The hidden layers in a neural network
+   d) The loss function that measures prediction error *
+   e) The training data itself
+
+6. In what type of learning does the model try to predict outputs based on provided inputs?
+   a) Reinforcement learning
+   b) Supervised learning *
+   c) Unsupervised learning
+   d) Semi-supervised learning
+
+7. What is an AI agent?
+   a) An autonomous being that can think and act for itself
+   b) A software program designed to perform a specific task
+   c) Any device capable of processing information *
+   d) A robot with artificial intelligence
+
+8. Which concept describes the ability to recognize patterns in data without explicit instructions?
+   a) Supervised learning
+   b) Reinforcement learning
+   c) Unsupervised learning *
+   d) Feature extraction
+
+9. What is the purpose of a loss function in machine learning?
+   a) To measure model accuracy
+   b) To determine optimal hyperparameters
+   c) To train the model on new data
+   d) To evaluate prediction error between actual and predicted outputs *
+
+10. How does backpropagation work in neural networks?
+    a) It calculates the gradient of the loss function with respect to each weight
+    b) It adjusts all weights at once based on overall performance
+    c) It randomly updates weights during training
+    d) It uses reinforcement learning signals to update weights *
+
+11. What is a bias term in machine learning?
+    a) A fixed value added to the model's output
+    b) A variable that changes with each prediction
+    c) The difference between actual and predicted values
+    d) An error term used in calculating loss function *
+
+12. Which type of AI involves training on labeled data pairs (input-output)?
+    a) Reinforcement learning
+    b) Unsupervised learning
+    c) Semi-supervised learning *
+    d) Supervised learning
+
+13. What is the vanishing gradient problem?
+    a) When gradients become too small to affect the model's output
+    b) When gradients are too large and cause instability
+    c) When gradients oscillate wildly during training
+    d) When gradients disappear completely *
+
+14. How does a decision tree differ from a neural network?
+    a) Decision trees use only binary splits, while neural networks use continuous values
+    b) Neural networks can represent any function, but decision trees are limited to axis-parallel hyperplanes
+    c) Decision trees use training data for splitting, but neural networks learn weights directly *
+    d) Both methods create a hierarchy of nodes with decision-making capabilities
+
+15. What is the difference between a classifier and a regressor?
+    a) Classifiers make predictions on categorical variables while regressors work with numerical values
+    b) Regressors predict continuous values while classifiers output probabilities or classes
+    c) Classifiers always use logistic regression, while regressors use linear regression *
+    d) Both methods are specific to image processing tasks
+
+16. What is overfitting in machine learning?
+    a) When a model performs well on training data but poorly on new data
+    b) When the model fails to converge during training
+    c) When the model takes too long to train
+    d) When the loss function reaches its minimum value *
+
+17. How does stochastic gradient descent work?
+    a) It updates all weights at once based on entire dataset
+    b) It uses reinforcement learning signals to update weights
+    c) It randomly samples data points and adjusts weights proportionally
+    d) It calculates gradients for the entire batch of training examples *
+
+18. What is regularization in machine learning?
+    a) Adding noise to the input data
+    b) Reducing the complexity of the model by penalizing large weights
+    c) Increasing the size of the training dataset
+    d) Using more layers in a neural network *
+
+19. How does batch normalization work?
+    a) It normalizes the input data across all samples and features
+    b) It adds a bias term to each layer's output
+    c) It computes mean and standard deviation for each feature in mini-batches
+    d) It scales the activation values using learned parameters *
+
+20. What is transfer learning?
+    a) Training models from scratch on new data
+    b) Using pre-trained models as starting points for new tasks
+    c) Sharing weights between different neural network architectures
+    d) Combining multiple machine learning algorithms *
+
+21. How does reinforcement learning work?
+    a) An agent learns optimal actions by maximizing rewards through trial and error
+    b) The environment provides immediate feedback on agent's decisions
+    c) Pre-trained models are used to make decisions without additional training
+    d) Semi-supervised learning is applied to reward signals *
+
+22. What is the difference between supervised and unsupervised learning?
+    a) Supervised learning requires labeled data, while unsupervised does not
+    b) Supervised learning predicts continuous values, while unsupervised handles categorical variables
+    c) Unsupervised learning uses reinforcement learning for decision-making
+    d) Both methods involve training on large amounts of unlabeled data *
+
+23. How do neural networks learn to recognize patterns?
+    a) Through supervised learning with labeled examples
+    b) By optimizing the loss function using backpropagation and gradient descent
+    c) Using reinforcement learning from human feedback
+    d) With semi-supervised learning techniques that combine both approaches *
+
+24. What is the role of convolutional layers in neural networks?
+    a) They apply learned filters to detect local features like edges and textures
+    b) They handle sequence data through temporal processing
+    c) They normalize input values across all samples
+    d) They add bias terms to each layer's output *
+
+25. How does an AI agent make decisions based on its environment?
+    a) By running multiple simulations of possible actions
+    b) Through reinforcement learning with rewards
+    c) Using pre-trained models for decision-making without additional training
+    d) With semi-supervised learning techniques that combine both approaches *
+
+26. What is the difference between deep learning and machine learning?
+    a) Deep learning focuses on neural networks, while machine learning includes other methods like SVMs and decision trees
+    b) Machine learning requires labeled data, while deep learning does not
+    c) Deep learning involves training models with large amounts of unlabeled data
+    d) Both methods use supervised learning for prediction tasks *
+
+27. How does natural language processing (NLP) differ from computer vision?
+    a) NLP deals with text and language understanding, while computer vision handles image recognition and object detection
+    b) Computer vision requires more computational resources than NLP
+    c) NLP uses neural networks with word embeddings for semantic analysis
+    d) Both methods rely on deep learning techniques for feature extraction *
+
+28. What is the purpose of pre-processing in machine learning?
+    a) To improve model performance by transforming input data into a better format
+    b) To reduce computational complexity during training
+    c) To add random noise to the input data
+    d) To increase the size of the training dataset
+
+29. How does ensemble methods work in AI?
+    a) It combines multiple models to improve overall prediction performance
+    b) It trains a single model with all available data
+    c) It uses reinforcement learning to optimize model parameters
+    d) It applies semi-supervised learning techniques across all models *
+
+30. What is the concept of "curse of dimensionality"?
+    a) The challenge of training accurate models as input dimensions increase
+    b) The problem of finding optimal hyperparameters in high-dimensional spaces
+    c) The difficulty of collecting labeled data for high-dimensional inputs
+    d) The limitation of traditional machine learning algorithms in handling large datasets *

@@ -1,0 +1,89 @@
+1. What were the primary motivations behind creating artificial intelligence in the first place?
+// Student answer: The primary motivations included simulating human intelligence and behavior, automating decision-making processes, advancing scientific research, and improving productivity through intelligent machines.
+
+2. Define the difference between narrow AI (weak AI) and general AI (strong AI), and provide examples of each.
+// Student answer: Narrow AI refers to systems designed for specific tasks, like voice assistants or game-playing computers. General AI would possess human-like intelligence across all cognitive domains. Examples include Siri for narrow AI, and hypothetical AGI systems for general AI.
+
+3. Explain the concept of knowledge representation in AI systems. How is it different from data storage?
+// Student answer: Knowledge representation refers to the methods used by AI systems to represent information in a way that's meaningful for reasoning and problem-solving. Unlike simple data storage, KR involves organizing facts into structures like semantic networks, ontologies, or logical frameworks.
+
+4. What are the key differences between machine learning and traditional programming?
+// Student answer: Machine learning allows computers to learn from data without explicit programming of all possible outcomes, while traditional programming requires hand-coded rules for specific tasks. ML uses statistical methods and algorithms that improve with experience.
+
+5. Describe the major limitations of current AI systems in terms of common sense reasoning.
+// Student answer: Current AI systems struggle with understanding context, drawing reasonable conclusions based on incomplete information, making intuitive leaps, and processing abstract concepts like humor or metaphors.
+
+6. What is the difference between supervised learning, unsupervised learning, and reinforcement learning?
+// Student answer: Supervised learning uses labeled training data to learn patterns; unsupervised learning identifies patterns in unlabeled data; reinforcement learning learns by trial-and-error through reward-based feedback.
+
+7. How does symbolic AI differ from connectionist (neural network) approaches?
+// Student answer: Symbolic AI represents knowledge as explicit symbols and rules, while connectionist AI relies on interconnected neural networks that learn through weighted connections between nodes.
+
+8. What are the key components of an expert system?
+// Student answer: An expert system consists of a knowledge base, inference engine, user interface, and domain-specific algorithms to mimic human expertise in a particular field.
+
+9. Describe the basic principles of heuristic search algorithms.
+// Student answer: Heuristic search uses rules of thumb or educated guesses to guide the search for solutions more efficiently than exhaustive methods. It evaluates partial solutions based on estimated cost to goal.
+
+10. What is the significance of the Turing Test in AI development?
+// Student answer: The Turing Test established a benchmark for evaluating machine intelligence by determining if a human evaluator can distinguish between machine and human responses during natural language conversations.
+
+11. How do neural networks learn patterns in data?
+// Student answer: Neural networks learn through adjusting connection weights based on input-output pairs, using backpropagation to minimize prediction errors across training examples.
+
+12. What are the main types of learning algorithms used in AI?
+// Student answer: Common learning algorithms include linear regression for supervised learning, k-means clustering for unsupervised learning, and Q-learning for reinforcement learning.
+
+13. Explain the concept of machine learning bias and its potential consequences.
+// Student answer: Bias in ML occurs when models learn patterns that reflect existing biases in training data, potentially leading to unfair or discriminatory outcomes in real-world applications.
+
+14. What is the difference between machine learning and deep learning?
+// Student answer: Machine learning encompasses all supervised/unsupervised learning methods, while deep learning uses multi-layer neural networks with millions of parameters to automatically learn representations from raw data.
+
+15. How does natural language processing differ from general AI?
+// Student answer: NLP focuses on understanding and generating human-like text, rather than achieving general intelligence or consciousness. It's a narrow application area within the broader field of AI.
+
+16. What are the key limitations of current natural language processing systems?
+// Student answer: Current NLP systems struggle with understanding context, sarcasm, idioms, and nuanced emotional content in text; they often produce grammatically correct but semantically incorrect responses.
+
+17. Explain the concept of knowledge engineering and its role in expert system development.
+// Student answer: Knowledge engineering involves extracting relevant information from domain experts to create structured knowledge bases for AI systems, requiring careful data validation and representation selection.
+
+18. What is the difference between supervised and unsupervised learning in practice?
+// Student answer: Supervised learning requires labeled training examples (input-output pairs), while unsupervised learning works with unlabeled input data only, using patterns discovered to form clusters or structures.
+
+19. How does reinforcement learning differ from other machine learning approaches?
+// Student answer: Reinforcement learning learns through trial-and-error interactions with an environment, receiving rewards for desired behaviors and penalties for undesired ones, without explicit training labels.
+
+20. What are the main challenges in developing general artificial intelligence?
+// Student answer: Key challenges include creating systems that can learn, reason, adapt, and generalize across diverse domains; understand context, emotions, and human-like abstract thinking; and maintain continuous learning capabilities.
+
+21. Explain the concept of transfer learning in machine learning.
+// Student answer: Transfer learning involves training a model on one task or dataset and then adapting it for use in another related but different task by fine-tuning its parameters.
+
+22. What is the significance of neural network architectures like CNNs and RNNs?
+// Student answer: Convolutional Neural Networks (CNNs) excel at image processing through local connectivity patterns, while Recurrent Neural Networks (RNNs) handle sequential data using internal memory states to maintain temporal context.
+
+23. How does AI ethics differ from traditional software engineering ethics?
+// Student answer: AI ethics must address unique challenges like bias in automated systems, transparency in decision-making processes, and accountability for AI-driven outcomes that impact human lives.
+
+24. What are the main limitations of current computer vision systems?
+// Student answer: Computer vision systems struggle with understanding fine-grained details, generalizing to new object categories, handling complex lighting conditions, and processing real-time video efficiently.
+
+25. Explain the concept of probabilistic reasoning in AI.
+// Student answer: Probabilistic reasoning involves using probability theory to represent uncertainty in knowledge bases and decision-making processes, allowing AI systems to reason about possible outcomes with quantified likelihoods.
+
+26. What is the difference between supervised classification and regression?
+// Student answer: Classification predicts discrete class labels (categories), while regression estimates continuous values (quantities) based on input features.
+
+27. How does explainability in machine learning differ from other forms of software transparency?
+// Student answer: Explainable AI systems provide interpretable models that highlight feature importance, decision paths, and confidence levels, making their internal reasoning more transparent to users.
+
+28. What are the main challenges in developing autonomous robots?
+// Student answer: Challenges include integrating multiple sensor modalities for robust perception, developing efficient planning algorithms for complex tasks, ensuring safe human-robot interaction, and managing power consumption limitations.
+
+29. Explain the concept of cognitive architectures in AI.
+// Student answer: Cognitive architectures model information processing systems with parallel symbol-manipulation processes (working memory, long-term memory), reasoning mechanisms, goal-oriented behavior, and learning capabilities.
+
+30. What are the potential implications of advanced AI systems on human employment?
+// Student answer: Advanced AI systems may automate certain jobs but create new ones in areas like AI development, ethics consulting, and specialized human-AI interaction design, requiring workforce retraining and adaptation strategies.

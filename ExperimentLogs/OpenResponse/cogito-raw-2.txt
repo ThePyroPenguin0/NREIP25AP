@@ -1,0 +1,59 @@
+1. What was Alan Turing's contribution to artificial intelligence, and how does it relate to modern AI development? // Student answer: Turing introduced the concept of the "Turing Machine" which demonstrated that a machine could simulate any algorithmic process if given enough time and memory. He also proposed what is now known as the "Turing Test," a method for determining whether a machine exhibits intelligent behavior equivalent to, or indistinguishable from, that of a human.
+
+2. Explain the key differences between supervised learning and unsupervised learning. // Student answer: Supervised learning uses labeled training data with input-output pairs to learn patterns and make predictions, while unsupervised learning works with unlabeled data to discover hidden patterns, structures, or relationships without explicit targets.
+
+3. Describe the primary components of an expert system. // Student answer: Expert systems typically consist of a knowledge base (containing facts and rules), an inference engine (processing the knowledge), a user interface, and a database management system for handling external data.
+
+4. How does neural network learning differ from traditional machine learning algorithms? // Student answer: Neural networks learn through a process called backpropagation where they adjust weights based on error signals to minimize prediction errors, often requiring less explicit feature engineering than traditional algorithms.
+
+5. What is the significance of the No Free Lunch Theorem in machine learning? // Student answer: The theorem states that no single algorithm can outperform all others across all possible problems, meaning we must carefully consider our specific problem domain when choosing an algorithm.
+
+6. Explain the difference between a rule-based system and a neural network-based system. // Student answer: Rule-based systems use explicit if-then rules created by humans, while neural networks learn patterns from data through weight adjustments without requiring explicitly defined rules.
+
+7. What are the key components of knowledge representation in AI? // Student answer: Knowledge representation includes ontologies (conceptual frameworks), semantic networks (graph structures showing relationships), and various formal languages (like predicate logic) for representing knowledge.
+
+8. Describe the search algorithms commonly used in AI problem-solving. // Student answer: Common search algorithms include breadth-first search, depth-first search, A* search, and best-first search, each using different heuristics or evaluation functions to guide the search process.
+
+9. What is the difference between weak and strong AI? // Student answer: Weak AI (narrow AI) performs specific tasks well but lacks general intelligence, while Strong AI aims for human-level reasoning, understanding, and consciousness across all domains.
+
+10. Explain the concept of transfer learning in machine learning. // Student answer: Transfer learning uses knowledge gained from solving one problem to help solve a different but related problem, often reducing training time and improving performance on new tasks by leveraging previously learned features.
+
+11. What are the key characteristics of logic programming languages like Prolog? // Student answer: Prolog uses Horn clauses (if-then rules) for logical inference, unification for matching variables with terms, and a top-down execution strategy based on user queries to determine facts and relationships.
+
+12. Describe the role of machine learning in natural language processing. // Student answer: Machine learning enables NLP systems to learn patterns from text data, including language models that predict word sequences, syntactic parsers that understand sentence structure, and semantic analyzers that capture meaning.
+
+13. What is the purpose of cross-validation in machine learning? // Student answer: Cross-validation divides training data into subsets used for both training and validation, helping estimate model performance on unseen data by reducing overfitting to specific data samples.
+
+14. Explain the concept of deep learning and its relationship to neural networks. // Student answer: Deep learning uses multiple layers of nonlinear transformations (neural network layers) with millions or billions of parameters to automatically learn features from raw data, enabling solutions previously impossible.
+
+15. What are the key limitations of symbolic AI approaches? // Student answer: Symbolic AI struggles with ambiguity, context dependence, and common-sense reasoning, often requiring explicit rules for complex tasks where neural networks can learn patterns implicitly.
+
+16. Describe the ethical considerations in deploying AI systems. // Student answer: Key ethical concerns include bias in training data leading to unfair outcomes, lack of transparency in decision-making processes, job displacement from automation, and potential misuse of AI capabilities.
+
+17. What is the difference between deterministic and stochastic algorithms? // Student answer: Deterministic algorithms produce the same output for identical inputs, while stochastic algorithms incorporate randomness or uncertainty, often using probability distributions to model real-world variability.
+
+18. Explain how reinforcement learning differs from other machine learning paradigms. // Student answer: Reinforcement learning involves an agent taking actions in an environment and receiving rewards based on outcomes, with the goal of maximizing cumulative reward through policy optimization over multiple episodes.
+
+19. What is the significance of the frame problem in AI? // Student answer: The frame problem concerns how to represent and reason about what remains true (or false) when a change occurs, which affects knowledge representation systems' ability to track changing situations while maintaining relevant information.
+
+20. Describe the role of Bayesian networks in probabilistic reasoning. // Student answer: Bayesian networks use directed acyclic graphs to model causal relationships between variables, with nodes representing random variables and edges capturing conditional dependencies based on probability distributions.
+
+21. What is the difference between supervised and semi-supervised learning? // Student answer: Semi-supervised learning uses both labeled and unlabeled data during training, typically leveraging small amounts of labeled data while making use of large volumes of unlabeled examples for feature learning or model improvement.
+
+22. Explain how decision trees differ from neural networks in their approach to classification tasks. // Student answer: Decision trees create a hierarchical set of decisions based on splitting criteria that partition the input space into regions, often leading to more interpretable models than deep neural networks which learn complex non-linear boundaries through layer activation functions.
+
+23. What are the key advantages of using genetic algorithms for optimization problems? // Student answer: Genetic algorithms use evolutionary principles (selection, crossover, mutation) to explore solution spaces, particularly well-suited for complex search landscapes where traditional hill-climbing methods may fail to find optimal solutions.
+
+24. Describe the role of attention mechanisms in modern AI systems. // Student answer: Attention mechanisms allow models to focus on specific parts of input data when generating output, weighted by relevance scores calculated from input features, improving performance particularly in natural language processing tasks like translation and question answering.
+
+25. What is the significance of the curse of dimensionality in machine learning? // Student answer: The curse of dimensionality refers to how high-dimensional spaces have exponentially more possible states as dimensions increase, making data sparsity problems more severe and requiring more training examples for reliable generalization.
+
+26. Explain the difference between active learning and passive learning in AI systems. // Student answer: Active learning involves algorithms requesting additional information from a user or oracle when uncertain about labels, potentially reducing required training data by focusing on most informative samples, whereas passive learning relies solely on provided labeled examples.
+
+27. What is the purpose of regularization techniques in machine learning? // Student answer: Regularization methods (like L1/L2 penalties) add constraints to model parameters during training to prevent overfitting by penalizing large weights or complex models, often improving generalization performance across different datasets.
+
+28. Describe the key differences between symbolic and subsymbolic approaches to AI problem-solving. // Student answer: Symbolic approaches use explicit representations of knowledge through symbols and rules, while subsymbolic (e.g., neural network) methods operate on continuous-valued patterns without requiring explicit rule definition or knowledge representation.
+
+29. What is the role of ensemble learning in improving model performance? // Student answer: Ensemble learning combines multiple models trained differently to improve prediction accuracy by reducing individual model errors through aggregation, often using techniques like bagging (bootstrap aggregating), boosting, or stacking to select optimal component models.
+
+30. Explain how natural language processing systems typically handle ambiguity and context dependence. // Student answer: NLP systems address ambiguity and context dependence through contextual word embeddings (like BERT's transformer layers) that capture linguistic patterns based on surrounding words, phrase structure analysis using syntactic parsers, and probabilistic semantics that weigh multiple interpretations of ambiguous terms.

@@ -1,0 +1,179 @@
+1. Which of the following best describes Artificial Intelligence?
+a) The art of making decisions
+b) The imitation of human intelligence by machines *
+c) Only used in entertainment software
+d) A subset of robotics
+
+2. What is machine learning?
+a) Programming computers to do intelligent things
+b) Training algorithms on data to make predictions or take actions *
+c) Creating virtual assistants
+d) Developing chatbots
+
+3. Neural networks are based on how the human brain works, which includes:
+a) Processing information in discrete steps
+b) Using binary logic gates
+c) Learning through interconnected nodes that strengthen connections when activated *
+d) Making decisions through mathematical formulas
+
+4. What is a decision tree?
+a) A data structure used for storing hierarchical relationships
+b) An algorithm that creates rules from data to make predictions or classifications *
+c) A type of neural network architecture
+d) A visualization tool in AI software
+
+5. The main advantage of using reinforcement learning over supervised learning is:
+a) It requires no prior training data
+b) It learns through trial and error by receiving rewards for desired actions *
+c) It's faster to train on large datasets
+d) It produces more accurate results
+
+6. What is a bias-variance tradeoff?
+a) A measure of how accurately an AI model fits new data
+b) The balance between overfitting and underfitting in machine learning models *
+c) A type of error handling mechanism
+d) A debugging tool for AI systems
+
+7. Natural Language Processing (NLP) is primarily used for:
+a) Generating human-like text
+b) Understanding and processing human language through algorithms *
+c) Creating virtual assistants that can converse with humans
+d) Translating languages automatically
+
+8. Deep learning models require:
+a) Simple input data like numbers or text only
+b) A lot of computational power to train on large datasets *
+c) Manual feature engineering
+d) Pre-trained models for all tasks
+
+9. What is the difference between supervised and unsupervised learning?
+a) Supervised uses labels, unsupervised doesn't *
+b) Both use labels but different ways
+c) Both don't use labels at all
+d) They are the same thing
+
+10. Which of the following best describes an AI algorithm?
+a) A set of rules or steps to solve a problem *
+b) Only used in video games
+c) Something that can learn and adapt over time
+d) A specific piece of hardware for running AI software
+
+11. What is data preprocessing in machine learning?
+a) Cleaning, formatting, and transforming raw data into a usable format *
+b) Creating new features from existing ones
+c) Validating model predictions
+d) Updating training data after deployment
+
+12. Neural networks learn by:
+a) Following pre-programmed rules
+b) Adjusting connection weights based on input and output values *
+c) Using mathematical formulas to calculate outcomes
+d) Accessing external databases for answers
+
+13. What is overfitting in machine learning?
+a) When a model performs poorly on training data
+b) When a model learns the noise in the training data instead of the underlying patterns *
+c) When a model doesn't learn at all
+d) When a model works well only with specific types of input
+
+14. Which type of machine learning is used for image recognition?
+a) Decision trees
+b) Neural networks, particularly convolutional neural networks (CNNs) *
+c) Support vector machines
+d) k-means clustering
+
+15. What does the term "deep" in deep learning refer to?
+a) The depth of human understanding required
+b) The number of layers in a neural network *
+c) The cost of training these models
+d) The computational requirements
+
+16. Machine learning algorithms can be divided into three main categories: supervised, unsupervised, and:
+a) Reinforcement learning *
+b) Unsupervised only
+c) Semi-supervised learning
+d) Fully automated systems
+
+17. What is the purpose of regularization in machine learning?
+a) To reduce overfitting by penalizing complex models *
+b) To increase accuracy without more training data
+c) To speed up model training
+d) To reduce computational resources needed
+
+18. Natural Language Processing (NLP) can be used for:
+a) Text classification, sentiment analysis, and language translation *
+b) Only generating human-like text
+c) Creating virtual assistants that can converse with humans
+d) Translating languages automatically without any training
+
+19. What is the difference between deep learning and machine learning?
+a) Deep learning uses neural networks, while traditional ML uses other algorithms *
+b) Deep learning requires more data than machine learning
+c) Machine learning is older than deep learning
+d) Both require similar amounts of computational power
+
+20. Neural network layers can be categorized into three main types: convolutional, pooling, and:
+a) Fully connected (dense) *
+b) Recurrent (RNNs)
+c) None of the above
+d) All of the above
+
+21. What is a support vector machine (SVM)?
+a) A type of neural network used for image recognition
+b) An algorithm that finds an optimal hyperplane to separate data points *
+c) A data structure used in decision trees
+d) A method for feature selection
+
+22. Which of the following is true about reinforcement learning?
+a) It uses labeled training data
+b) It learns by trial and error through interaction with environment *
+c) It requires no prior knowledge or experience
+d) It's only used in supervised learning tasks
+
+23. What is a genetic algorithm (GA)?
+a) A type of neural network that mimics biological evolution
+b) An optimization technique inspired by natural selection *
+c) A method for training machine learning models
+d) A form of data preprocessing
+
+24. Deep reinforcement learning combines deep learning with:
+a) Traditional machine learning algorithms
+b) Reinforcement learning and deep neural networks *
+c) Supervised learning only
+d) Unsupervised learning techniques
+
+25. What is the purpose of transfer learning in AI?
+a) To make a model learn from scratch without any prior knowledge
+b) To reuse pre-trained models for similar tasks to save training time and resources *
+c) To increase accuracy when training on small datasets
+d) To reduce computational power requirements
+
+26. What is the role of hyperparameters in machine learning?
+a) They are parameters that define the model's structure
+b) They are values that need to be tuned before training a model *
+c) They determine the accuracy of predictions
+d) They affect how quickly a model trains
+
+27. Which of the following best describes an AI system's performance metrics?
+a) How well it performs on test data compared to training data
+b) Only measures accuracy, but ignores other factors like speed and resource usage
+c) Measures both predictive accuracy and computational efficiency *
+d) Requires manual calculation for each task
+
+28. What is the difference between supervised and semi-supervised learning?
+a) Supervised uses some labeled data, while semi-supervised uses mostly unlabeled data *
+b) Semi-supervised uses no labels at all
+c) Both use only labeled data
+d) They are the same thing
+
+29. Which of the following is true about deep neural networks?
+a) They can automatically discover features in complex datasets
+b) They require large amounts of training data and computational resources *
+c) They cannot be used for image recognition
+d) They always outperform traditional machine learning algorithms
+
+30. What is the purpose of using embeddings in AI models?
+a) To reduce dimensionality of high-dimensional data *
+b) To improve model performance without increasing complexity
+c) To make data more interpretable by humans
+d) To reduce training time for neural networks

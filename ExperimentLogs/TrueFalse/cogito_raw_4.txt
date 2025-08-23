@@ -1,0 +1,30 @@
+1. A decision tree algorithm splits data based on feature values without changing them — Student's answer: True
+2. Support Vector Machines (SVMs) use a hyperplane that maximizes the margin between classes — Student's answer: True
+3. K-Nearest Neighbors (k-NN) is an instance-based learning algorithm — Student's answer: True
+4. Convolutional Neural Networks (CNNs) are primarily used for image classification tasks — Student's answer: True
+5. Recurrent Neural Networks (RNNs) are well-suited for sequential data like time series or text — Student's answer: True
+6. Dropout regularization randomly sets some neural network connections to zero during training — Student's answer: True
+7. L1 regularization promotes sparsity in the feature space by penalizing absolute values of coefficients — Student's answer: True
+8. Regularization techniques help prevent overfitting by reducing model complexity — Student's answer: False
+9. Mean Squared Error (MSE) is a common loss function for regression tasks — Student's answer: True
+10. The ReLU activation function applies a non-linear transformation to input values — Student's answer: True
+11. Backpropagation calculates gradients by applying the chain rule through a computational graph — Student's answer: True
+12. Adam optimizer combines momentum with adaptive learning rates for each parameter — Student's answer: True
+13. Transformers use self-attention mechanisms to weigh relationships between input elements — Student's answer: True
+14. Overfitting occurs when a model performs well on training data but poorly on unseen test data — Student's answer: True
+15. The cross-entropy loss function measures the difference between predicted probabilities and true labels in classification tasks — Student's answer: True
+16. Neural networks learn by adjusting weights based on input values multiplied by activation functions — Student's answer: False
+17. Stochastic gradient descent updates model parameters after each batch of data, not the entire dataset — Student's answer: True
+18. CNNs use pooling layers to reduce spatial dimensions and capture hierarchical features in images — Student's answer: True
+19. RNNs suffer from vanishing gradients when training for long sequences of time steps — Student's answer: True
+20. The softmax function normalizes output values into probabilities that sum to one — Student's answer: True
+21. Deep learning models can learn hierarchical representations automatically without manual feature engineering — Student's answer: True
+22. Model evaluation metrics like accuracy, precision, recall are specific to classification tasks only — Student's answer: False
+23. The gradient of the loss function with respect to model parameters determines how weights should be updated during training — Student's answer: True
+24. Neural network architectures can vary widely in terms of depth, width, and type of layers used — Student's answer: True
+25. Overfitting prevention techniques include early stopping, data augmentation, and regularization methods — Student's answer: True
+26. Support vectors are the most distant points from the decision boundary in SVMs — Student's answer: True
+27. The Adam optimizer combines advantages of AdaGrad with momentum optimization algorithms — Student's answer: False
+28. Batch normalization helps stabilize training by normalizing layer inputs to have zero mean and unit variance — Student's answer: True
+29. Deep learning models can automatically learn translation between languages using sequence-to-sequence architectures — Student's answer: True
+30. The Leaky ReLU activation function allows a small, non-zero gradient when the input value is negative — Student's answer: True

@@ -1,0 +1,179 @@
+1. What is the primary goal of artificial intelligence?
+   a) To replace human jobs
+   b) To learn and adapt from data and experiences *
+   c) To make computers faster
+   d) To play video games better
+
+2. Which field focuses on giving machines the ability to perform tasks that typically require human intelligence?
+   a) Computer Science
+   b) Machine Learning
+   c) Artificial Intelligence *
+   d) Data Mining
+
+3. What is the term for algorithms that automatically improve with experience?
+   a) Neural Networks
+   b) Genetic Algorithms
+   c) Adaptive Algorithms *
+   d) Supervised Learning
+
+4. Which component of an AI system is responsible for making decisions based on input data and learned patterns?
+   a) The Database
+   b) The Model *
+   c) The Processing Unit
+   d) The Feedback Loop
+
+5. What is the term for systems that can learn from their own experiences without being explicitly programmed?
+   a) Expert Systems
+   b) Deep Learning
+   c) Adaptive AI
+   d) Reinforcement Learning *
+
+6. Which of the following is NOT a common application of artificial intelligence?
+   a) Virtual assistants like Siri and Alexa
+   b) Medical diagnosis systems
+   c) Stock market prediction algorithms
+   d) Creating art *
+
+7. What does the term "neural network" refer to in AI?
+   a) A type of computer hardware
+   b) An artificial brain designed to mimic biological neural networks *
+   c) A software algorithm that simulates human cognitive processes
+   d) A mathematical model used for decision-making
+
+8. Which approach involves training an AI system using labeled data?
+   a) Supervised Learning *
+   b) Unsupervised Learning
+   c) Reinforcement Learning
+   d) Deep Learning
+
+9. What is the purpose of feature extraction in machine learning?
+   a) To reduce data size for easier processing
+   b) To create meaningful patterns from raw data *
+   c) To identify irrelevant variables
+   d) To improve model accuracy
+
+10. Which type of learning involves an AI system improving its performance through trial and error?
+    a) Supervised Learning
+    b) Unsupervised Learning
+    c) Reinforcement Learning *
+    d) Generative Learning
+
+11. What is the term for data used to train an AI model?
+    a) Training Set *
+    b) Validation Data
+    c) Test Data
+    d) Input Data
+
+12. Which of the following is NOT a common challenge in AI development?
+    a) Ensuring AI systems are transparent and explainable
+    b) Managing computational resources for large datasets
+    c) Preventing AI systems from becoming too intelligent *
+    d) Dealing with noisy or incomplete data
+
+13. What is the purpose of cross-validation in machine learning?
+    a) To test model performance on unseen data *
+    b) To optimize model hyperparameters
+    c) To reduce computational resources
+    d) To improve feature selection
+
+14. Which AI approach involves training a system to learn from its own experiences and decisions?
+    a) Supervised Learning
+    b) Unsupervised Learning
+    c) Reinforcement Learning *
+    d) Transfer Learning
+
+15. What is the term for an AI model that learns hierarchical representations of data?
+    a) Convolutional Neural Networks *
+    b) Recurrent Neural Networks
+    c) Deep Belief Networks
+    d) Long Short-Term Memory Networks
+
+16. Which type of learning involves finding patterns in unlabeled data?
+    a) Supervised Learning
+    b) Unsupervised Learning *
+    c) Reinforcement Learning
+    d) Generative Learning
+
+17. What is the purpose of regularization in machine learning models?
+    a) To reduce overfitting by penalizing large weights *
+    b) To improve model accuracy on training data
+    c) To increase computational efficiency
+    d) To speed up model convergence
+
+18. Which AI approach involves transferring knowledge from one domain to another?
+    a) Transfer Learning *
+    b) Fine-tuning
+    c) Domain Adaptation
+    d) Knowledge Distillation
+
+19. What is the term for an AI system that makes decisions based on input data and learned patterns without explicit programming?
+    a) Expert System
+    b) Adaptive AI *
+    c) Reinforcement Learning Agent
+    d) Deep Learning Network
+
+20. Which of the following is NOT a common evaluation metric for machine learning models?
+    a) Accuracy
+    b) Precision
+    c) Recall
+    d) Human Intelligence Score *
+
+21. What is the purpose of data preprocessing in machine learning?
+    a) To improve model performance by cleaning and transforming raw data *
+    b) To reduce training time
+    c) To identify irrelevant features
+    d) To increase computational resources
+
+22. Which AI approach involves using labeled examples to train a system to make predictions?
+    a) Supervised Learning *
+    b) Unsupervised Learning
+    c) Reinforcement Learning
+    d) Transfer Learning
+
+23. What is the term for an AI model that learns from sequences of data, like time series or text?
+    a) Recurrent Neural Networks
+    b) Convolutional Neural Networks
+    c) Long Short-Term Memory Networks *
+    d) Deep Belief Networks
+
+24. Which type of learning involves using unlabeled data to find patterns and structure in the input space?
+    a) Supervised Learning
+    b) Unsupervised Learning *
+    c) Reinforcement Learning
+    d) Generative Learning
+
+25. What is the purpose of hyperparameter tuning in machine learning?
+    a) To optimize model performance on test data *
+    b) To reduce computational resources
+    c) To improve feature selection
+    d) To speed up training time
+
+26. Which AI approach involves using reinforcement learning to train agents through trial and error?
+    a) Deep Learning
+    b) Transfer Learning
+    c) Reinforcement Learning with Neural Networks *
+    d) Generative Adversarial Networks
+
+27. What is the term for an AI model that learns from multiple input sources simultaneously?
+    a) Multi-modal Learning *
+    b) Deep Learning
+    c) Transfer Learning
+    d) Knowledge Distillation
+
+28. Which type of learning involves using labeled data to train a system to make predictions, with the goal of minimizing errors on unseen data?
+    a) Supervised Learning *
+    b) Unsupervised Learning
+    c) Reinforcement Learning
+    d) Generative Learning
+
+29. What is the purpose of validation in machine learning?
+    a) To test model performance on unseen data *
+    b) To optimize model hyperparameters
+    c) To reduce computational resources
+    d) To improve feature selection
+
+30. Which AI approach involves using deep neural networks to learn hierarchical representations of complex patterns?
+    a) Convolutional Neural Networks
+    b) Recurrent Neural Networks
+    c) Deep Belief Networks *
+    d) Long Short-Term Memory Networks

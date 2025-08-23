@@ -1,0 +1,179 @@
+1. What is the primary purpose of neural networks in machine learning?
+a) To perform logical calculations
+b) To process data through connected layers of nodes for pattern recognition *
+c) To store and retrieve information
+d) To optimize computer systems
+
+2. Which type of AI learning requires labeled training data?
+a) Supervised learning *
+b) Unsupervised learning
+c) Reinforcement learning
+d) Deep learning
+
+3. What is the main difference between supervised and unsupervised machine learning?
+a) Supervision level required
+b) Type of input data used (labeled vs unlabeled) *
+c) Learning environment setup
+d) Training methodology
+
+4. Which factor is most crucial for successful AI model deployment?
+a) Computing power
+b) Data quality and quantity *
+c) Model architecture
+d) Algorithm complexity
+
+5. What distinguishes large language models from other transformer models?
+a) Ability to process text only
+b) Use of attention mechanisms
+c) Training on vast amounts of text data *
+d) Application scope
+
+6. Why is the two-step training process (pre-training and fine-tuning) essential in generative AI?
+a) To reduce total training time required
+b) To create multiple versions of the same model
+c) To combine broad knowledge with specialized capabilities *
+d) To eliminate the need for large datasets
+
+7. What role do prompts play in text-based generative AI?
+a) To increase generation speed
+b) To fix errors in output
+c) To direct type and structure of generated text *
+d) To store previous responses
+
+8. Which machine learning approach focuses on pattern discovery without predefined outcomes?
+a) Supervised learning
+b) Unsupervised learning *
+c) Reinforcement learning
+d) Deep learning
+
+9. What is the key characteristic of reinforcement learning in AI systems?
+a) Use of reward and penalty mechanisms *
+b) Sequential decision making for goal achievement
+c) Learning from labeled data examples
+d) Pattern recognition capabilities
+
+10. Why are synthetic datasets valuable in AI training?
+a) They ensure complete transparency
+b) They provide alternatives when real data is scarce or sensitive *
+c) They replace all real data in training
+d) They eliminate bias from AI systems
+
+11. What distinguishes unsupervised learning from other machine learning types?
+a) Sequential decision making for goal achievement
+b) Use of rewards and penalties
+c) Work with unlabeled data independently *
+d) Learning from examples with known outcomes
+
+12. Which factor is most crucial for successful AI model deployment?
+a) Computing power
+b) Data quality and quantity *
+c) Model architecture
+d) Algorithm complexity
+
+13. What distinguishes large language models from other transformer models?
+a) Ability to process text only
+b) Use of attention mechanisms
+c) Training on vast amounts of text data *
+d) Application scope
+
+14. Why is the two-step training process (pre-training and fine-tuning) essential in generative AI?
+a) To reduce total training time required
+b) To create multiple versions of the same model
+c) To combine broad knowledge with specialized capabilities *
+d) To eliminate the need for large datasets
+
+15. What role do prompts play in text-based generative AI?
+a) To increase generation speed
+b) To fix errors in output
+c) To direct type and structure of generated text *
+d) To store previous responses
+
+16. Which machine learning approach focuses on pattern discovery without predefined outcomes?
+a) Supervised learning
+b) Unsupervised learning *
+c) Reinforcement learning
+d) Deep learning
+
+17. What is the key characteristic of reinforcement learning in AI systems?
+a) Use of reward and penalty mechanisms *
+b) Sequential decision making for goal achievement
+c) Learning from labeled data examples
+d) Pattern recognition capabilities
+
+18. Why are synthetic datasets valuable in AI training?
+a) They ensure complete transparency
+b) They provide alternatives when real data is scarce or sensitive *
+c) They replace all real data in training
+d) They eliminate bias from AI systems
+
+19. What distinguishes unsupervised learning from other machine learning types?
+a) Sequential decision making for goal achievement
+b) Use of rewards and penalties
+c) Work with unlabeled data independently *
+d) Learning from examples with known outcomes
+
+20. Which factor is most crucial for successful AI model deployment?
+a) Computing power
+b) Data quality and quantity *
+c) Model architecture
+d) Algorithm complexity
+
+21. What distinguishes large language models from other transformer models?
+a) Ability to process text only
+b) Use of attention mechanisms
+c) Training on vast amounts of text data *
+d) Application scope
+
+22. Why is the two-step training process (pre-training and fine-tuning) essential in generative AI?
+a) To reduce total training time required
+b) To create multiple versions of the same model
+c) To combine broad knowledge with specialized capabilities *
+d) To eliminate the need for large datasets
+
+23. What role do prompts play in text-based generative AI?
+a) To increase generation speed
+b) To fix errors in output
+c) To direct type and structure of generated text *
+d) To store previous responses
+
+24. Which machine learning approach focuses on pattern discovery without predefined outcomes?
+a) Supervised learning
+b) Unsupervised learning *
+c) Reinforcement learning
+d) Deep learning
+
+25. What is the key characteristic of reinforcement learning in AI systems?
+a) Use of reward and penalty mechanisms *
+b) Sequential decision making for goal achievement
+c) Learning from labeled data examples
+d) Pattern recognition capabilities
+
+26. Why are synthetic datasets valuable in AI training?
+a) They ensure complete transparency
+b) They provide alternatives when real data is scarce or sensitive *
+c) They replace all real data in training
+d) They eliminate bias from AI systems
+
+27. What distinguishes unsupervised learning from other machine learning types?
+a) Sequential decision making for goal achievement
+b) Use of rewards and penalties
+c) Work with unlabeled data independently *
+d) Learning from examples with known outcomes
+
+28. Which factor is most crucial for successful AI model deployment?
+a) Computing power
+b) Data quality and quantity *
+c) Model architecture
+d) Algorithm complexity
+
+29. What distinguishes large language models from other transformer models?
+a) Ability to process text only
+b) Use of attention mechanisms
+c) Training on vast amounts of text data *
+d) Application scope
+
+30. Why is the two-step training process (pre-training and fine-tuning) essential in generative AI?
+a) To reduce total training time required
+b) To create multiple versions of the same model
+c) To combine broad knowledge with specialized capabilities *
+d) To eliminate the need for large datasets

@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ChatLogs"
+    "\\ExperimentLogs",
+    "\\ResultsTable"
   ],
-  "SelectedNode": "\\AnswerAnalyzer.py",
+  "SelectedNode": "\\FleschKincaidTest.py",
   "PreviewInSolutionExplorer": false
 }

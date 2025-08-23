@@ -1,0 +1,150 @@
+Decision trees use a top-down approach to build models.
+k-NN is an unsupervised learning algorithm.
+SVMs can be linear or non-linear in nature.
+Regularization techniques help prevent overfitting by adding constraints to the model.
+The cross-validation technique is used to evaluate the generalization performance of a model.
+CNNs are primarily used for image classification tasks.
+RNNs are specifically designed for sequential data processing.
+Transformers use self-attention mechanisms to weigh the importance of different parts of the input sequence.
+The vanishing gradient problem is unique to deep neural networks.
+Batch normalization helps in reducing internal covariate shift.
+ReLU activation function outputs negative values for negative inputs.
+Backpropagation involves calculating the gradients of the loss with respect to all weights and biases in a network.
+The Adam optimizer combines elements from AdaGrad, RMSProp, and momentum-based methods.
+Overfitting occurs when a model learns the training data too well that it performs poorly on new unseen data.
+Dropout is a regularization technique that randomly sets neurons to zero during training.
+The mean squared error (MSE) loss function measures the average of the squares of the errors between actual and predicted values.
+Softmax activation function is commonly used in the output layer for multi-class classification problems.
+Residual connections help in training deeper neural networks by allowing gradient flow around skip connections.
+k-NN algorithms can use different distance metrics (like Euclidean, Manhattan, etc.) to measure similarity between points.
+The perceptron is a linear classifier that uses the activation function to classify data points based on a hyperplane.
+Gradient descent with momentum helps in converging faster by maintaining some component of the previous update vector.
+L1 regularization (also known as Lasso) tends to produce sparse models by setting many weights to exactly zero.
+The concept of feature learning refers to the ability of neural networks to automatically learn relevant features from raw input data.
+Transfer learning involves using a pre-trained model and fine-tuning it for a specific task.
+Batch processing allows models to process multiple samples in parallel during training.
+The concept of overfitting can be avoided by increasing the complexity of the model.
+Random forests are an ensemble learning method that combines multiple decision trees for better prediction performance.
+Deep belief networks combine restricted Boltzmann machines (RBMs) to create deep neural architectures.
+The concept of learning rate annealing involves gradually decreasing the learning rate during training to achieve better convergence.
+CNNs use convolutional layers to detect local patterns in images through spatial hierarchies and feature maps.
+Decision trees can be used for both classification and regression tasks.
+The k-NN algorithm is a non-parametric learning method that uses all available data points in its final prediction.
+SVMs work by finding the optimal hyperplane that maximizes the margin between classes.
+Neural networks require backpropagation to compute gradients during training.
+CNNs use convolutional layers to automatically detect spatial hierarchies of features in images.
+RNNs are designed specifically for sequential data, making them excellent choices for natural language processing tasks.
+Transformers use self-attention mechanisms instead of recurrent connections to process sequences.
+Dropout is a regularization technique that randomly sets input units to 0 during training time to prevent overfitting.
+The learning rate in gradient descent determines how many steps the optimizer takes towards the minimum.
+Cross-validation helps estimate model performance on unseen data by dividing the dataset into multiple subsets.
+Adam is an optimization algorithm that adapts its learning rate for each parameter.
+Activation functions like ReLU help introduce non-linearity in neural networks.
+Batch normalization can be applied to any layer of a neural network, not just the fully connected layers.
+The RMSprop optimization algorithm is designed specifically for training RNNs.
+Overfitting occurs when a model learns the noise in the training data rather than the underlying pattern.
+Weight decay is an alternative to dropout for regularization that penalizes large weights during training.
+The loss function used for classification tasks should always be cross-entropy loss.
+CNNs automatically detect edges and corners in images due to the use of pooling layers.
+LSTM networks are specifically designed to handle long-range dependencies in sequential data.
+Gradient clipping prevents exploding gradients during backpropagation by limiting their magnitude.
+The mean squared error (MSE) loss function is commonly used for regression tasks.
+Transfer learning involves training a new model on the same dataset without fine-tuning.
+Attention mechanisms allow models to focus on specific parts of input sequences when making predictions.
+The AdamW optimization algorithm is an improved version of Adam that uses weight decay instead of momentum for regularization.
+Regularization techniques like L1 and L2 help prevent overfitting by penalizing large weights in the model.
+The k-means clustering algorithm minimizes within-cluster variance to group similar data points together.
+Autoencoders are designed to learn compressed representations of input data that capture essential features.
+Deep reinforcement learning combines deep learning with reinforcement learning for decision-making tasks.
+The validation set is used during training to monitor the model's performance and detect overfitting.
+Hyperparameter tuning involves searching through possible parameter settings to find the optimal combination for a given model architecture.
+Neural networks can learn hierarchical features from data.
+Decision trees are based on splitting data by feature values in a way that maximizes information gain.
+Stochastic gradient descent is an optimization algorithm used to minimize the loss function in machine learning models.
+Overfitting occurs when a model learns the training data too well, including noise and outliers.
+CNNs use convolutional layers to detect spatial patterns in images without assuming predefined locations of objects.
+Regularization techniques help prevent overfitting by adding constraints to the model.
+RNNs are designed to handle sequential data with their recurrent connections.
+The softmax function is commonly used as an activation function in the output layer of classification models.
+Backpropagation calculates gradients by applying the chain rule backwards through the network.
+k-NN algorithm stores all training data and computes distances to find nearest neighbors for prediction.
+Dropout is a regularization technique that randomly sets input units to 0 during training to prevent overfitting.
+The learning rate in neural networks determines how large of a step the optimizer takes towards minimizing the loss function.
+Transformers use self-attention mechanisms to process sequential data in parallel without recurrent connections.
+Cross-validation is a technique used to evaluate model performance by splitting the dataset into training and validation sets multiple times.
+Mean squared error (MSE) is commonly used as an evaluation metric for regression problems.
+ReLU activation function outputs 0 when input is negative, allowing faster convergence in deep networks.
+Batch normalization helps stabilize the training of neural networks by normalizing layer inputs.
+The Adam optimizer combines the advantages of AdaGrad and RMSProp for adaptive learning rate optimization.
+Autoencoders are used for dimensionality reduction, feature learning, and anomaly detection in unsupervised learning.
+SVMs find a hyperplane that maximizes the margin between classes in high-dimensional spaces.
+Transfer learning allows pre-trained models to be fine-tuned on new tasks with limited training data.
+L1 regularization (Lasso) adds absolute value of coefficients to loss function, promoting sparse solutions.
+The vanishing gradient problem occurs when gradients become too small during backpropagation in deep networks.
+CNNs use pooling layers to reduce spatial dimensions and capture local patterns in images.
+RNNs are suitable for sequence prediction tasks such as time series forecasting, text generation, and speech recognition.
+The gradient descent algorithm converges to a minimum when the learning rate is too small but may not find the global minimum.
+Deep belief networks use multiple layers of restricted Boltzmann machines for unsupervised feature learning.
+k-NN algorithms are distance-based and do not require explicit training in the traditional sense.
+The attention mechanism allows models to focus on different parts of the input sequence when generating outputs.
+Hyperparameters include model architecture, learning rate, batch size, and regularization strength.
+A decision tree algorithm splits data based on feature values without changing them.
+Support Vector Machines (SVMs) use a hyperplane that maximizes the margin between classes.
+K-Nearest Neighbors (k-NN) is an instance-based learning algorithm.
+Convolutional Neural Networks (CNNs) are primarily used for image classification tasks.
+Recurrent Neural Networks (RNNs) are well-suited for sequential data like time series or text.
+Dropout regularization randomly sets some neural network connections to zero during training.
+L1 regularization promotes sparsity in the feature space by penalizing absolute values of coefficients.
+Regularization techniques help prevent overfitting by reducing model complexity.
+Mean Squared Error (MSE) is a common loss function for regression tasks.
+The ReLU activation function applies a non-linear transformation to input values.
+Backpropagation calculates gradients by applying the chain rule through a computational graph.
+Adam optimizer combines momentum with adaptive learning rates for each parameter.
+Transformers use self-attention mechanisms to weigh relationships between input elements.
+Overfitting occurs when a model performs well on training data but poorly on unseen test data.
+The cross-entropy loss function measures the difference between predicted probabilities and true labels in classification tasks.
+Neural networks learn by adjusting weights based on input values multiplied by activation functions.
+Stochastic gradient descent updates model parameters after each batch of data, not the entire dataset.
+CNNs use pooling layers to reduce spatial dimensions and capture hierarchical features in images.
+RNNs suffer from vanishing gradients when training for long sequences of time steps.
+The softmax function normalizes output values into probabilities that sum to one.
+Deep learning models can learn hierarchical representations automatically without manual feature engineering.
+Model evaluation metrics like accuracy, precision, recall are specific to classification tasks only.
+The gradient of the loss function with respect to model parameters determines how weights should be updated during training.
+Neural network architectures can vary widely in terms of depth, width, and type of layers used.
+Overfitting prevention techniques include early stopping, data augmentation, and regularization methods.
+Support vectors are the most distant points from the decision boundary in SVMs.
+The Adam optimizer combines advantages of AdaGrad with momentum optimization algorithms.
+Batch normalization helps stabilize training by normalizing layer inputs to have zero mean and unit variance.
+Deep learning models can automatically learn translation between languages using sequence-to-sequence architectures.
+The Leaky ReLU activation function allows a small, non-zero gradient when the input value is negative.
+Support Vector Machines (SVMs) are specifically designed for binary classification problems.
+Decision trees can handle both categorical and numerical features without any preprocessing.
+K-Nearest Neighbors (k-NN) algorithm is primarily used for regression tasks.
+Convolutional Neural Networks (CNNs) use multiple convolutional layers to extract spatial hierarchies in images.
+Recurrent Neural Networks (RNNs) are designed to handle sequential data with fixed-length inputs.
+The Adam optimizer uses both momentum and RMSprop mechanisms for adaptive learning rates.
+Dropout layers randomly set a fraction of neurons during training, which is different from regularization techniques like L2 weight decay.
+Batch normalization normalizes the inputs to each layer before applying the non-linear activation function.
+The Leaky ReLU activation function allows for negative values by introducing a small positive slope.
+Transfer learning typically involves training a new model on top of pre-trained weights, especially in deep learning architectures like CNNs and RNNs.
+In gradient descent optimization, decreasing the learning rate too quickly can prevent convergence to an optimal solution.
+Overfitting occurs when a model has low bias but high variance, capturing noise instead of underlying patterns in training data.
+k-NN with k=1 is equivalent to finding the nearest neighbor, which may not always be beneficial for robust prediction.
+SVMs use kernel tricks to map input space into higher-dimensional feature spaces for better classification performance.
+Random Forests are an ensemble of decision trees that reduces variance through averaging predictions from multiple trees.
+LSTM (Long Short-Term Memory) cells use gates to regulate the flow of information, controlling what is forgotten or remembered.
+Attention mechanisms in Transformers allow models to weigh the importance of different parts of the input sequence dynamically.
+Gradient clipping prevents exploding gradients by limiting the maximum gradient norm during backpropagation.
+The Mean Squared Error (MSE) loss function is commonly used for regression tasks, measuring average squared difference between predictions and actual values.
+CNNs use pooling layers to reduce spatial dimensions and capture translation invariance properties of images.
+Regularization techniques like L1 norm (Lasso) promote sparsity by shrinking some weights to zero, while L2 norm (Ridge) shrinks all weights proportionally.
+The sigmoid activation function saturates at both extremes of the input range, which can cause vanishing gradients in neural networks.
+In supervised learning, the loss function measures the difference between model predictions and true labels to optimize model parameters.
+Unsupervised learning algorithms learn patterns from unlabeled data without explicit feedback on prediction accuracy.
+The ReLU activation function introduces non-linearity in neural networks but can cause "dying" neurons with persistent zero gradients.
+Word embeddings like Word2Vec or BERT represent words as dense vectors capturing semantic relationships between them.
+Model evaluation metrics such as precision and recall are important for binary classification tasks, where accuracy alone is insufficient.
+The RMSprop optimizer adapts the learning rate based on the moving average of squared gradients to improve training stability.
+In multi-class classification problems, SVMs use a "one-vs-rest" or "one-vs-one" approach to handle multiple classes simultaneously.
+CNNs utilize spatial hierarchies through convolutional layers and max pooling to capture local patterns and their relationships at different scales.

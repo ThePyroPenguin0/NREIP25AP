@@ -64,7 +64,7 @@ def get_keyword_frequency(answers_list, min_length=5, top_n=15):
     return [word for word, _ in common]
 
 def main():
-    filepath = r'C:\Users\glipo\Documents\GitHub\NREIP25AP\ChatLogs\chat-granite3.3-8B_RAG_1.txt'
+    filepath = r'C:\Users\glipo\Documents\GitHub\NREIP25AP\ExperimentLogs\Cogito\cogito_rag_5.txt'
     # format_questions(filepath)
     correct_answers_list, incorrect_answers_list = read_quiz(filepath)
 
@@ -86,9 +86,9 @@ def main():
         incorrect_frequency = print_word_frequencies(incorrect_answers_list, word)
         if incorrect_frequency != 0:
             percent_more_likely = (correct_frequency / incorrect_frequency) * 100
-            print(f'"The word {word}" is {percent_more_likely:.2f}% as likely to appear in correct answers compared to incorrect answers.\n')
+            print(f'The word "{word}" is {percent_more_likely:.2f}% as likely to appear in correct answers compared to incorrect answers.\n')
         elif(correct_frequency == 0):
-            print(f'"{word}" is not present in the correct answers list.\n')
+            print(f'The word "{word}" is not present in the correct answers list.\n')
         else:
             print(f'Any answer with "{word}" will always be correct.\n')
 

@@ -1,0 +1,59 @@
+1. Decision trees use a top-down approach to build models — Student's answer: False
+
+2. k-NN is an unsupervised learning algorithm — Student's answer: False
+
+3. SVMs can be linear or non-linear in nature — Student's answer: True
+
+4. Regularization techniques help prevent overfitting by adding constraints to the model — Student's answer: True
+
+5. The cross-validation technique is used to evaluate the generalization performance of a model — Student's answer: True
+
+6. CNNs are primarily used for image classification tasks — Student's answer: True
+
+7. RNNs are specifically designed for sequential data processing — Student's answer: True
+
+8. Transformers use self-attention mechanisms to weigh the importance of different parts of the input sequence — Student's answer: True
+
+9. The vanishing gradient problem is unique to deep neural networks — Student's answer: False
+
+10. Batch normalization helps in reducing internal covariate shift — Student's answer: True
+
+11. ReLU activation function outputs negative values for negative inputs — Student's answer: False
+
+12. Backpropagation involves calculating the gradients of the loss with respect to all weights and biases in a network — Student's answer: True
+
+13. The Adam optimizer combines elements from AdaGrad, RMSProp, and momentum-based methods — Student's answer: True
+
+14. Overfitting occurs when a model learns the training data too well that it performs poorly on new unseen data — Student's answer: True
+
+15. Dropout is a regularization technique that randomly sets neurons to zero during training — Student's answer: True
+
+16. The mean squared error (MSE) loss function measures the average of the squares of the errors between actual and predicted values — Student's answer: True
+
+17. Softmax activation function is commonly used in the output layer for multi-class classification problems — Student's answer: True
+
+18. Residual connections help in training deeper neural networks by allowing gradient flow around skip connections — Student's answer: True
+
+19. k-NN algorithms can use different distance metrics (like Euclidean, Manhattan, etc.) to measure similarity between points — Student's answer: True
+
+20. The perceptron is a linear classifier that uses the activation function to classify data points based on a hyperplane — Student's answer: True
+
+21. Gradient descent with momentum helps in converging faster by maintaining some component of the previous update vector — Student's answer: True
+
+22. L1 regularization (also known as Lasso) tends to produce sparse models by setting many weights to exactly zero — Student's answer: True
+
+23. The concept of feature learning refers to the ability of neural networks to automatically learn relevant features from raw input data — Student's answer: True
+
+24. Transfer learning involves using a pre-trained model and fine-tuning it for a specific task — Student's answer: True
+
+25. Batch processing allows models to process multiple samples in parallel during training — Student's answer: True
+
+26. The concept of overfitting can be avoided by increasing the complexity of the model — Student's answer: False
+
+27. Random forests are an ensemble learning method that combines multiple decision trees for better prediction performance — Student's answer: True
+
+28. Deep belief networks combine restricted Boltzmann machines (RBMs) to create deep neural architectures — Student's answer: True
+
+29. The concept of learning rate annealing involves gradually decreasing the learning rate during training to achieve better convergence — Student's answer: True
+
+30. CNNs use convolutional layers to detect local patterns in images through spatial hierarchies and feature maps — Student's answer: True

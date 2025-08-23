@@ -1,0 +1,119 @@
+1. What are the main differences between narrow AI and general AI? Include examples of each type in your answer.
+
+// Student answer: Narrow AI refers to systems designed for specific tasks (like playing chess or recognizing faces), while general AI aims to match human-level intelligence across all domains. Examples of narrow AI include Siri, self-driving cars, and recommendation algorithms, while general AI remains a theoretical concept like in science fiction movies.
+
+2. Explain the key components and differences between supervised learning and unsupervised learning.
+
+// Student answer: Supervised learning involves training with labeled data where correct outputs are provided, using techniques like classification and regression to learn patterns. Unsupervised learning works with unlabeled data, identifying hidden structures or patterns without explicit guidance. Examples include neural networks for image recognition (supervised) versus clustering algorithms like k-means (unsupervised).
+
+3. Describe the role of neural networks in modern AI systems.
+
+// Student answer: Neural networks are inspired by biological neurons, using interconnected layers of nodes to learn complex patterns from data. They excel at tasks requiring pattern recognition, image processing, and natural language understanding. Modern AI relies heavily on deep learning architectures like CNNs for images and RNNs/LSTMs for sequential data.
+
+4. What is the significance of the Turing Test in AI development?
+
+// Student answer: The Turing Test, proposed by Alan Turing, is a benchmark test to determine if a machine exhibits intelligent behavior equivalent to humans. It involves an evaluator conversing with both a human and machine without knowing which is which. Passing this test would demonstrate true artificial general intelligence.
+
+5. Explain the concept of knowledge representation in AI.
+
+// Student answer: Knowledge representation refers to how information is structured and organized within an AI system to facilitate reasoning and inference. Common representations include semantic networks, ontologies, production rules, and logical formulas. Each format has advantages for specific types of knowledge handling.
+
+6. What are the main ethical considerations in developing AI systems?
+
+// Student answer: Key ethical concerns include bias and fairness in decision-making, privacy protection of user data, transparency in system operations, accountability for AI-driven outcomes, job displacement due to automation, and ensuring AI benefits society equitably.
+
+7. Describe the purpose and functionality of search algorithms in AI.
+
+// Student answer: Search algorithms are used to find optimal solutions in complex problem spaces by exploring possible paths or states systematically. Common approaches include depth-first search, breadth-first search, A* algorithm, and genetic algorithms. They're essential for tasks like pathfinding, game playing, scheduling, and planning.
+
+8. What is the difference between symbolic AI and connectionist AI?
+
+// Student answer: Symbolic AI uses rule-based systems and logical reasoning to represent knowledge explicitly in a system's memory, while connectionist AI (neural networks) learns patterns from data through interconnected nodes that adjust their connections based on training examples.
+
+9. Explain the concept of reinforcement learning.
+
+// Student answer: Reinforcement learning involves an agent learning to make decisions by interacting with an environment and receiving rewards or penalties based on its actions. The goal is to maximize cumulative reward over time, using trial-and-error exploration combined with value function estimation.
+
+10. What are decision trees and how do they differ from neural networks?
+
+// Student answer: Decision trees are hierarchical models that split data into branches based on attribute values, creating a tree-like structure for classification or regression. Neural networks, in contrast, use interconnected layers of neurons to learn complex non-linear patterns through backpropagation training.
+
+11. Describe the concept of feature extraction in machine learning.
+
+// Student answer: Feature extraction is the process of selecting and transforming raw input data into more meaningful and useful features for model training. Techniques include dimensionality reduction (PCA), convolutional filters, word embeddings, and engineered statistical measures. Effective feature representation is crucial for accurate ML models.
+
+12. What is the difference between supervised and unsupervised learning in terms of their requirements and applications?
+
+// Student answer: Supervised learning requires labeled training data with correct output examples to learn from, typically used for prediction or classification tasks. Unsupervised learning works with unlabeled data to discover hidden patterns or groupings, commonly used for clustering, dimensionality reduction, and anomaly detection.
+
+13. Explain the concept of backpropagation in neural networks.
+
+// Student answer: Backpropagation is a gradient-based optimization algorithm that calculates the error gradient through the network layers during training. It propagates errors backward from the output layer to adjust connection weights, allowing the network to learn optimal parameter values for minimizing prediction errors.
+
+14. What are the main components of an expert system?
+
+// Student answer: Expert systems consist of a knowledge base containing domain-specific rules and facts, an inference engine that applies logical reasoning to draw conclusions, a user interface for interaction, and a database component storing relevant information. These elements work together to simulate human expertise in specific domains.
+
+15. Describe the significance of the No Free Lunch Theorem in machine learning.
+
+// Student answer: The No Free Lunch Theorem states that no algorithm outperforms all others across all possible problems when averaging performance over the entire space of problems. This implies that optimizing for one problem often means degrading performance on other problems, highlighting the importance of problem-specific algorithm design.
+
+16. What is the difference between parametric and non-parametric models?
+
+// Student answer: Parametric models make strong assumptions about data distribution and use fixed set of parameters (like linear regression), while non-parametric models can adapt to any underlying pattern without predefined structure (like k-nearest neighbors or neural networks).
+
+17. Explain the concept of transfer learning in machine learning.
+
+// Student answer: Transfer learning involves using knowledge learned from one task to improve performance on a different but related task, often by pre-training a model on large datasets and fine-tuning it for specific applications. This approach leverages existing patterns to accelerate learning new tasks with limited data.
+
+18. What is the role of genetic algorithms in AI optimization?
+
+// Student answer: Genetic algorithms are inspired by natural evolution, using techniques like selection, crossover, and mutation to evolve solutions through simulated "natural selection." They're particularly useful for optimization problems where traditional methods fail, especially in high-dimensional search spaces or with complex constraints.
+
+19. Describe the concept of Bayesian networks in AI.
+
+// Student answer: Bayesian networks are probabilistic graphical models that represent variables and their conditional dependencies using directed acyclic graphs (DAGs). They combine Bayes' theorem with structural representation to model uncertainty and infer missing information, useful for diagnosis, prediction, and causal reasoning tasks.
+
+20. What is the significance of the Vanishing Gradient Problem in deep learning?
+
+// Student answer: The vanishing gradient problem occurs during backpropagation when gradients become too small due to repeated multiplication through layers with activation functions like sigmoid or tanh, leading to slow learning in deep networks. Solutions include using ReLU activations and gradient clipping techniques.
+
+21. Explain the concept of attention mechanisms in neural networks.
+
+// Student answer: Attention mechanisms allow models to focus on specific parts of input data that are most relevant for a given task, dynamically weighting different elements based on their importance. They've revolutionized natural language processing tasks by enabling more effective handling of long-range dependencies and context-aware processing.
+
+22. What is the difference between feature selection and feature extraction?
+
+// Student answer: Feature selection involves choosing the most relevant existing features from raw data to use in model training, while feature extraction involves creating new, transformed features that capture more complex patterns or relationships not apparent in the original data. Both approaches aim to improve model performance by focusing on important information.
+
+23. Describe the concept of ensemble learning in machine learning.
+
+// Student answer: Ensemble learning combines multiple models to produce a single prediction, typically using techniques like bagging (random forests), boosting (AdaBoost), or stacking (combining predictions from different classifiers). These methods leverage diverse perspectives to improve robustness and accuracy compared to individual models.
+
+24. What is the significance of the Halting Problem in AI?
+
+// Student answer: The Halting Problem, proven impossible by Turing, states that it's undecidable whether a given program will halt or run forever on all inputs. This fundamental limitation affects AI system design and highlights the need for approximation methods rather than seeking absolute solutions.
+
+25. Explain the concept of dimensionality reduction in machine learning.
+
+// Student answer: Dimensionality reduction involves reducing the number of variables in data while preserving important information, using techniques like PCA (Principal Component Analysis), t-SNE, or autoencoders. This helps manage high-dimensional datasets and improves model performance by focusing on principal components that capture most variance.
+
+26. What is the role of reinforcement learning in robotics?
+
+// Student answer: Reinforcement learning enables robots to learn control policies through trial-and-error interaction with their environment, receiving rewards for successful actions and penalties for failures. This approach allows autonomous navigation, manipulation tasks, and adaptive behavior without pre-programmed rules, making it crucial for real-world robotic systems.
+
+27. Describe the concept of explainable AI (XAI).
+
+// Student answer: Explainable AI refers to techniques that make machine learning models' decisions transparent and interpretable, using methods like feature importance analysis, partial dependence plots, or attention mechanisms to provide insights into model reasoning. This is essential for building trust in AI systems and ensuring fair decision-making processes.
+
+28. What is the significance of the Pigeonhole Principle in AI?
+
+// Student answer: The Pigeonhole Principle states that if n items are put into m containers with fewer than n containers, at least one container must contain more than one item. This fundamental concept influences algorithm design and analysis, particularly in tasks involving classification or resource allocation where uniqueness is critical.
+
+29. Explain the concept of online learning versus offline learning.
+
+// Student answer: Online learning (also called incremental learning) involves models that learn from data as it arrives, updating parameters incrementally without revisiting past examples. This approach allows for continuous adaptation and processing new information in real-time. Offline learning occurs when the entire dataset is available at once, allowing batch updates and optimizations over the entire training set.
+
+30. Describe the concept of meta-learning in AI.
+
+// Student answer: Meta-learning involves training models to learn how to learn efficiently from limited data by identifying good learning strategies or architectures for specific tasks. This approach enables faster adaptation to new problems with minimal retraining, making it particularly valuable for transfer learning and lifelong learning scenarios.

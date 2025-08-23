@@ -1,0 +1,100 @@
+﻿**Question List:**
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit __________.
+2. The process of teaching a computer to recognize patterns in unlabeled data is called __________ learning.
+3. A rule-based system uses __________ to make decisions based on predefined conditions.
+4. Alpha-beta pruning is an optimization technique used in __________ algorithms.
+5. The ability of a system to reason about what it believes rather than what is actually true is called __________ reasoning.
+6. Neural networks are inspired by the structure and function of the human __________.
+7. Gradient descent is an optimization algorithm used to find the minimum value of a __________.
+8. The concept of training a model on input-output pairs without showing the __________ between them.
+9. A neural network with three or more layers is called a __________ network.
+10. Ethical considerations in AI development include issues related to __________, fairness, and transparency.
+11. The branch of computer science that focuses on the creation of intelligent agents capable of __________ interactions with humans.
+12. Backpropagation is an algorithm used to efficiently calculate gradients in multi-layer neural networks.
+13. A __________ tree is a search strategy that explores all possible paths from the root node before backtracking.
+14. The process of reducing uncertainty about an event or outcome through __________ evidence.
+15. In reinforcement learning, the agent receives __________ after each action based on its environment.
+16. A knowledge representation system that uses a semantic network to represent relationships between concepts is called a __________ network.
+17. The ability of an AI system to improve through experience without human intervention is known as __________ learning.
+18. A decision tree algorithm that creates binary splits based on the most significant features is called a __________ tree.
+19. In logic, the principle of __________ states that if both P and Q are true, then their conjunction (P ∧ Q) must be true.
+20. The field of study that focuses on developing systems capable of human-like visual perception is called __________ Vision.
+21. A search algorithm that explores a solution space by moving from the root node to its neighbors in some order is known as __________ search.
+22. The concept of creating systems that can understand and respond to natural language is called __________ Language Processing.
+23. In machine learning, overfitting occurs when a model learns the training data too well but performs poorly on new __________.
+24. The process of converting high-dimensional data into a lower-dimensional representation while preserving key relationships is called __________ learning.
+25. A neural network with multiple input nodes, one hidden layer, and one output node is used for basic __________ classification tasks.
+26. The ethical principle that suggests AI systems should be designed to benefit all stakeholders rather than a select few is known as __________ justice.
+27. In reinforcement learning, the challenge of discovering an optimal policy without knowing the environment's dynamics is called the __________ problem.
+28. The concept of representing knowledge in a form that computers can understand and reason with is known as __________ representation.
+29. A type of neural network that uses gated recurrent units to process sequential data is called a __________ network.
+30. The field of study that focuses on the development and application of systems capable of simulating human cognitive processes is called __________ Science.
+
+**Answer List:**
+1. intelligent behavior
+2. unsupervised
+3. if-then rules
+4. minimax
+5. probabilistic
+6. brain
+7. cost function
+8. intermediate results
+9. deep
+10. bias
+11. natural language
+12. backward propagation
+13. breadth-first
+14. statistical
+15. reward signal
+16. frame-based
+17. reinforcement
+18. CART
+19. non-contradiction
+20. computer
+21. depth-first
+22. Natural
+23. data points
+24. dimensionality reduction
+25. binary
+26. distributive
+27. exploration-exploitation dilemma
+28. symbolic
+29. long short-term memory (LSTM)
+30. Cognitive
+
+And here are the questions with answers included and underlined:
+
+**Exam Questions:**
+Here's the second part of my output with answers in parentheses:
+
+**Exam Questions:**
+1. Artificial Intelligence is the field of study concerned with creating systems that exhibit (intelligent behavior).
+2. The process of teaching a computer to recognize patterns in unlabeled data is called (unsupervised) learning.
+3. A rule-based system uses (if-then rules) to make decisions based on predefined conditions.
+4. Alpha-beta pruning is an optimization technique used in (minimax) algorithms.
+5. The ability of a system to reason about what it believes rather than what is actually true is called (probabilistic) reasoning.
+6. Neural networks are inspired by the structure and function of the human (brain).
+7. Gradient descent is an optimization algorithm used to find the minimum value of a (cost function).
+8. The concept of training a model on input-output pairs without showing the (intermediate results) between them.
+9. A neural network with three or more layers is called a (deep) network.
+10. Ethical considerations in AI development include issues related to (bias), fairness, and transparency.
+11. The branch of computer science that focuses on the creation of intelligent agents capable of (natural language) interactions with humans.
+12. (Backpropagation) is an algorithm used to efficiently calculate gradients in multi-layer neural networks.
+13. A (breadth-first) tree is a search strategy that explores all possible paths from the root node before backtracking.
+14. The process of reducing uncertainty about an event or outcome through (statistical) evidence.
+15. In reinforcement learning, the agent receives (reward signal) after each action based on its environment.
+16. A knowledge representation system that uses a semantic network to represent relationships between concepts is called a (frame-based) network.
+17. The ability of an AI system to improve through experience without human intervention is known as (reinforcement) learning.
+18. A decision tree algorithm that creates binary splits based on the most significant features is called a (CART) tree.
+19. In logic, the principle of (non-contradiction) states that if both P and Q are true, then their conjunction (P ∧ Q) must be true.
+20. The field of study that focuses on developing systems capable of human-like visual perception is called (computer) Vision.
+21. A search algorithm that explores a solution space by moving from the root node to its neighbors in some order is known as (depth-first) search.
+22. The concept of creating systems that can understand and respond to natural language is called (Natural) Language Processing.
+23. In machine learning, overfitting occurs when a model learns the training data too well but performs poorly on new (data points).
+24. The process of converting high-dimensional data into a lower-dimensional representation while preserving key relationships is called (dimensionality reduction) learning.
+25. A neural network with multiple input nodes, one hidden layer, and one output node is used for basic (binary) classification tasks.
+26. The ethical principle that suggests AI systems should be designed to benefit all stakeholders rather than a select few is known as (distributive) justice.
+27. In reinforcement learning, the challenge of discovering an optimal policy without knowing the environment's dynamics is called the (exploration-exploitation dilemma) problem.
+28. The concept of representing knowledge in a form that computers can understand and reason with is known as (symbolic) representation.
+29. A type of neural network that uses gated recurrent units to process sequential data is called a (long short-term memory (LSTM)) network.
+30. The field of study that focuses on the development and application of systems capable of simulating human cognitive processes is called (Cognitive) Science.

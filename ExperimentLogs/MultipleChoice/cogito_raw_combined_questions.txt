@@ -1,0 +1,150 @@
+What does the term "Artificial Intelligence" (AI) refer to?
+Which of these is NOT a type of machine learning?
+In the context of AI, what does "neural network" refer to?
+What is the difference between machine learning and deep learning?
+Which AI technique is used for decision-making tasks where the outcome depends on multiple factors?
+What does "training data" mean in machine learning?
+Which of these is an example of unsupervised learning?
+What does the term "backpropagation" refer to in neural networks?
+Which type of AI focuses on understanding and generating human language?
+What is the difference between overfitting and underfitting in machine learning models?
+What does the term "convolutional neural network" (CNN) refer to?
+Which AI technique is typically used for playing games like chess or Go?
+What is the purpose of regularization in machine learning models?
+Which type of AI focuses on understanding and analyzing images and videos?
+What is the difference between a parametric and non-parametric model?
+What does the term "feature engineering" refer to in machine learning?
+Which AI technique is typically used for speech recognition systems?
+What does the term "gradient descent" refer to in machine learning optimization?
+Which type of AI focuses on understanding and generating human speech?
+What is the purpose of cross-validation in machine learning?
+Which AI technique is typically used for recommendation systems like Netflix or Amazon?
+What does the term "activation function" refer to in neural networks?
+Which type of AI focuses on understanding and generating human emotions?
+What is the difference between supervised and unsupervised learning?
+Which AI technique is typically used for facial recognition systems?
+What does the term "neural network architecture" refer to in deep learning?
+Which AI technique is typically used for time series forecasting?
+What does the term "data preprocessing" refer to in machine learning?
+Which AI technique is typically used for autonomous vehicles?
+What does the term "loss function" refer to in machine learning?
+Which of the following is NOT a common application of machine learning?
+What does the term "neural network" refer to?
+Which type of learning is considered supervised learning?
+What does "backpropagation" mean in neural networks?
+Which of the following is an example of reinforcement learning?
+What is the purpose of normalization in neural networks?
+Which type of machine learning is used for classification tasks?
+What does "overfitting" mean in the context of AI models?
+Which algorithm is commonly used for clustering?
+What is the purpose of cross-validation in machine learning?
+Which type of neural network architecture is most commonly used for image recognition?
+What does "batch size" refer to in neural network training?
+Which of the following is an example of unsupervised learning?
+What is the purpose of the "loss function" in neural networks?
+Which type of learning requires labeled data?
+What is the purpose of regularization in neural networks?
+Which algorithm is commonly used for feature selection?
+What does "gradient descent" refer to in machine learning?
+Which type of neural network is best suited for time series data?
+What is the purpose of hyperparameter tuning in machine learning?
+Which algorithm is commonly used for dimensionality reduction?
+What does "validation set" refer to in machine learning?
+Which type of neural network is best suited for natural language processing tasks?
+What is the purpose of data augmentation in machine learning?
+Which algorithm is commonly used for regression tasks?
+What does "epoch" refer to in neural network training?
+Which type of learning is considered semi-supervised?
+What is the purpose of dropout in neural networks?
+Which algorithm is commonly used for text classification?
+What does "model generalization" refer to in machine learning?
+Which term best describes the ability of machines to perform tasks that typically require human intelligence?
+What is a neural network?
+Which AI technique involves training models on large amounts of data to learn patterns and make decisions?
+What is the difference between narrow AI and general AI?
+What is a feature in machine learning?
+In what type of learning does the model try to predict outputs based on provided inputs?
+What is an AI agent?
+Which concept describes the ability to recognize patterns in data without explicit instructions?
+What is the purpose of a loss function in machine learning?
+How does backpropagation work in neural networks?
+What is a bias term in machine learning?
+Which type of AI involves training on labeled data pairs (input-output)?
+What is the vanishing gradient problem?
+How does a decision tree differ from a neural network?
+What is the difference between a classifier and a regressor?
+What is overfitting in machine learning?
+How does stochastic gradient descent work?
+What is regularization in machine learning?
+How does batch normalization work?
+What is transfer learning?
+How does reinforcement learning work?
+What is the difference between supervised and unsupervised learning?
+How do neural networks learn to recognize patterns?
+What is the role of convolutional layers in neural networks?
+How does an AI agent make decisions based on its environment?
+What is the difference between deep learning and machine learning?
+How does natural language processing (NLP) differ from computer vision?
+What is the purpose of pre-processing in machine learning?
+How does ensemble methods work in AI?
+What is the concept of "curse of dimensionality"?
+Which of the following best describes Artificial Intelligence?
+What is machine learning?
+Neural networks are based on how the human brain works, which includes:
+What is a decision tree?
+The main advantage of using reinforcement learning over supervised learning is:
+What is a bias-variance tradeoff?
+Natural Language Processing (NLP) is primarily used for:
+Deep learning models require:
+What is the difference between supervised and unsupervised learning?
+Which of the following best describes an AI algorithm?
+What is data preprocessing in machine learning?
+Neural networks learn by:
+What is overfitting in machine learning?
+Which type of machine learning is used for image recognition?
+What does the term "deep" in deep learning refer to?
+Machine learning algorithms can be divided into three main categories: supervised, unsupervised, and:
+What is the purpose of regularization in machine learning?
+Natural Language Processing (NLP) can be used for:
+What is the difference between deep learning and machine learning?
+Neural network layers can be categorized into three main types: convolutional, pooling, and:
+What is a support vector machine (SVM)?
+Which of the following is true about reinforcement learning?
+What is a genetic algorithm (GA)?
+Deep reinforcement learning combines deep learning with:
+What is the purpose of transfer learning in AI?
+What is the role of hyperparameters in machine learning?
+Which of the following best describes an AI system's performance metrics?
+What is the difference between supervised and semi-supervised learning?
+Which of the following is true about deep neural networks?
+What is the purpose of using embeddings in AI models?
+What is the primary goal of artificial intelligence?
+Which field focuses on giving machines the ability to perform tasks that typically require human intelligence?
+What is the term for algorithms that automatically improve with experience?
+Which component of an AI system is responsible for making decisions based on input data and learned patterns?
+What is the term for systems that can learn from their own experiences without being explicitly programmed?
+Which of the following is NOT a common application of artificial intelligence?
+What does the term "neural network" refer to in AI?
+Which approach involves training an AI system using labeled data?
+What is the purpose of feature extraction in machine learning?
+Which type of learning involves an AI system improving its performance through trial and error?
+What is the term for data used to train an AI model?
+Which of the following is NOT a common challenge in AI development?
+What is the purpose of cross-validation in machine learning?
+Which AI approach involves training a system to learn from its own experiences and decisions?
+What is the term for an AI model that learns hierarchical representations of data?
+Which type of learning involves finding patterns in unlabeled data?
+What is the purpose of regularization in machine learning models?
+Which AI approach involves transferring knowledge from one domain to another?
+What is the term for an AI system that makes decisions based on input data and learned patterns without explicit programming?
+Which of the following is NOT a common evaluation metric for machine learning models?
+What is the purpose of data preprocessing in machine learning?
+Which AI approach involves using labeled examples to train a system to make predictions?
+What is the term for an AI model that learns from sequences of data, like time series or text?
+Which type of learning involves using unlabeled data to find patterns and structure in the input space?
+What is the purpose of hyperparameter tuning in machine learning?
+Which AI approach involves using reinforcement learning to train agents through trial and error?
+What is the term for an AI model that learns from multiple input sources simultaneously?
+Which type of learning involves using labeled data to train a system to make predictions, with the goal of minimizing errors on unseen data?
+What is the purpose of validation in machine learning?
+Which AI approach involves using deep neural networks to learn hierarchical representations of complex patterns?
